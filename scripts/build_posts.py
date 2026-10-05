@@ -5,7 +5,8 @@ GitHub Actions가 posts/ 변경 시 자동 실행한다. 직접 실행: python3 
 import json, re, sys, pathlib, datetime
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-CATEGORIES = ["개발협력 동향", "데이터 인사이트", "성과측정 방법론", "통계 기법", "AI 활용"]
+# 분류(category)는 아직 정하지 않았다. 정해지면 이 목록을 채워 입력값 검사에 쓴다(사이트의 분류 버튼은 그때 다시 만든다).
+CATEGORIES = []
 STATUS = {"published", "draft"}
 SLUG = re.compile(r"^[a-z0-9][a-z0-9-]{2,80}$")
 
@@ -38,11 +39,11 @@ def main():
             meta, body = parse(p.read_text(encoding="utf-8"))
             if not SLUG.match(slug):
                 raise ValueError("파일 이름은 영문 소문자·숫자·하이픈만 씁니다(예: 2026-10-pdm-indicators.md)")
-            for k in ("title", "date", "category", "summary"):
+            for k in ("title", "date", "summary"):
                 if not meta.get(k):
                     raise ValueError(f"'{k}' 항목이 비어 있습니다")
             datetime.date.fromisoformat(meta["date"])
-            if meta["category"] not in CATEGORIES:
+            if CATEGORIES and meta.get("category") and meta["category"] not in CATEGORIES:
                 raise ValueError(f"분류는 다음 중 하나: {', '.join(CATEGORIES)}")
             status = meta.get("status", "draft")
             if status not in STATUS:
@@ -53,7 +54,7 @@ def main():
             words = len(re.sub(r"\s+", "", body))
             items.append({
                 "slug": slug, "title": meta["title"], "date": meta["date"],
-                "category": meta["category"], "summary": meta["summary"],
+                "category": meta.get("category", ""), "summary": meta["summary"],
                 "tags": tags, "author": meta.get("author", "kardis"),
                 "status": status, "ai": str(meta.get("ai", "no")).lower() in ("yes", "true", "y"),
                 "minutes": max(1, round(words / 500)),

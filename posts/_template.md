@@ -1,7 +1,6 @@
 ---
 title: 글 제목을 적습니다
 date: 2026-10-05
-category: 성과측정 방법론
 summary: 목록에 보일 한두 문장 요약입니다.
 tags: [PDM, 성과지표]
 author: kardis

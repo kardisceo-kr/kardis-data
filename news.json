@@ -3,6 +3,83 @@
   "note": "매일 갱신되는 파일. 항목은 제목·출처·링크·두세 문장 요약만 담고 본문은 싣지 않는다. verified=false는 제목만 확인하고 본문은 읽지 못한 항목.",
   "items": [
     {
+      "iso3": "LKA",
+      "date": "2026-10-05",
+      "cat": "경제",
+      "title": "IMF, 스리랑카 확대신용 7차 점검 실무진 합의",
+      "summary": "IMF와 스리랑카가 확대신용 프로그램 7차 점검에 실무진 수준으로 합의했다. IMF는 국내 유류가격을 국제가격에 연동할 것을 권고했고, 이사회가 승인하면 약 3억 4,500만 달러가 지급된다. 9월 물가상승률은 전년 대비 8%로 보도됐다.",
+      "source": "Newswire (Sri Lanka)",
+      "url": "https://www.newswire.lk/2026/10/05/imf-urges-sri-lanka-to-let-fuel-prices-rise-with-global-markets-as-risks-mount/",
+      "why": "유가 연동·재정 조정이 현지 사업비와 상대기관 예산 가정에 미치는 영향을 점검할 것.",
+      "verified": true
+    },
+    {
+      "iso3": "PER",
+      "date": "2026-10-03",
+      "cat": "정치",
+      "title": "페루, 10월 4일 지방·리마 시장 선거 실시",
+      "summary": "10월 4일 광역자치단체장 25명과 시장 등 약 1만 3천여 직위를 뽑는 지방선거가 치러진다. 대통령·의회 선거는 포함되지 않으며, 경찰·군 약 9만 9천 명이 선거 경비에 투입된다. 9월 19일 주지사 후보가 피살된 사건이 보도됐다.",
+      "source": "Rio Times",
+      "url": "https://www.riotimesonline.com/peru-regional-lima-elections-vote-eve-analysis-2026/",
+      "why": "당선 지자체장 교체에 따른 상대기관 담당자 변경과 사업 승인 일정 지연 여부를 점검할 것.",
+      "verified": true
+    },
+    {
+      "iso3": "PRY",
+      "date": "2026-10-03",
+      "cat": "정치",
+      "title": "파라과이, 10월 4일 전국 지방선거 실시",
+      "summary": "10월 4일 263개 시·군의 시장과 지방의회를 뽑는 선거가 열린다. 유권자는 약 504만 명이며, 집권 콜로라도당이 2028년 대선을 앞두고 우위 유지를 노린다.",
+      "source": "Rio Times",
+      "url": "https://www.riotimesonline.com/paraguay-municipal-elections-vote-eve-preview-2026/",
+      "why": "지방정부 협력 사업이 있다면 선거 결과에 따른 상대기관 변동을 점검할 것.",
+      "verified": true
+    },
+    {
+      "iso3": "ETH",
+      "date": "2026-10-02",
+      "cat": "정치",
+      "title": "에티오피아·이집트, 상호 외교관 추방",
+      "summary": "에티오피아가 이집트 외교관을 기피 인물로 선언하자 이집트도 에티오피아 대사관 참사관에 같은 조치로 맞섰다. 알라마타 일대 교전으로 사흘간 민간인 52명 이상이 숨졌다는 보도가 있다.",
+      "source": "Rio Times",
+      "url": "https://www.riotimesonline.com/africa-intelligence-brief-friday-october-2-2026",
+      "why": "북부 지역 출장·현지 인력 이동 계획과 역내 정세 변화에 따른 비상연락 체계를 점검할 것.",
+      "verified": true
+    },
+    {
+      "iso3": "SEN",
+      "date": "2026-10-02",
+      "cat": "경제",
+      "title": "세네갈·IMF, 10월 6일 외부 채권자 설명회 개최",
+      "summary": "세네갈과 IMF가 10월 6일 외부 채권자를 상대로 화상 설명회를 열어 경제·재정 상황과 부채 처리 전략을 공유한다. 공식 부채 재편 협상의 시작으로 보도됐다.",
+      "source": "bne IntelliNews",
+      "url": "https://www.intellinews.com/senegal-and-imf-to-brief-external-creditors-on-october-6-as-debt-treatment-talks-begin-473036/",
+      "why": "채무 재편 진행에 따른 재정 여건이 상대기관 예산·대응자금 확보에 미치는 영향을 점검할 것.",
+      "verified": true
+    },
+    {
+      "iso3": "BOL",
+      "date": "2026-10-02",
+      "cat": "경제",
+      "title": "볼리비아, IMF 19억 달러 대출 이사회 표결 예정",
+      "summary": "IMF 이사회가 10월 2일 3년 만기 19억 달러 대출 프로그램을 표결할 예정이었다. 의회는 9월 중순 승인을 마쳤고, 경유 보조금 폐지로 경유 가격이 리터당 9.80에서 17.95볼리비아노로 올랐다. 표결 결과는 해당 기사에 없다.",
+      "source": "Rio Times",
+      "url": "https://www.riotimesonline.com/bolivia-imf-board-vote-october-2-2026/",
+      "why": "연료비 상승과 환율 변화가 사업비 산정에 미치는 영향을 점검할 것.",
+      "verified": true
+    },
+    {
+      "iso3": "TZA",
+      "date": "2026-10-02",
+      "cat": "경제",
+      "title": "세계은행, 탄자니아 경제보고서 발표",
+      "summary": "세계은행은 탄자니아의 2026년 성장률을 6.1%로 전망하고 중기 평균 6.5%를 제시했다. 보고서는 일자리 양보다 질이 과제라며 교육·기술·사회보호 투자를 권고했다.",
+      "source": "World Bank",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/02/investing-in-better-jobs-faster-growth-new-world-bank-group-report",
+      "why": "일자리·인적자본 분야 사업 설계 시 보고서의 정책 권고와 정합성을 확인할 것.",
+      "verified": true
+    },
+    {
       "iso3": "ETH",
       "date": "2026-10-02",
       "cat": "정치",
@@ -14,15 +91,48 @@
       "verified": true
     },
     {
-      "iso3": "VNM",
-      "date": "2026-04-24",
+      "iso3": "TJK",
+      "date": "2026-10-01",
       "cat": "경제",
-      "title": "한-베 핵심광물 공급망 협력, ODA 기술협력센터 출범",
-      "summary": "한국과 베트남이 핵심광물 공급망 협력을 위한 ODA 기술협력센터를 공식 출범했다는 보도.",
-      "source": "네이트뉴스",
-      "url": "https://news.nate.com/view/20260424n25949",
-      "why": "광물·산업 분야 신규 사업 발굴 시 협력 창구가 하나 늘었다.",
+      "title": "타지키스탄·러시아, 2030년까지 교역 2.5배 목표",
+      "summary": "두샨베 정부간위원회에서 양국이 2030년까지 교역을 2.5배로 늘리기로 했다. 올해 상반기 교역은 25% 증가했고, 에너지·교통·디지털·원자력 협력이 논의됐다.",
+      "source": "Asia-Plus",
+      "url": "https://asiaplus.news/en/2026/10/02/tajikistan-and-russia-plan-to-increase-trade-turnover-2-5-times-by-2030/",
+      "why": "에너지·교통·디지털 분야에서 타 공여국과의 중복 여부를 사업 발굴 시 확인할 것.",
+      "verified": true
+    },
+    {
+      "iso3": "IDN",
+      "date": "2026-10-01",
+      "cat": "정치",
+      "title": "인도네시아 대통령, 신임 외교장관 임명",
+      "summary": "인도네시아 대통령이 새 외교장관을 임명했다는 보도. 본문은 확인하지 못함.",
+      "source": "U.S. News",
+      "url": "https://www.usnews.com/news/world/articles/2026-10-01/indonesia-president-appoints-new-foreign-minister",
+      "why": "외교부 라인 협의 채널과 정부간 합의 일정에 변동이 있는지 점검할 것.",
       "verified": false
+    },
+    {
+      "iso3": "PER",
+      "date": "2026-10-01",
+      "cat": "경제",
+      "title": "페루 물가상승률, 3년 만에 최고 속도 보도",
+      "summary": "블룸버그가 페루 물가상승률이 3년 내 가장 빠르게 오르고 있다고 보도했다. 본문은 확인하지 못함.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-01/peru-s-inflation-accelerates-to-fastest-pace-in-three-years",
+      "why": "물가 상승이 현지 비용 가정에 미치는 영향을 점검할 것.",
+      "verified": false
+    },
+    {
+      "iso3": "KEN",
+      "date": "2026-09-30",
+      "cat": "경제",
+      "title": "케냐 9월 물가상승률 6.8%, 2024년 1월 이후 최고",
+      "summary": "케냐 통계청 발표 기준 9월 물가상승률은 6.8%로 석 달 연속 올랐다. 식품 9.5%, 교통 15.6% 상승이 두드러졌고 휘발유는 리터당 약 215실링이다.",
+      "source": "Rio Times",
+      "url": "https://www.riotimesonline.com/kenya-inflation-6-8-per-cent-september-2026/",
+      "why": "물가 상승에 따른 현지 조달·인건비 단가 재산정 필요성을 점검할 것.",
+      "verified": true
     },
     {
       "iso3": "VNM",

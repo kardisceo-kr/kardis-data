@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-05",
+  "updated": "2026-10-06",
   "note": "매일 갱신되는 파일. 항목은 제목·출처·링크·두세 문장 요약만 담고 본문은 싣지 않는다. verified=false는 제목만 확인하고 본문은 읽지 못한 항목.",
   "items": [
+    {
+      "iso3": "PHL",
+      "date": "2026-10-05",
+      "cat": "경제",
+      "title": "필리핀 9월 물가, 6%대 후반 전망",
+      "summary": "민간 전망 조사의 중간값은 9월 물가상승률 6.7%(범위 6.3~7.0%)로 8월 6.1%보다 높다. 연료·식품 가격, 폭우에 따른 공급 차질, 페소 약세가 요인으로 꼽힌다. 통계청 공식 발표는 10월 6일 예정이다.",
+      "source": "Philstar",
+      "url": "https://www.philstar.com/business/2026/10/05/2560916/poll-september-inflation-likely-rose-67",
+      "why": "사업비 산정과 현지 조달단가에 물가·환율 변동이 반영되는지 점검할 필요가 있다.",
+      "verified": true
+    },
     {
       "iso3": "LKA",
       "date": "2026-10-05",
@@ -11,6 +22,28 @@
       "source": "Newswire (Sri Lanka)",
       "url": "https://www.newswire.lk/2026/10/05/imf-urges-sri-lanka-to-let-fuel-prices-rise-with-global-markets-as-risks-mount/",
       "why": "유가 연동·재정 조정이 현지 사업비와 상대기관 예산 가정에 미치는 영향을 점검할 것.",
+      "verified": true
+    },
+    {
+      "iso3": "ETH",
+      "date": "2026-10-04",
+      "cat": "정치",
+      "title": "이집트 알라메인서 4개국 정상회의, 군사협력 강화 천명",
+      "summary": "이집트가 에리트레아·수단·소말리아 정상을 알라메인에 초청해 4자 회의를 열고 군사협력 확대와 홍해 항로 보호를 밝혔다. 에티오피아는 이들 국가가 티그라이 반군을 지원한다고 주장해 왔으며, 최근 이집트와 상호 외교관을 추방하고 에리트레아 대사관을 폐쇄했다.",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/mena/2026/10/04/egypt-hosts-four-way-summit-as-tensions-with-ethiopia-escalate/",
+      "why": "역내 긴장 확대에 따라 현지 출장·체류 안전 공지와 사업지역 접근 경로를 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "PER",
+      "date": "2026-10-04",
+      "cat": "정치",
+      "title": "페루 지방선거 실시, 광역 14곳 결선 가능성",
+      "summary": "10월 4일 지방·리마 시장 선거가 치러졌고 출구조사상 14개 지역이 11월 29일 주지사 결선으로 갈 수 있다. 리마 시장은 개표 부분 집계에서 레노바시온 포풀라르 후보 명단이 28.9%로 앞섰으며 연임 제한을 둘러싼 법적 다툼이 있다. 공식 집계는 아직 진행 중이다.",
+      "source": "Rio Times",
+      "url": "https://www.riotimesonline.com/peru-regional-election-results-14-regions-runoff-29-november-2026/",
+      "why": "사업 대상 지역의 주지사 확정 시점과 결선 일정에 맞춰 협의 상대를 점검할 필요가 있다.",
       "verified": true
     },
     {

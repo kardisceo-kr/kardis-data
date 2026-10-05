@@ -1,0 +1,27 @@
+name: 게시글 목록 갱신
+on:
+  push:
+    branches: [main]
+    paths: ["posts/**", "scripts/build_posts.py"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: posts-index
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: posts.json 생성
+        run: python3 scripts/build_posts.py
+      - name: 변경 시 커밋
+        run: |
+          if git diff --quiet -- posts.json; then echo "변경 없음"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add posts.json
+          git commit -m "게시글 목록 갱신"
+          for i in 1 2 3; do git pull --rebase origin main && git push && exit 0; sleep 5; done
+          exit 1

@@ -1,10 +1,12 @@
 # kardis-data
 
-kardis 홈페이지의 「중점협력국 동향」이 읽는 공개 데이터 저장소입니다.
+kardis 홈페이지의 「중점협력국 동향」과 「인사이트」가 읽는 공개 데이터 저장소입니다.
 
 - `news.json` — 중점협력국 정치·경제·사회 동향. 매일 1회 갱신.
 - `countries.json` — 중점협력국 25개국 목록과 표시 지표(세계은행 지표 코드).
 - `RULES.md` — 동향 작성 규칙.
+- `posts/` — 인사이트 게시글(마크다운, 파일 하나가 글 하나). 작성 규칙은 `POSTS.md`.
+- `posts.json` — 게시글 목록. `posts/`가 바뀌면 GitHub Actions가 자동으로 다시 만듭니다(`scripts/build_posts.py`).
 
 사이트: https://kardis.kr (준비 중) · 문의: kardisceo@gmail.com
 

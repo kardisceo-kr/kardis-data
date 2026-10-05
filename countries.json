@@ -1,0 +1,199 @@
+{
+  "basis": "제4차 국제개발협력 종합기본계획(2026–2030) 중점협력국 25개국. 제3차 27개국에서 미얀마·우크라이나·콜롬비아 제외, 케냐 추가.",
+  "regions": [
+    "아시아",
+    "아프리카",
+    "중남미",
+    "중동·CIS"
+  ],
+  "countries": [
+    {
+      "iso3": "NPL",
+      "ko": "네팔",
+      "en": "Nepal",
+      "region": "아시아"
+    },
+    {
+      "iso3": "LAO",
+      "ko": "라오스",
+      "en": "Lao PDR",
+      "region": "아시아"
+    },
+    {
+      "iso3": "MNG",
+      "ko": "몽골",
+      "en": "Mongolia",
+      "region": "아시아"
+    },
+    {
+      "iso3": "BGD",
+      "ko": "방글라데시",
+      "en": "Bangladesh",
+      "region": "아시아"
+    },
+    {
+      "iso3": "VNM",
+      "ko": "베트남",
+      "en": "Viet Nam",
+      "region": "아시아"
+    },
+    {
+      "iso3": "LKA",
+      "ko": "스리랑카",
+      "en": "Sri Lanka",
+      "region": "아시아"
+    },
+    {
+      "iso3": "IDN",
+      "ko": "인도네시아",
+      "en": "Indonesia",
+      "region": "아시아"
+    },
+    {
+      "iso3": "KHM",
+      "ko": "캄보디아",
+      "en": "Cambodia",
+      "region": "아시아"
+    },
+    {
+      "iso3": "PAK",
+      "ko": "파키스탄",
+      "en": "Pakistan",
+      "region": "아시아"
+    },
+    {
+      "iso3": "PHL",
+      "ko": "필리핀",
+      "en": "Philippines",
+      "region": "아시아"
+    },
+    {
+      "iso3": "GHA",
+      "ko": "가나",
+      "en": "Ghana",
+      "region": "아프리카"
+    },
+    {
+      "iso3": "RWA",
+      "ko": "르완다",
+      "en": "Rwanda",
+      "region": "아프리카"
+    },
+    {
+      "iso3": "SEN",
+      "ko": "세네갈",
+      "en": "Senegal",
+      "region": "아프리카"
+    },
+    {
+      "iso3": "ETH",
+      "ko": "에티오피아",
+      "en": "Ethiopia",
+      "region": "아프리카"
+    },
+    {
+      "iso3": "UGA",
+      "ko": "우간다",
+      "en": "Uganda",
+      "region": "아프리카"
+    },
+    {
+      "iso3": "EGY",
+      "ko": "이집트",
+      "en": "Egypt",
+      "region": "아프리카"
+    },
+    {
+      "iso3": "TZA",
+      "ko": "탄자니아",
+      "en": "Tanzania",
+      "region": "아프리카"
+    },
+    {
+      "iso3": "KEN",
+      "ko": "케냐",
+      "en": "Kenya",
+      "region": "아프리카"
+    },
+    {
+      "iso3": "BOL",
+      "ko": "볼리비아",
+      "en": "Bolivia",
+      "region": "중남미"
+    },
+    {
+      "iso3": "PRY",
+      "ko": "파라과이",
+      "en": "Paraguay",
+      "region": "중남미"
+    },
+    {
+      "iso3": "PER",
+      "ko": "페루",
+      "en": "Peru",
+      "region": "중남미"
+    },
+    {
+      "iso3": "AZE",
+      "ko": "아제르바이잔",
+      "en": "Azerbaijan",
+      "region": "중동·CIS"
+    },
+    {
+      "iso3": "UZB",
+      "ko": "우즈베키스탄",
+      "en": "Uzbekistan",
+      "region": "중동·CIS"
+    },
+    {
+      "iso3": "KGZ",
+      "ko": "키르기스스탄",
+      "en": "Kyrgyz Republic",
+      "region": "중동·CIS"
+    },
+    {
+      "iso3": "TJK",
+      "ko": "타지키스탄",
+      "en": "Tajikistan",
+      "region": "중동·CIS"
+    }
+  ],
+  "indicators": [
+    {
+      "id": "NY.GDP.MKTP.KD.ZG",
+      "ko": "경제성장률",
+      "unit": "%",
+      "fmt": "pct"
+    },
+    {
+      "id": "NY.GDP.PCAP.CD",
+      "ko": "1인당 GDP",
+      "unit": "US$",
+      "fmt": "usd"
+    },
+    {
+      "id": "FP.CPI.TOTL.ZG",
+      "ko": "물가상승률",
+      "unit": "%",
+      "fmt": "pct"
+    },
+    {
+      "id": "SP.POP.TOTL",
+      "ko": "인구",
+      "unit": "명",
+      "fmt": "int"
+    },
+    {
+      "id": "DT.ODA.ODAT.CD",
+      "ko": "순 ODA 수원액",
+      "unit": "US$",
+      "fmt": "usdB"
+    },
+    {
+      "id": "SP.DYN.LE00.IN",
+      "ko": "기대수명",
+      "unit": "세",
+      "fmt": "dec1"
+    }
+  ]
+}

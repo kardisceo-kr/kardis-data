@@ -1,0 +1,50 @@
+{
+  "updated": "2026-10-05",
+  "note": "매일 갱신되는 파일. 항목은 제목·출처·링크·두세 문장 요약만 담고 본문은 싣지 않는다. verified=false는 제목만 확인하고 본문은 읽지 못한 항목.",
+  "items": [
+    {
+      "iso3": "ETH",
+      "date": "2026-10-02",
+      "cat": "정치",
+      "title": "에리트레아, 에티오피아와 외교 관계 단절",
+      "summary": "에티오피아가 아스마라 주재 대사관을 폐쇄하고 에리트레아 외교관 10명을 추방하자, 에리트레아가 10월 1일 외교 관계를 끊었다. 티그라이 반군과 정부군의 교전 속에서 분쟁이 수단·이집트로 번질 수 있다는 경고가 나온다.",
+      "source": "OkayAfrica",
+      "url": "https://www.okayafrica.com/today-in-africa-october-2-2026-ethiopia-eritrea-rift-raises-regional-war-fears-eu-suspends-aid-to-sierra-leone/1440442",
+      "why": "북부(티그라이·아파르) 사업장의 접근성과 안전 계획, 현지 인력 이동 제한을 점검할 것.",
+      "verified": true
+    },
+    {
+      "iso3": "VNM",
+      "date": "2026-04-24",
+      "cat": "경제",
+      "title": "한-베 핵심광물 공급망 협력, ODA 기술협력센터 출범",
+      "summary": "한국과 베트남이 핵심광물 공급망 협력을 위한 ODA 기술협력센터를 공식 출범했다는 보도.",
+      "source": "네이트뉴스",
+      "url": "https://news.nate.com/view/20260424n25949",
+      "why": "광물·산업 분야 신규 사업 발굴 시 협력 창구가 하나 늘었다.",
+      "verified": false
+    },
+    {
+      "iso3": "VNM",
+      "date": "2026",
+      "cat": "경제",
+      "title": "베트남, 고속철도 사업에 일본 ODA 차관 요청",
+      "summary": "베트남 정부가 남북 고속철도 사업을 위해 일본에 새 ODA 차관을 요청했다는 보도.",
+      "source": "vietnam.vn",
+      "url": "https://www.vietnam.vn/ko/de-nghi-nhat-cap-khoan-vay-oda-moi-cho-duong-sat-toc-do-cao-cua-viet-nam",
+      "why": "대형 인프라의 재원 경쟁 구도(일본·한국·중국)를 EDCF 제안 시 참고.",
+      "verified": false
+    },
+    {
+      "iso3": "UZB",
+      "date": "2026",
+      "cat": "경제",
+      "title": "IMF·EBRD·ADB, 우즈베키스탄 차기 개혁 우선순위 제시",
+      "summary": "국제기구 세 곳이 우즈베키스탄의 다음 개혁 단계 우선순위를 밝혔다는 보도. 본문은 확인하지 못함.",
+      "source": "UzDaily",
+      "url": "https://www.uzdaily.uz/en/imf-ebrd-and-adb-outline-priorities-for-uzbekistans-next-reform-stage/",
+      "why": "공기업·금융 부문 개혁 방향이 F/S 단계 사업의 상대기관 역량 가정에 영향.",
+      "verified": false
+    }
+  ]
+}

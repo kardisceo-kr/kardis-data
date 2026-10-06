@@ -1,7 +1,40 @@
 {
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "note": "매일 갱신되는 파일. 항목은 제목·출처·링크·두세 문장 요약만 담고 본문은 싣지 않는다. verified=false는 제목만 확인하고 본문은 읽지 못한 항목.",
   "items": [
+    {
+      "iso3": "PHL",
+      "date": "2026-10-06",
+      "cat": "경제",
+      "title": "필리핀 9월 물가 7.2%, 3년 만에 최고 수준 기록",
+      "summary": "필리핀 9월 소비자물가 상승률이 7.2%로 8월(6.1%)보다 높아졌다. 식품·비주류 음료가 상승을 이끌었고 주거·전기·연료 항목도 올랐다. 중앙은행 전망 범위(6.4~7.4%) 안의 수치다.",
+      "source": "마닐라타임스",
+      "url": "https://www.manilatimes.net/2026/10/06/business/food-transport-energy-push-inflation-up-to-72-in-sept/2439563",
+      "why": "물가 상승에 따른 현지 인건비·조달 단가 변동이 사업 예산에 미치는 영향을 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "SEN",
+      "date": "2026-10-06",
+      "cat": "재난",
+      "title": "다카르 폭우·돌발홍수로 시가지 침수",
+      "summary": "10월 6일 이전 주말 다카르 일부 지역이 폭우와 돌발홍수로 침수됐고 인명 및 기반시설 피해가 보고됐다. 전국 사망자 규모는 확인되지 않았다.",
+      "source": "Rio Times",
+      "url": "https://www.riotimesonline.com/africa-intelligence-brief-tuesday-october-6-2026/",
+      "why": "침수에 따른 현장 접근·이동과 사업 일정 영향 여부를 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "ETH",
+      "date": "2026-10-05",
+      "cat": "정치",
+      "title": "아비 총리 2기 취임, 홍해 접근권 재차 언급",
+      "summary": "아비 아머드 총리가 10월 5일 두 번째 5년 임기를 시작하며 취임식에서 내륙국 에티오피아의 홍해 접근 필요성을 다시 언급했다. 이에 앞서 이집트·에리트레아·소말리아·수단은 10월 4일 공동선언을 발표했다.",
+      "source": "Rio Times",
+      "url": "https://www.riotimesonline.com/africa-intelligence-brief-tuesday-october-6-2026/",
+      "why": "역내 외교 갈등 전개에 따른 출장·현장 운영 계획과 협력기관 일정 영향을 점검할 필요가 있다.",
+      "verified": true
+    },
     {
       "iso3": "PHL",
       "date": "2026-10-05",
@@ -44,6 +77,17 @@
       "source": "Rio Times",
       "url": "https://www.riotimesonline.com/peru-regional-election-results-14-regions-runoff-29-november-2026/",
       "why": "사업 대상 지역의 주지사 확정 시점과 결선 일정에 맞춰 협의 상대를 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "VNM",
+      "date": "2026-10-03",
+      "cat": "경제",
+      "title": "베트남 9월 물가 5%대, 연료·전기 가격이 주도",
+      "summary": "베트남 통계청은 9월 소비자물가가 전월 대비 0.62%, 전년 동월 대비 5.08% 올랐다고 발표했다. 1~9월 누계 상승률은 4.52%이며 연료·가스·전기 가격 상승이 주된 요인으로 제시됐다.",
+      "source": "인민일보(Nhan Dan)",
+      "url": "https://en.nhandan.vn/viet-nams-cpi-rises-452-in-first-nine-months-of-2026-post167326.html",
+      "why": "물가 상승이 현지 사업비·인건비 계획에 미치는 영향을 점검할 필요가 있다.",
       "verified": true
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "note": "매일 갱신되는 파일. 항목은 제목·출처·링크·두세 문장 요약만 담고 본문은 싣지 않는다. verified=false는 제목만 확인하고 본문은 읽지 못한 항목.",
   "items": [
     {
@@ -22,6 +22,17 @@
       "source": "UzDaily",
       "url": "https://www.uzdaily.uz/en/mirziyoyev-to-visit-turkmenistan-on-7-9-october/",
       "why": "정상회의 결과로 나올 역내 에너지·무역 협력 합의가 우리 사업 분야와 겹치는지 확인할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "ETH",
+      "date": "2026-10-06",
+      "cat": "경제",
+      "title": "에티오피아 대통령, 2026/27 회계연도 성장률 10.1% 목표 제시",
+      "summary": "타예 앗스케 셀라시에 대통령이 10월 6일 상·하원 합동 개회식에서 2026/27 회계연도 경제성장률 목표를 10.1%로 밝혔다. 지난 회계연도 성장률은 10.2%, 수출액은 112억 달러, 외국인직접투자는 45억 달러로 발표됐다. 국내 세입 확충 조치도 추진 과제로 언급됐다.",
+      "source": "Xinhua(The Star 게재)",
+      "url": "https://www.thestar.com.my/news/world/2026/10/07/ethiopian-president-projects-101-pct-economic-growth-for-current-fiscal-year",
+      "why": "신정부의 국정 목표와 세입 확충 조치가 사업 예산·조달 일정에 미치는 영향을 점검할 필요가 있음.",
       "verified": true
     },
     {
@@ -99,6 +110,17 @@
       "source": "Rio Times",
       "url": "https://www.riotimesonline.com/peru-regional-election-results-14-regions-runoff-29-november-2026/",
       "why": "사업 대상 지역의 주지사 확정 시점과 결선 일정에 맞춰 협의 상대를 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "VNM",
+      "date": "2026-10-03",
+      "cat": "경제",
+      "title": "베트남 9월 상품수지 12억 7천만 달러 흑자, 9개월 만에 적자 탈피",
+      "summary": "베트남 통계청은 9월 상품수지가 약 12억 7천만 달러 흑자를 기록해 9개월 연속 적자가 끝났다고 10월 3일 발표했다. 9월 수출입 총액은 1,176억 9천만 달러로 전월 대비 7.3% 늘었다.",
+      "source": "VietnamPlus(VNA)",
+      "url": "https://en.vietnamplus.vn/morning-digest-on-october-5-post353064.vnp",
+      "why": "무역수지 개선이 환율·외환 여건에 미치는 영향을 사업 예산 점검에 반영할 필요가 있음.",
       "verified": true
     },
     {

@@ -1,7 +1,24 @@
 {
- "updated": "2026-10-06 00:01",
+ "updated": "2026-10-09 11:36",
  "categories": [],
  "items": [
+  {
+   "slug": "2026-10-inflation-fx-paths",
+   "title": "물가가 오르면 사업은 어디서 먼저 흔들리는가",
+   "date": "2026-10-09",
+   "category": "",
+   "summary": "네 나라의 9월 물가를 바탕으로, 물가와 환율이 사업 산출물과 성과 목표를 흔드는 세 가지 경로를 가상 사업 계산으로 살펴봅니다.",
+   "tags": [
+    "성과지표",
+    "예산",
+    "물가",
+    "환율"
+   ],
+   "author": "kardis",
+   "status": "published",
+   "ai": true,
+   "minutes": 12
+  },
   {
    "slug": "2026-10-format-check",
    "title": "게시글 화면 점검용 예시",

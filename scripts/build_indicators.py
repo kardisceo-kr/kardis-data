@@ -110,7 +110,8 @@ def pink_sheet():
             if col is not None:
                 break
         if col is None:
-            raise ValueError(f"{sheet_name}: '{pattern}' 열 없음")
+            peek = [[c for c in r[:14] if c is not None] for r in rows[:10]]
+            raise ValueError(f"{sheet_name}: '{pattern}' 열 없음. 머리 행: {peek}"[:900])
         out = []
         for row in rows[hdr_i + 1:]:
             k = row[0]
@@ -126,7 +127,7 @@ def pink_sheet():
     price_sheet = next(s for s in sheets if "Monthly Prices" in s)
     index_sheet = next(s for s in sheets if "Monthly Indices" in s)
     brent = [[d, r2(v)] for d, v in column(price_sheet, r"^Crude oil, Brent")]
-    food = [[d, r2(v, 1)] for d, v in column(index_sheet, r"^\s*Food\s*$")]
+    food = [[d, r2(v, 1)] for d, v in column(index_sheet, r"^\s*(i?FOOD|Food)\b")]
     common = {"freq": "월간", "source": "세계은행 Commodity Price Data(Pink Sheet), CC BY 4.0",
               "source_url": "https://www.worldbank.org/en/research/commodity-markets", "note": ""}
     return [
@@ -176,7 +177,7 @@ def main():
                 x["fetched"] = TODAY.isoformat()
                 items[x["id"]] = x
         except Exception as e:  # 실패하면 이전 값을 유지
-            errors.append(f"{fn.__name__}: {type(e).__name__}: {e}"[:300])
+            errors.append(f"{fn.__name__}: {type(e).__name__}: {e}"[:1000])
             for i in ids:
                 if i in prev:
                     items[i] = dict(prev[i], stale=True)

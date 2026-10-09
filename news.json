@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "note": "매일 갱신되는 파일. 항목은 제목·출처·링크·두세 문장 요약만 담고 본문은 싣지 않는다. verified=false는 제목만 확인하고 본문은 읽지 못한 항목.",
   "items": [
+    {
+      "iso3": "GHA",
+      "date": "2026-10-07",
+      "cat": "경제",
+      "title": "가나 9월 물가상승률 5.2%, 두 달 연속 상승",
+      "summary": "가나 통계청이 발표한 9월 소비자물가 상승률은 전년 동월 대비 5.2%로 8월 5.0%보다 높아졌다. 서비스 물가가 8.3%, 주거·수도·에너지 부문이 10.3% 올랐고 식품은 4.0%였다.",
+      "source": "MyJoyOnline(가나 통계청 발표 인용)",
+      "url": "https://www.myjoyonline.com/inflation-rises-to-5-2-in-september-2026-as-cost-in-services-sector-still-high/",
+      "why": "사업비 산정 시 현지 서비스·에너지 단가 상승분을 반영할지 점검할 필요가 있습니다.",
+      "verified": true
+    },
     {
       "iso3": "ETH",
       "date": "2026-10-07",
@@ -256,6 +267,17 @@
       "verified": false
     },
     {
+      "iso3": "KHM",
+      "date": "2026-09-30",
+      "cat": "사회",
+      "title": "캄보디아 총리, 2027년 의류·신발 업종 최저임금 월 212달러로 결정",
+      "summary": "훈 마네트 총리가 최저임금위원회 표결 뒤 2027년 의류·섬유·신발·여행용품 업종 최저임금을 월 212달러로 발표했다. 현행 210달러에서 2달러 오른 수준이며 2027년 1월 1일부터 적용된다. 해당 업종 공장은 1,800여 곳, 노동자는 약 110만 명이다.",
+      "source": "The Star",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/30/cambodia-raises-monthly-minimum-wage-for-garment-workers-to-us212-for-2027",
+      "why": "봉제 분야 일자리·직업훈련 사업은 임금 기준 변경에 따른 사업비와 성과지표 목표값 조정 여부를 점검할 필요가 있습니다.",
+      "verified": true
+    },
+    {
       "iso3": "KEN",
       "date": "2026-09-30",
       "cat": "경제",
@@ -264,6 +286,17 @@
       "source": "Rio Times",
       "url": "https://www.riotimesonline.com/kenya-inflation-6-8-per-cent-september-2026/",
       "why": "물가 상승에 따른 현지 조달·인건비 단가 재산정 필요성을 점검할 것.",
+      "verified": true
+    },
+    {
+      "iso3": "NPL",
+      "date": "2026-09-27",
+      "cat": "재난",
+      "title": "네팔 힘룽 히말 베이스캠프 눈사태, 사망·실종자 발생",
+      "summary": "9월 27일 네팔 북서부 힘룽 히말(해발 7,126m) 베이스캠프에 눈사태가 덮쳐 가이드 등 사망자와 다수의 실종자가 발생했다. 악천후로 구조대 도착이 늦어졌고 사망·실종자 수는 보도마다 집계가 다르다.",
+      "source": "Khaleej Times",
+      "url": "https://www.khaleejtimes.com/world/asia/missing-climbers-guides-nepal-avalanche-himlung-peak",
+      "why": "고산지대 사업지 출장 계획 시 기상·산악 경보와 구조·이송 체계를 점검할 필요가 있습니다.",
       "verified": true
     },
     {
@@ -288,5 +321,13 @@
       "why": "공기업·금융 부문 개혁 방향이 F/S 단계 사업의 상대기관 역량 가정에 영향.",
       "verified": false
     }
-  ]
+  ],
+  "checked": {
+    "NPL": "2026-10-10",
+    "GHA": "2026-10-10",
+    "EGY": "2026-10-10",
+    "KHM": "2026-10-10",
+    "AZE": "2026-10-10",
+    "PAK": "2026-10-10"
+  }
 }

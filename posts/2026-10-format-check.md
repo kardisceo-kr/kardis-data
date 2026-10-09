@@ -32,6 +32,12 @@ ai: yes
 
 마지막 문단입니다.
 
+## 그림은 이렇게 보입니다
+
+![그림 1. 물가·환율이 사업에 닿는 세 가지 경로](https://raw.githubusercontent.com/kardisceo-kr/kardis-data/main/posts/img/2026-10-inflation-fx-paths/fig1.png)
+
+그림 아래 설명 문단입니다. 위에 그림이 보이지 않고 대체 글만 보이면 화면 코드가 그림을 지원하지 않는 것입니다.
+
 ## 출처
 
 - 화면 점검용 예시이므로 출처가 없습니다.

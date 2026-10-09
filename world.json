@@ -1,0 +1,223 @@
+{
+ "updated": "2026-10-09",
+ "period": "2026-10-02 ~ 2026-10-08",
+ "lead": "케냐에서 에볼라 수입 확진 사례가 보고되고 에티오피아·에리트레아가 외교 관계를 끊었으며, IMF 총재와 세계은행 남아시아 보고서는 높은 에너지 가격을 언급했다.",
+ "items": [
+  {
+   "cat": "보건",
+   "title": "케냐, 콩고민주공화국에서 유입된 에볼라 첫 확진 사례 보고",
+   "summary": "케냐 보건부는 10월 6일 콩고민주공화국에 거주하던 자국민이 육로로 우간다 캄팔라를 거쳐 10월 3일 항공편으로 나이로비에 도착한 뒤 숨졌으며 에볼라로 확진됐다고 발표했다. WHO는 10월 7일 브리핑에서 콩고민주공화국 누적 확진 8,665명·사망 4,178명, 케냐 접촉자 55명 모니터링을 밝히고, 일괄적인 여행·무역 제한은 권고하지 않는다고 했다.",
+   "date": "2026-10-06",
+   "channels": [
+    "현장 안전"
+   ],
+   "countries": [
+    "KEN",
+    "UGA"
+   ],
+   "why": "케냐·우간다 사업장의 출입국 검역 절차, 현지 인력의 증상 신고·격리 지침, 콩고민주공화국 인접 지역 출장 일정을 점검합니다.",
+   "sources": [
+    {
+     "name": "WHO",
+     "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---7-october-2026"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/6/kenya-confirms-first-ebola-case-after-patient-from-dr-congo-dies-in-nairobi"
+    }
+   ],
+   "verified": true
+  },
+  {
+   "cat": "분쟁",
+   "title": "에티오피아·에리트레아 외교 관계 단절, 유엔 사무부총장 아디스아바바 방문",
+   "summary": "에리트레아는 에티오피아의 아스마라 주재 대사관 폐쇄와 자국 외교관 10명 추방에 대응해 외교 관계를 끊었고, 에티오피아는 이집트 외교관 1명에게도 출국을 명령했다. 유엔 대변인은 에티오피아 북부의 드론 활동·공습 증가가 민간인과 인도적 활동을 위협한다고 밝혔으며, 아미나 모하메드 유엔 사무부총장은 10월 8일 아디스아바바에서 에티오피아 외교장관을 만났다. 유엔 안보리는 에티오피아 북부 상황에 대해 이사국 대상 비공개 협의를 열 예정이다(일자 미발표).",
+   "date": "2026-10-08",
+   "channels": [
+    "현장 안전"
+   ],
+   "countries": [
+    "ETH",
+    "EGY"
+   ],
+   "why": "티그라이·아파르·아므하라 사업지의 접근 가능 여부, 현지 인력 비상연락 체계, 대사관 안전 공지 변경 사항을 점검합니다.",
+   "sources": [
+    {
+     "name": "The Reporter Ethiopia",
+     "url": "https://www.thereporterethiopia.com/53290"
+    },
+    {
+     "name": "The Reporter Ethiopia",
+     "url": "https://www.thereporterethiopia.com/53202/"
+    }
+   ],
+   "verified": true
+  },
+  {
+   "cat": "경제",
+   "title": "세계은행, 사하라 이남 아프리카 4.3%·남아시아 6.9% 성장 전망 발표",
+   "summary": "세계은행은 10월 6일 지역 경제 전망에서 2026년 성장률을 사하라 이남 아프리카 4.3%, 남아시아 6.9%로 제시했다. 남아시아 보고서는 에너지 가격 고공 지속을, 사하라 이남 아프리카 보고서는 원자재 가격 추가 상승 가능성을 위험 요인으로 꼽았다. 게오르기에바 IMF 총재는 10월 7일 싱가포르에서 한 연차총회 사전 연설에서 원유가 배럴당 100달러 안팎에 머물고 있다고 밝혔고, 같은 보도는 호르무즈 해협 운송 위험으로 LNG 공급이 차질을 빚고 있다고 전했다.",
+   "date": "2026-10-07",
+   "channels": [
+    "협력국 재정·환율"
+   ],
+   "countries": [],
+   "why": "연료·운송비 비중이 큰 사업의 단가 가정과 예비비, 협력국 상대기관의 예산 집행 일정을 점검합니다.",
+   "sources": [
+    {
+     "name": "World Bank",
+     "url": "https://www.worldbank.org/en/news/press-release/2026/10/06/economic-growth-in-sub-saharan-africa-gains-momentum-despite-global-uncertainty"
+    },
+    {
+     "name": "World Bank",
+     "url": "https://www.worldbank.org/en/news/press-release/2026/10/06/south-asia-s-strong-growth-defies-global-headwinds"
+    },
+    {
+     "name": "The Nation Thailand",
+     "url": "https://www.nationthailand.com/business/economy/40071989"
+    }
+   ],
+   "verified": true
+  },
+  {
+   "cat": "경제",
+   "title": "IMF, 볼리비아 확대신용 19억 달러 승인·세네갈 채권자 설명회 주재",
+   "summary": "IMF 이사회는 10월 2일 볼리비아에 대한 36개월 확대신용(EFF) SDR 13억 6,900만(약 19억 달러)을 승인했고, SDR 1억 5,600만(약 2억 1,400만 달러)을 즉시 지급한다. 10월 6일에는 IMF 직원이 세네갈 정부 요청으로 주재한 화상 회의에서 세네갈 정부와 IMF가 외부 채권자에게 경제 상황과 부채 처리 전략을 설명했다.",
+   "date": "2026-10-06",
+   "channels": [
+    "협력국 재정·환율"
+   ],
+   "countries": [
+    "BOL",
+    "SEN"
+   ],
+   "why": "볼리비아는 연료보조금 단계적 폐지 등 프로그램 조건이, 세네갈은 부채 처리 일정이 상대기관 예산·대응자금과 현지 단가 가정에 반영되는지 점검합니다.",
+   "sources": [
+    {
+     "name": "IMF(Mirage News 게재)",
+     "url": "https://www.miragenews.com/imf-approves-36-month-loan-program-for-bolivia-1754669/"
+    },
+    {
+     "name": "세네갈 재무예산부",
+     "url": "https://finances.gouv.sn/en/actualites/press-release-creditors-virtual-meeting"
+    }
+   ],
+   "verified": true
+  }
+ ],
+ "crises": [
+  {
+   "type": "감염병",
+   "name": "에볼라 유행",
+   "where": "콩고민주공화국·케냐",
+   "countries": [
+    "KEN",
+    "UGA"
+   ],
+   "status": "WHO 10월 7일 브리핑 기준 콩고민주공화국 누적 확진 8,665명·사망 4,178명. 케냐는 10월 6일 수입 사례 1건(사망) 확진, 접촉자 55명 모니터링.",
+   "asof": "2026-10-07",
+   "source": "WHO",
+   "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---7-october-2026"
+  },
+  {
+   "type": "분쟁",
+   "name": "에티오피아 북부 긴장",
+   "where": "에티오피아 북부(티그라이)",
+   "countries": [
+    "ETH",
+    "EGY"
+   ],
+   "status": "에티오피아·에리트레아 외교 관계 단절. 유엔 대변인은 드론 활동·공습 증가가 민간인과 인도적 활동을 위협한다고 밝힘. 안보리 비공개 협의 예정(일자 미발표).",
+   "asof": "2026-10-08",
+   "source": "The Reporter Ethiopia(유엔 발언 인용)",
+   "url": "https://www.thereporterethiopia.com/53290"
+  },
+  {
+   "type": "분쟁",
+   "name": "수단 분쟁",
+   "where": "수단",
+   "countries": [
+    "EGY",
+    "ETH"
+   ],
+   "status": "안보리는 10월 중 120일 정례 브리핑과 1591 제재 체제 연장안 표결 예정.",
+   "asof": "2026-10-01",
+   "source": "Security Council Report",
+   "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-10/"
+  },
+  {
+   "type": "분쟁",
+   "name": "호르무즈 해협 에너지 운송 차질",
+   "where": "호르무즈 해협",
+   "countries": [],
+   "status": "IMF 총재 10월 7일 연설: 원유 배럴당 100달러 안팎. 같은 보도: 호르무즈 해협 운송 위험으로 LNG 공급 차질.",
+   "asof": "2026-10-07",
+   "source": "The Nation Thailand(IMF 총재 연설 보도)",
+   "url": "https://www.nationthailand.com/business/economy/40071989"
+  },
+  {
+   "type": "분쟁",
+   "name": "가자지구 인도적 위기",
+   "where": "가자지구",
+   "countries": [],
+   "status": "WHO: 10월 10일로 휴전 발효 1년, 200만 명 가까이의 필요가 막대하고 보건 상황이 심각하다고 밝힘.",
+   "asof": "2026-10-07",
+   "source": "WHO",
+   "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---7-october-2026"
+  },
+  {
+   "type": "재난",
+   "name": "다카르 폭우·돌발홍수",
+   "where": "세네갈 다카르",
+   "countries": [
+    "SEN"
+   ],
+   "status": "10월 6일 이전 주말 폭우로 다카르 일부 지역 침수, 인명·기반시설 피해 보고. 공식 피해 집계 미확인.",
+   "asof": "2026-10-06",
+   "source": "Rio Times",
+   "url": "https://www.riotimesonline.com/africa-intelligence-brief-tuesday-october-6-2026/"
+  }
+ ],
+ "calendar": [
+  {
+   "date": "2026-10-12",
+   "title": "IMF·세계은행 연차총회(방콕, 10월 12~18일)",
+   "kind": "회의",
+   "countries": [],
+   "url": "https://www.imf.org/en/meetings/2026/annual"
+  },
+  {
+   "date": "2026-10-13",
+   "title": "IMF 세계경제전망(WEO) 10월호 발표",
+   "kind": "발표",
+   "countries": [],
+   "url": "https://www.imf.org/en/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026"
+  },
+  {
+   "date": "2026-10-14",
+   "title": "COP31 의장단 주재 수석대표 비공식 협의(화상)",
+   "kind": "회의",
+   "countries": [],
+   "url": "https://unfccc.int/cop31/the-road-to-antalya"
+  },
+  {
+   "date": "2026-11-09",
+   "title": "제31차 유엔기후변화협약 당사국총회(COP31, 튀르키예 안탈리아, 11월 9~20일)",
+   "kind": "회의",
+   "countries": [],
+   "url": "https://unfccc.int/cop31/the-road-to-antalya"
+  },
+  {
+   "date": "2026-11-18",
+   "title": "제33차 APEC 정상회의(중국 선전, 11월 18~19일)",
+   "kind": "회의",
+   "countries": [
+    "VNM",
+    "IDN",
+    "PHL",
+    "PER"
+   ],
+   "url": "https://www.lg.gov.cn/english/news/latestnews/content/post_12588327.html"
+  }
+ ]
+}

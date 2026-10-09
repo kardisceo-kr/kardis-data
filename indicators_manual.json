@@ -1,0 +1,23 @@
+{
+ "note": "자동 수집이 어려운 연간 지표. OECD 등 발표가 바뀌면 월요일 세계 동향 예약 작업 또는 사람이 고친다. 숫자마다 출처 문서를 적는다.",
+ "items": [
+  {
+   "id": "oda",
+   "label": "공여국 ODA 총액(2025, 잠정)",
+   "unit": "억 달러",
+   "freq": "연간",
+   "value": 1743,
+   "asof": "2025",
+   "change_pct": -23.1,
+   "change_note": "전년 대비 실질 증감, 집계 이래 최대 감소",
+   "extra": [
+    {"k": "ODA/GNI", "v": "0.26% (2024년 0.34%)"},
+    {"k": "한국", "v": "약 39억 달러, 실질 −2.3%, ODA/GNI 0.20%"}
+   ],
+   "why": "공여국 예산이 줄면 다자기구 사업과 협력국 정부의 재원 계획이 함께 흔들리고, 남은 재원에는 성과 근거가 더 엄격하게 요구됩니다.",
+   "source": "OECD, Preliminary ODA levels in 2025: Detailed Summary Note, DCD(2026)8 (2026-04-09)",
+   "source_url": "https://one.oecd.org/document/DCD(2026)8/en/pdf",
+   "note": ""
+  }
+ ]
+}

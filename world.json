@@ -1,105 +1,126 @@
 {
- "updated": "2026-10-09",
- "period": "2026-10-02 ~ 2026-10-08",
- "lead": "케냐에서 에볼라 수입 확진 사례가 보고되고 에티오피아·에리트레아가 외교 관계를 끊었으며, IMF 총재와 세계은행 남아시아 보고서는 높은 에너지 가격을 언급했다.",
+ "updated": "2026-10-12",
+ "period": "2026-10-05 ~ 2026-10-11",
+ "lead": "에티오피아 연방군이 메켈레를 장악한 뒤 유엔이 티그라이 구호 창고 약탈을 밝혔고, 호르무즈 해협 유조선 공격이 2월 28일 이후 주간 최다(로이터 인용)를 기록했으며, IMF는 파키스탄·르완다와 프로그램 점검 실무진 합의를 발표했다.",
  "items": [
   {
-   "cat": "보건",
-   "title": "케냐, 콩고민주공화국에서 유입된 에볼라 첫 확진 사례 보고",
-   "summary": "케냐 보건부는 10월 6일 콩고민주공화국에 거주하던 자국민이 육로로 우간다 캄팔라를 거쳐 10월 3일 항공편으로 나이로비에 도착한 뒤 숨졌으며 에볼라로 확진됐다고 발표했다. WHO는 10월 7일 브리핑에서 콩고민주공화국 누적 확진 8,665명·사망 4,178명, 케냐 접촉자 55명 모니터링을 밝히고, 일괄적인 여행·무역 제한은 권고하지 않는다고 했다.",
-   "date": "2026-10-06",
+   "cat": "분쟁",
+   "title": "에티오피아 연방군 메켈레 장악, 유엔 \"티그라이 구호 창고 약탈\" 발표",
+   "summary": "에티오피아 연방군과 동맹 세력이 10월 4일까지 티그라이 주도 메켈레를 장악했고, 티그라이인민해방전선(TPLF)은 10월 3일 메켈레에서 철수했다고 확인했다. 파르한 하크 유엔 사무총장 부대변인은 브리핑에서 티그라이의 유엔 기구 창고와 국내외 NGO 시설이 약탈돼 식량·종자·비료·양수기가 사라졌다고 밝혔다. 티그라이 재난위험관리위원회의 9월 인도적 상황 개요(The New Humanitarian 입수)에 따르면 지역 인구의 절반이 넘는 390만 명이 긴급 식량 지원이 필요하다.",
+   "date": "2026-10-07",
    "channels": [
     "현장 안전"
    ],
    "countries": [
-    "KEN",
-    "UGA"
+    "ETH"
    ],
-   "why": "케냐·우간다 사업장의 출입국 검역 절차, 현지 인력의 증상 신고·격리 지침, 콩고민주공화국 인접 지역 출장 일정을 점검합니다.",
+   "why": "티그라이·아파르 사업지의 접근 경로(메켈레–세메라 회랑 운영 여부), 현장 물자 보관 위치와 보험, 현지 인력 연락 체계를 점검합니다.",
    "sources": [
     {
-     "name": "WHO",
-     "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---7-october-2026"
+     "name": "The Reporter Ethiopia(유엔 브리핑 인용)",
+     "url": "https://www.thereporterethiopia.com/53257/"
     },
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/6/kenya-confirms-first-ebola-case-after-patient-from-dr-congo-dies-in-nairobi"
-    }
-   ],
-   "verified": true
-  },
-  {
-   "cat": "분쟁",
-   "title": "에티오피아·에리트레아 외교 관계 단절, 유엔 사무부총장 아디스아바바 방문",
-   "summary": "에리트레아는 에티오피아의 아스마라 주재 대사관 폐쇄와 자국 외교관 10명 추방에 대응해 외교 관계를 끊었고, 에티오피아는 이집트 외교관 1명에게도 출국을 명령했다. 유엔 대변인은 에티오피아 북부의 드론 활동·공습 증가가 민간인과 인도적 활동을 위협한다고 밝혔으며, 아미나 모하메드 유엔 사무부총장은 10월 8일 아디스아바바에서 에티오피아 외교장관을 만났다. 유엔 안보리는 에티오피아 북부 상황에 대해 이사국 대상 비공개 협의를 열 예정이다(일자 미발표).",
-   "date": "2026-10-08",
-   "channels": [
-    "현장 안전"
-   ],
-   "countries": [
-    "ETH",
-    "EGY"
-   ],
-   "why": "티그라이·아파르·아므하라 사업지의 접근 가능 여부, 현지 인력 비상연락 체계, 대사관 안전 공지 변경 사항을 점검합니다.",
-   "sources": [
-    {
-     "name": "The Reporter Ethiopia",
-     "url": "https://www.thereporterethiopia.com/53290"
+     "url": "https://www.aljazeera.com/news/2026/10/5/ethiopias-forces-retake-mekelle-amid-renewed-tigray-fighting"
     },
     {
-     "name": "The Reporter Ethiopia",
-     "url": "https://www.thereporterethiopia.com/53202/"
+     "name": "The New Humanitarian",
+     "url": "https://www.thenewhumanitarian.org/analysis/2026/10/08/tigray-faces-double-catastrophe-war-and-worsening-hunger"
     }
    ],
    "verified": true
   },
   {
    "cat": "경제",
-   "title": "세계은행, 사하라 이남 아프리카 4.3%·남아시아 6.9% 성장 전망 발표",
-   "summary": "세계은행은 10월 6일 지역 경제 전망에서 2026년 성장률을 사하라 이남 아프리카 4.3%, 남아시아 6.9%로 제시했다. 남아시아 보고서는 에너지 가격 고공 지속을, 사하라 이남 아프리카 보고서는 원자재 가격 추가 상승 가능성을 위험 요인으로 꼽았다. 게오르기에바 IMF 총재는 10월 7일 싱가포르에서 한 연차총회 사전 연설에서 원유가 배럴당 100달러 안팎에 머물고 있다고 밝혔고, 같은 보도는 호르무즈 해협 운송 위험으로 LNG 공급이 차질을 빚고 있다고 전했다.",
+   "title": "호르무즈 해협 유조선 공격 한 주 12건, 2월 말 이후 최다",
+   "summary": "로이터는 해상안보 소식통 3곳을 인용해 9월 28일~10월 5일 호르무즈 해협 주변에서 원유·LNG·LPG 운반선 공격이 최소 12건으로 2월 28일 이후 주간 최다였다고 보도했다(국제해사기구 집계는 9건). 브렌트유는 10월 8일 배럴당 104.28달러로 4% 올라 마감했다. kardis 지표 기준 9월 평균 브렌트유는 배럴당 116.8달러다.",
    "date": "2026-10-07",
    "channels": [
     "협력국 재정·환율"
    ],
    "countries": [],
-   "why": "연료·운송비 비중이 큰 사업의 단가 가정과 예비비, 협력국 상대기관의 예산 집행 일정을 점검합니다.",
+   "why": "연료·운송비 비중이 큰 사업의 단가 가정과 예비비, 중동산 연료 의존도가 높은 협력국 상대기관의 예산 집행 일정을 점검합니다.",
    "sources": [
     {
-     "name": "World Bank",
-     "url": "https://www.worldbank.org/en/news/press-release/2026/10/06/economic-growth-in-sub-saharan-africa-gains-momentum-despite-global-uncertainty"
+     "name": "gCaptain(Reuters)",
+     "url": "https://gcaptain.com/attacks-on-tankers-in-hormuz-hit-highest-of-any-week-since-start-of-iran-war-sources-say/"
     },
     {
-     "name": "World Bank",
-     "url": "https://www.worldbank.org/en/news/press-release/2026/10/06/south-asia-s-strong-growth-defies-global-headwinds"
-    },
-    {
-     "name": "The Nation Thailand",
-     "url": "https://www.nationthailand.com/business/economy/40071989"
+     "name": "Alhurra",
+     "url": "https://alhurra.com/en/45443"
     }
    ],
    "verified": true
   },
   {
    "cat": "경제",
-   "title": "IMF, 볼리비아 확대신용 19억 달러 승인·세네갈 채권자 설명회 주재",
-   "summary": "IMF 이사회는 10월 2일 볼리비아에 대한 36개월 확대신용(EFF) SDR 13억 6,900만(약 19억 달러)을 승인했고, SDR 1억 5,600만(약 2억 1,400만 달러)을 즉시 지급한다. 10월 6일에는 IMF 직원이 세네갈 정부 요청으로 주재한 화상 회의에서 세네갈 정부와 IMF가 외부 채권자에게 경제 상황과 부채 처리 전략을 설명했다.",
-   "date": "2026-10-06",
+   "title": "IMF, 파키스탄·르완다와 프로그램 점검 실무진 합의",
+   "summary": "IMF는 10월 7일 파키스탄과 확대신용기금(EFF) 4차·회복력지속가능성기금(RSF) 3차 점검에 실무진 합의했다고 밝혔고, 이사회 승인 시 각각 약 10억 달러·2억 1,000만 달러가 지급된다. IMF는 연료 지원 제도의 신속한 폐지와 시의적절한 전력 요금 조정을 권고했으며, 파키스탄 9월 물가상승률은 약 10.3%였다. 앞서 10월 5일에는 르완다와 확대신용제도(ECF) 1차 점검에 합의해 이사회 승인 시 약 3,570만 달러를 인출할 수 있게 되며, 르완다 8월 물가상승률은 15.7%였다.",
+   "date": "2026-10-07",
    "channels": [
     "협력국 재정·환율"
    ],
    "countries": [
-    "BOL",
-    "SEN"
+    "PAK",
+    "RWA"
    ],
-   "why": "볼리비아는 연료보조금 단계적 폐지 등 프로그램 조건이, 세네갈은 부채 처리 일정이 상대기관 예산·대응자금과 현지 단가 가정에 반영되는지 점검합니다.",
+   "why": "연료보조금·전기요금 조정이 사업 단가와 상대기관 운영비에 주는 영향, 이사회 승인 일정에 따른 상대국 예산·대응자금 집행 시점을 점검합니다.",
    "sources": [
     {
-     "name": "IMF(Mirage News 게재)",
-     "url": "https://www.miragenews.com/imf-approves-36-month-loan-program-for-bolivia-1754669/"
+     "name": "IMF",
+     "url": "https://www.imf.org/en/news/articles/2026/10/07/pr26326-pakistan-imf-complete-2026-aiv-consultation-reaches-sla-on-4th-review-eff-3rd-review-for-rsf"
     },
     {
-     "name": "세네갈 재무예산부",
-     "url": "https://finances.gouv.sn/en/actualites/press-release-creditors-virtual-meeting"
+     "name": "IMF",
+     "url": "https://www.imf.org/en/news/articles/2026/10/05/pr26321-rwanda-ecf-review"
+    }
+   ],
+   "verified": true
+  },
+  {
+   "cat": "기후·재난",
+   "title": "WMO, 엘니뇨 12월 무렵 정점 전망…10~12월 해수면 온도 평년보다 약 3.7℃ 높을 것으로 전망",
+   "summary": "세계기상기구(WMO)는 10월 8일 발표한 10~12월 계절 기후 전망에서 엘니뇨가 더 강해져 12월 무렵 정점에 이르고, 이 기간 니뇨3.4 해역 해수면 온도가 평년보다 약 3.7℃ 높을 것으로 내다봤다. 인도양에서는 양(+)의 인도양 쌍극자가 10월에 정점에 이른 뒤 약해질 것으로 봤다.",
+   "date": "2026-10-08",
+   "channels": [
+    "현장 안전",
+    "협력국 재정·환율"
+   ],
+   "countries": [],
+   "why": "농업·수자원·보건 사업의 가뭄·홍수 대비 계획과 우기·건기 공사 일정, 사업지 기상 경보 수신 체계를 점검합니다.",
+   "sources": [
+    {
+     "name": "WMO",
+     "url": "https://wmo.int/resources/publication-series/global-seasonal-climate-updates/gscu-ond2026"
+    },
+    {
+     "name": "CGTN",
+     "url": "https://news.cgtn.com/news/2026-10-09/WMO-El-Ni-o-forecast-to-peak-in-December-last-through-February-2027-1R6t7WLkY48/p.html"
+    }
+   ],
+   "verified": true
+  },
+  {
+   "cat": "외교",
+   "title": "로위연구소, 2024년 동남아 개발재원 260억 달러로 10년 만에 최저",
+   "summary": "호주 로위연구소의 「동남아 원조 지도」에 따르면 2024년 동남아로 들어간 개발재원은 260억 달러로 10% 가까이 줄어 10년 만에 가장 적었다. 중국의 공적개발재원은 53억 달러로 4분의 1 가까이 줄었고, 일본은 15억 달러를 줄였다.",
+   "date": "2026-10-11",
+   "channels": [
+    "공여 재원"
+   ],
+   "countries": [
+    "VNM",
+    "IDN",
+    "PHL",
+    "KHM",
+    "LAO"
+   ],
+   "why": "동남아 협력국 사업에서 다른 공여기관의 축소 여부와 그에 따른 공동재원·후속 사업 영향, 상대기관의 재원 계획 변경을 점검합니다.",
+   "sources": [
+    {
+     "name": "ABC News(Australia)",
+     "url": "https://www.abc.net.au/news/2026-10-11/china-us-japan-cut-aid-to-south-east-asia-lowy-report/107249020"
     }
    ],
    "verified": true
@@ -107,53 +128,73 @@
  ],
  "crises": [
   {
+   "type": "분쟁",
+   "name": "에티오피아 북부 교전",
+   "where": "에티오피아 북부(티그라이·아파르)",
+   "countries": [
+    "ETH"
+   ],
+   "status": "연방군과 동맹 세력이 메켈레 장악(10월 4일), TPLF는 철수 확인. 유엔은 티그라이의 유엔 창고·NGO 시설 약탈을 발표. 에티오피아가 에리트레아 외교관 10명을 추방한 뒤 에리트레아가 외교 관계 단절 발표.",
+   "asof": "2026-10-07",
+   "source": "The Reporter Ethiopia(유엔 브리핑 인용)·Al Jazeera",
+   "url": "https://www.thereporterethiopia.com/53257/"
+  },
+  {
    "type": "감염병",
-   "name": "에볼라 유행",
-   "where": "콩고민주공화국·케냐",
+   "name": "에볼라(분디부교 바이러스) 유행",
+   "where": "콩고민주공화국(케냐 수입 사례, 우간다 경유)",
    "countries": [
     "KEN",
     "UGA"
    ],
-   "status": "WHO 10월 7일 브리핑 기준 콩고민주공화국 누적 확진 8,665명·사망 4,178명. 케냐는 10월 6일 수입 사례 1건(사망) 확진, 접촉자 55명 모니터링.",
-   "asof": "2026-10-07",
+   "status": "WHO 10월 8일 발표, 10월 6일 기준 콩고민주공화국 7개 주 64개 보건구역에서 확진 8,728명·사망 4,205명. 케냐 수입 사례 1건(사망), 케냐·우간다에서 접촉자 추적. WHO는 여행·무역 제한을 권고하지 않음.",
+   "asof": "2026-10-06",
    "source": "WHO",
-   "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---7-october-2026"
+   "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON619"
   },
   {
    "type": "분쟁",
-   "name": "에티오피아 북부 긴장",
-   "where": "에티오피아 북부(티그라이)",
-   "countries": [
-    "ETH",
-    "EGY"
-   ],
-   "status": "에티오피아·에리트레아 외교 관계 단절. 유엔 대변인은 드론 활동·공습 증가가 민간인과 인도적 활동을 위협한다고 밝힘. 안보리 비공개 협의 예정(일자 미발표).",
-   "asof": "2026-10-08",
-   "source": "The Reporter Ethiopia(유엔 발언 인용)",
-   "url": "https://www.thereporterethiopia.com/53290"
+   "name": "호르무즈 해협 선박 공격",
+   "where": "호르무즈 해협·걸프 해역",
+   "countries": [],
+   "status": "9월 28일~10월 5일 유조선 공격 최소 12건(해상안보 소식통, 국제해사기구 집계 9건). 국제해사기구 누적 집계(기간 미기재): 확인된 사건 93건, 선원 최소 24명 사망.",
+   "asof": "2026-10-09",
+   "source": "Alhurra(Reuters·IMO 인용)",
+   "url": "https://alhurra.com/en/45443"
   },
   {
    "type": "분쟁",
    "name": "수단 분쟁",
    "where": "수단",
-   "countries": [
-    "EGY",
-    "ETH"
-   ],
-   "status": "안보리는 10월 중 120일 정례 브리핑과 1591 제재 체제 연장안 표결 예정.",
-   "asof": "2026-10-01",
-   "source": "Security Council Report",
-   "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-10/"
+   "countries": [],
+   "status": "유엔 안보리는 10월 8일 결의 2830호를 만장일치로 채택해 다르푸르 무기 금수를 12월 11일까지 2개월 연장. 수단 전역으로 넓히는 안은 채택되지 않음.",
+   "asof": "2026-10-08",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/9/un-extends-darfur-arms-embargo-blocks-broader-sudan-sanctions-proposal"
   },
   {
    "type": "분쟁",
-   "name": "호르무즈 해협 에너지 운송 차질",
-   "where": "호르무즈 해협",
-   "countries": [],
-   "status": "IMF 총재 10월 7일 연설: 원유 배럴당 100달러 안팎. 같은 보도: 호르무즈 해협 운송 위험으로 LNG 공급 차질.",
-   "asof": "2026-10-07",
-   "source": "The Nation Thailand(IMF 총재 연설 보도)",
-   "url": "https://www.nationthailand.com/business/economy/40071989"
+   "name": "파키스탄·아프가니스탄 국경 교전",
+   "where": "파키스탄·아프가니스탄 국경 지역",
+   "countries": [
+    "PAK"
+   ],
+   "status": "파키스탄이 9월 30일 밤 아프가니스탄 쿠나르·헬만드주를 공습. 유엔아프간지원단(UNAMA)은 민간인 10명 사망을 보고하고, 2026년 들어 국경 간 폭력으로 아프가니스탄 민간인 1,100명 넘게 사상했다고 밝힘.",
+   "asof": "2026-10-05",
+   "source": "FDD Long War Journal(UNAMA 인용)",
+   "url": "https://www.longwarjournal.org/archives/2026/10/pakistan-launches-new-strikes-as-conflict-with-taliban-persist-into-third-week.php"
+  },
+  {
+   "type": "재난",
+   "name": "수마트라 산불 연무",
+   "where": "인도네시아 수마트라(남수마트라·리아우)",
+   "countries": [
+    "IDN"
+   ],
+   "status": "산불 연무로 시정이 떨어져 10월 7일 페칸바루 공항 착륙 불가 2편, 10월 8일 팔렘방 공항 지연 5편.",
+   "asof": "2026-10-08",
+   "source": "The Jakarta Post",
+   "url": "https://thejakartapost.com/indonesia/2026/10/09/worsening-wildfire-haze-disrupts-flights-across-sumatra"
   },
   {
    "type": "분쟁",
@@ -164,18 +205,6 @@
    "asof": "2026-10-07",
    "source": "WHO",
    "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---7-october-2026"
-  },
-  {
-   "type": "재난",
-   "name": "다카르 폭우·돌발홍수",
-   "where": "세네갈 다카르",
-   "countries": [
-    "SEN"
-   ],
-   "status": "10월 6일 이전 주말 폭우로 다카르 일부 지역 침수, 인명·기반시설 피해 보고. 공식 피해 집계 미확인.",
-   "asof": "2026-10-06",
-   "source": "Rio Times",
-   "url": "https://www.riotimesonline.com/africa-intelligence-brief-tuesday-october-6-2026/"
   }
  ],
  "calendar": [
@@ -184,7 +213,7 @@
    "title": "IMF·세계은행 연차총회(방콕, 10월 12~18일)",
    "kind": "회의",
    "countries": [],
-   "url": "https://www.imf.org/en/meetings/2026/annual"
+   "url": "https://www.imf.org/en/news/seminars/campaigns/2026/10/thailand-2026"
   },
   {
    "date": "2026-10-13",
@@ -195,10 +224,17 @@
   },
   {
    "date": "2026-10-14",
-   "title": "COP31 의장단 주재 수석대표 비공식 협의(화상)",
+   "title": "차기 COP31 의장단 주재 수석대표 비공식 협의(화상)",
    "kind": "회의",
    "countries": [],
    "url": "https://unfccc.int/cop31/the-road-to-antalya"
+  },
+  {
+   "date": "2026-10-28",
+   "title": "미국 연방공개시장위원회(FOMC) 금리 결정(10월 27~28일)",
+   "kind": "발표",
+   "countries": [],
+   "url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
   },
   {
    "date": "2026-11-09",

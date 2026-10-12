@@ -1,7 +1,24 @@
 {
- "updated": "2026-10-09 11:36",
+ "updated": "2026-10-12 10:01",
  "categories": [],
  "items": [
+  {
+   "slug": "2026-10-me-quality-outcome",
+   "title": "M&E가 좋은 사업은 성과도 좋은가: 세계은행 사업평가 5,079건 다시 보기",
+   "date": "2026-10-12",
+   "category": "",
+   "summary": "세계은행 독립평가국(IEG) 사업평가 5,079건을 직접 계산해, M&E 품질과 성과 등급이 함께 움직이는 정도와 그 연관을 그대로 효과로 읽으면 안 되는 이유를 살펴봅니다.",
+   "tags": [
+    "M&E",
+    "성과지표",
+    "평가",
+    "공개 데이터"
+   ],
+   "author": "kardis",
+   "status": "published",
+   "ai": true,
+   "minutes": 10
+  },
   {
    "slug": "2026-10-inflation-fx-paths",
    "title": "물가가 오르면 사업은 어디서 먼저 흔들리는가",

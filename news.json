@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13",
+  "updated": "2026-10-14",
   "note": "매일 갱신되는 파일. 항목은 제목·출처·링크·두세 문장 요약만 담고 본문은 싣지 않는다. verified=false는 제목만 확인하고 본문은 읽지 못한 항목.",
   "items": [
     {
@@ -11,6 +11,17 @@
       "source": "알자지라",
       "url": "https://www.aljazeera.com/news/2026/10/11/ethiopia-eritrea-ramp-up-rhetoric-are-they-inching-towards-war",
       "why": "북부 지역 출장·현장 활동 일정과 현지 인력 이동 계획의 점검이 필요하다.",
+      "verified": true
+    },
+    {
+      "iso3": "MNG",
+      "date": "2026-10-08",
+      "cat": "경제",
+      "title": "IMF 실무진, 몽골 물가 12.9%·재정 확대 우려 표명",
+      "summary": "IMF 실무방문단(9월 23~29일)은 몽골의 9월 물가상승률이 12.9%로 중앙은행 목표를 크게 웃돌며 연말 약 13%로 전망했다. 올해 성장률은 6.2%로 전망했고, 2026년 추경과 2027년 예산안의 감세·지출 확대가 광산 일회성 수입에 의존한다고 짚었다. 통화긴축 강화와 중앙은행 독립성 강화 법안 처리를 권고했다.",
+      "source": "IMF",
+      "url": "https://www.imf.org/en/News/Articles/2026/10/08/pr26329-imf-staff-team-concludes-staff-visit-to-mongolia",
+      "why": "몽골 사업의 인건비·물가연동 예산과 현지통화 환산 기준을 점검할 필요가 있다.",
       "verified": true
     },
     {
@@ -168,6 +179,17 @@
       "verified": true
     },
     {
+      "iso3": "EGY",
+      "date": "2026-10-04",
+      "cat": "경제",
+      "title": "이집트 중앙은행, 정책금리 5회 연속 동결…파운드 달러당 52.3",
+      "summary": "이집트 중앙은행은 9월 24일 예금금리 19%, 대출금리 20%를 동결했다. 8월 도시 물가상승률은 14.5%로 7월(14.9%)보다 낮아졌다. 파운드는 10월 1일 기준 달러당 약 52.3으로 2월 말(약 47.9)보다 약세이며, IMF 확대금융 최종 점검이 4분기 예정이다.",
+      "source": "Rio Times",
+      "url": "https://www.riotimesonline.com/egypt-economy-2026-imf-pound-inflation/",
+      "why": "파운드 환율 변동에 따른 사업비 환산과 현지 조달 단가를 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
       "iso3": "ETH",
       "date": "2026-10-04",
       "cat": "정치",
@@ -245,6 +267,17 @@
       "verified": true
     },
     {
+      "iso3": "BOL",
+      "date": "2026-10-02",
+      "cat": "경제",
+      "title": "IMF 이사회, 볼리비아 19억 달러 확대금융 승인…연료보조금 철폐 조건",
+      "summary": "IMF 이사회가 36개월 확대금융(약 19억 달러)을 승인하고 1차분 2억 1,400만 달러를 즉시 지급했다. 조건에는 연료보조금 전면 철폐, 환율의 시장 결정, 중앙은행의 재정 대출 중단이 포함된다. 디젤 가격은 리터당 9.80볼에서 17.95볼로 올랐다.",
+      "source": "Rio Times",
+      "url": "https://www.riotimesonline.com/bolivia-imf-loan-approved-214-million-expats-2026/",
+      "why": "연료·운송비와 환율 변동이 사업비 집행 및 현지 물가에 미치는 영향을 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
       "iso3": "ETH",
       "date": "2026-10-02",
       "cat": "정치",
@@ -297,6 +330,17 @@
       "source": "OkayAfrica",
       "url": "https://www.okayafrica.com/today-in-africa-october-2-2026-ethiopia-eritrea-rift-raises-regional-war-fears-eu-suspends-aid-to-sierra-leone/1440442",
       "why": "북부(티그라이·아파르) 사업장의 접근성과 안전 계획, 현지 인력 이동 제한을 점검할 것.",
+      "verified": true
+    },
+    {
+      "iso3": "IDN",
+      "date": "2026-10-01",
+      "cat": "경제",
+      "title": "인도네시아 9월 물가상승률 3.28%, 두 달 연속 상승",
+      "summary": "인도네시아 통계청(BPS) 발표에 따르면 9월 연간 물가상승률은 3.28%로 8월(3.19%)보다 높아졌다. 교통(4.84%)과 식품·음료·담배(4.37%) 부문이 높은 상승률을 보였다. 38개 주 모두 상승했고 북술라웨시가 7.59%로 가장 높았다.",
+      "source": "Katadata Databoks(BPS 자료)",
+      "url": "https://databoks.katadata.co.id/en/economics-macro/statistics/6abdeb20ad2ba/indonesias-annual-inflation-rate-rose-in-september-2026",
+      "why": "지역별 물가 편차가 커서 현지 활동비·물가연동 예산 항목을 점검할 필요가 있다.",
       "verified": true
     },
     {
@@ -413,14 +457,14 @@
   "checked": {
     "NPL": "2026-10-12",
     "GHA": "2026-10-13",
-    "EGY": "2026-10-10",
+    "EGY": "2026-10-14",
     "KHM": "2026-10-10",
     "AZE": "2026-10-10",
     "PAK": "2026-10-10",
     "LAO": "2026-10-13",
     "KGZ": "2026-10-13",
-    "MNG": "2026-10-11",
-    "RWA": "2026-10-11",
+    "MNG": "2026-10-14",
+    "RWA": "2026-10-14",
     "BGD": "2026-10-11",
     "UGA": "2026-10-11",
     "VNM": "2026-10-12",
@@ -428,6 +472,8 @@
     "UZB": "2026-10-12",
     "PER": "2026-10-12",
     "PHL": "2026-10-13",
-    "ETH": "2026-10-13"
+    "ETH": "2026-10-13",
+    "IDN": "2026-10-14",
+    "BOL": "2026-10-14"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15",
+  "updated": "2026-10-16",
   "note": "매일 갱신되는 파일. 항목은 제목·출처·링크·두세 문장 요약만 담고 본문은 싣지 않는다. verified=false는 제목만 확인하고 본문은 읽지 못한 항목.",
   "items": [
     {
@@ -22,6 +22,17 @@
       "source": "Trend News Agency",
       "url": "https://www.trend.az/azerbaijan/business/4232870.html",
       "why": "사업비·인건비 단가를 현지통화로 산정한 사업은 물가 반영 방식과 예산 조정 여지를 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "PAK",
+      "date": "2026-10-08",
+      "cat": "경제",
+      "title": "파키스탄·IMF, 확대신용 4차 점검 실무진 합의…약 12억 달러 집행 길 열려",
+      "summary": "IMF 실무진과 파키스탄 정부가 37개월 확대신용(EFF) 4차 점검과 28개월 회복·지속가능성 지원(RSF) 3차 점검에 실무 합의했다. 이사회 승인을 받으면 EFF 약 10억 달러, RSF 약 2억 1천만 달러가 지급된다.",
+      "source": "Radio Pakistan",
+      "url": "https://radio.gov.pk/08-10-2026/pakistan-imf-reach-staff-level-agreement-for-12b-tranche",
+      "why": "IMF 이사회 승인 시점과 연료가격·세제 등 이행 조건이 사업 예산과 환율 가정에 미치는 영향을 점검해야 한다.",
       "verified": true
     },
     {
@@ -187,6 +198,17 @@
       "source": "The Star(말레이시아)",
       "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/07/world-bank-cuts-cambodia039s-2026-growth-forecast-to-35-amid-tourism-slump-high-fuel-costs",
       "why": "연료비·송금 감소가 현지 수요와 인건비에 미치는 영향을 사업 예산과 일정 가정에서 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "PRY",
+      "date": "2026-10-05",
+      "cat": "정치",
+      "title": "파라과이 지방선거 개표, 아순시온은 야권 연대 후보가 근소 차 승리",
+      "summary": "4일 지방선거 잠정 개표에서 중도 성향 후보 솔레닷 누녜스가 47.78%로 집권 콜로라도당 후보(45.98%)를 약 5천 표 차로 앞섰고, 패한 쪽은 공식 검표를 기다리겠다고 밝혔다. 페냐 대통령은 콜로라도당이 전국 약 186개 시·군에서 이길 것으로 전망했다.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/america/america-latina/2026/10/05/elecciones-municipales-en-paraguay-soledad-nunez-gano-la-intendencia-de-asuncion-y-desplazo-al-partido-colorado/",
+      "why": "수도와 사업 대상 지자체의 단체장 교체 여부를 확인하고 협의 창구와 일정에 변동이 없는지 점검해야 한다.",
       "verified": true
     },
     {
@@ -432,6 +454,17 @@
       "verified": false
     },
     {
+      "iso3": "LKA",
+      "date": "2026-09-30",
+      "cat": "경제",
+      "title": "스리랑카 9월 물가 8.0%로 보합, 3년 만의 높은 수준 유지",
+      "summary": "콜롬보 소비자물가(CCPI) 상승률이 9월 8.0%로 전월과 같았고 식품 물가는 8.7%로 소폭 올랐다. 전월 대비 상승률은 0.1%다. 중앙은행은 9월 회의에서 정책금리를 8.75%로 유지했다.",
+      "source": "Newswire(통계청 자료)",
+      "url": "https://www.newswire.lk/v160",
+      "why": "물가와 금리 수준이 현지 인건비·조달 단가 가정에 반영되어 있는지 점검해야 한다.",
+      "verified": true
+    },
+    {
       "iso3": "KHM",
       "date": "2026-09-30",
       "cat": "사회",
@@ -504,7 +537,7 @@
     "EGY": "2026-10-14",
     "KHM": "2026-10-15",
     "AZE": "2026-10-15",
-    "PAK": "2026-10-10",
+    "PAK": "2026-10-16",
     "LAO": "2026-10-13",
     "KGZ": "2026-10-13",
     "MNG": "2026-10-14",
@@ -519,6 +552,10 @@
     "ETH": "2026-10-13",
     "IDN": "2026-10-14",
     "BOL": "2026-10-14",
-    "TZA": "2026-10-15"
+    "TZA": "2026-10-15",
+    "LKA": "2026-10-16",
+    "KEN": "2026-10-16",
+    "TJK": "2026-10-16",
+    "PRY": "2026-10-16"
   }
 }

@@ -1,7 +1,24 @@
 {
- "updated": "2026-10-14 09:37",
+ "updated": "2026-10-16 10:12",
  "categories": [],
  "items": [
+  {
+   "slug": "2026-10-ai-pdm-review",
+   "title": "PDM 점검을 AI에 맡길 때: 결함 12개를 심은 가상 PDM으로 나눠 본 맡길 일과 맡기지 말 일",
+   "date": "2026-10-16",
+   "category": "",
+   "summary": "결함 12개를 일부러 심은 가상 PDM을 같은 AI에 세 번 따로 검토시켜, PDM 점검에서 AI에 맡길 일과 사람이 판단해야 할 일, 결과를 확인하는 방법을 정리합니다.",
+   "tags": [
+    "AI 활용",
+    "PDM",
+    "성과관리",
+    "검토"
+   ],
+   "author": "kardis",
+   "status": "published",
+   "ai": true,
+   "minutes": 10
+  },
   {
    "slug": "2026-10-good-indicators",
    "title": "좋은 성과지표의 조건: SMART만으로 부족한 이유",

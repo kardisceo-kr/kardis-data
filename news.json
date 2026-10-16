@@ -1,7 +1,73 @@
 {
-  "updated": "2026-10-16",
+  "updated": "2026-10-17",
   "note": "매일 갱신되는 파일. 항목은 제목·출처·링크·두세 문장 요약만 담고 본문은 싣지 않는다. verified=false는 제목만 확인하고 본문은 읽지 못한 항목.",
   "items": [
+    {
+      "iso3": "UZB",
+      "date": "2026-10-16",
+      "cat": "경제",
+      "title": "IMF, 우즈베키스탄 올해 성장률 7.8%로 상향…경상적자 확대 전망",
+      "summary": "IMF 10월 세계경제전망은 우즈베키스탄 2026년 성장률을 6월 전망(6.8%)에서 7.8%로 올렸다. 평균 물가상승률은 올해 6.9%, 내년 5.7%로 보았고, 경상수지 적자는 GDP 대비 5.1%로 확대될 것으로 전망했다.",
+      "source": "Gazeta.uz",
+      "url": "https://www.gazeta.uz/en/2026/10/16/uzbekistan-gdp-imf/",
+      "why": "성장·물가 전망을 사업 배경 분석과 지표 목표 설정의 근거 자료로 갱신할 필요가 있는지 점검해야 한다.",
+      "verified": true
+    },
+    {
+      "iso3": "KGZ",
+      "date": "2026-10-16",
+      "cat": "경제",
+      "title": "EBRD, 키르기스스탄 7월 물가 11.5%…정책금리 12% 유지",
+      "summary": "EBRD 9월 지역경제전망은 키르기스스탄의 에너지·식품 가격 상승과 확장 재정으로 물가 압력이 커졌다고 밝혔다. 연간 물가상승률은 7월 11.5%였고 중앙은행은 2월부터 정책금리 12%를 유지하고 있다. 올해 성장률은 8.7%로 전망됐다.",
+      "source": "Trend News Agency(EBRD 보고서 인용)",
+      "url": "https://www.trend.az/casia/kyrgyzstan/4235410.html",
+      "why": "높은 물가가 현지 조달·인건비 단가에 반영돼 있는지 사업 예산을 점검해야 한다.",
+      "verified": true
+    },
+    {
+      "iso3": "NPL",
+      "date": "2026-10-15",
+      "cat": "경제",
+      "title": "네팔, 홍수 복구 위해 IMF 긴급 금융·ADB 긴급 보조금 논의…세계은행과 재난채권 타당성 협약",
+      "summary": "IMF 총재는 홍수 이후 네팔에 대한 긴급 금융이 곧 이뤄질 것으로 본다고 밝혔으나 금액과 시기는 언급하지 않았다. 네팔 재무장관은 방콕 ADB 회의에서 재난 복구 재원 동원을 요청했고, 정부는 세계은행 재무국과 지진 대응용 재난채권 타당성 검토 협약을 맺었다. 네팔중앙은행 집계로 8월 17일~9월 16일 물가상승률은 6.34%였다.",
+      "source": "Nepal News",
+      "url": "https://english.nepalnews.com/s/business/nepal-news-evening-economic-brief-october-15-2026/",
+      "why": "복구 재원이 홍수 피해 지역과 인프라에 우선 배정되면 기존 사업의 예산·일정에 영향이 있는지 점검이 필요하다.",
+      "verified": true
+    },
+    {
+      "iso3": "SEN",
+      "date": "2026-10-15",
+      "cat": "경제",
+      "title": "미국 재무부, 세네갈 채무조정 1년 내 마무리 희망…IMF 총재는 채권단 합의 낙관",
+      "summary": "미국 재무부 차관은 세네갈 채무 재조정을 1년 안에 끝내길 원한다고 밝혔다. IMF 총재는 세네갈이 채권단과 합의에 이를 것으로 낙관한다고 말했다. 세네갈은 G20 공동틀 아래 채무 처리를 진행 중이다.",
+      "source": "Africanews",
+      "url": "https://www.africanews.com/2026/10/15/us-wants-to-see-senegals-debt-restructuring-completed-within-a-year/",
+      "why": "채무조정 진행에 따른 재정 긴축이 상대국 부담금·예산 집행 일정에 영향을 주는지 점검이 필요하다.",
+      "verified": true
+    },
+    {
+      "iso3": "PER",
+      "date": "2026-10-13",
+      "cat": "경제",
+      "title": "페루 중앙은행, IMF 출자 할당액 50% 증액 위한 법안 의회 제출",
+      "summary": "페루 중앙은행이 IMF 할당액을 13억 3,450만 SDR에서 20억 180만 SDR로 50% 늘리는 법안을 제출했다. 증액분은 약 9억 달러 규모이며 중앙은행이 자체 재원으로 부담하고 국가 예산은 쓰지 않는다. 동의 기한은 11월 15일까지로 연장돼 있고 의회 승인이 필요하다.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/peru/2026/10/13/bcrp-busca-elevar-a-mas-de-usd-2700-millones-el-aporte-de-peru-al-fmi-como-afectara-las-reservas-internacionales/",
+      "why": "의회 일정과 대외 재정 여건 변화가 있는지 확인하되 사업 예산에 직접 영향은 제한적인지 점검하면 된다.",
+      "verified": true
+    },
+    {
+      "iso3": "VNM",
+      "date": "2026-10-12",
+      "cat": "경제",
+      "title": "베트남 재무부, 연말 물가 대응 강화…올해 물가상승률 4.5~4.8% 전망",
+      "summary": "베트남 재무부는 2026년 연간 물가상승률을 4.5% 또는 4.8%로 두 가지 시나리오로 갱신했다. 정부는 재정·통화 정책 공조, 연료·필수품 가격 점검, 세금·수수료 감면 연장을 연말 대응책으로 제시했다.",
+      "source": "Viet Nam News",
+      "url": "https://vietnamnews.vn/economy/1801786/viet-nam-updates-two-inflation-scenarios-tightens-price-management-for-year-end.html",
+      "why": "사업비·인건비 등 현지 물가 가정이 예산서의 가정과 맞는지 점검이 필요하다.",
+      "verified": true
+    },
     {
       "iso3": "ETH",
       "date": "2026-10-11",
@@ -11,6 +77,17 @@
       "source": "알자지라",
       "url": "https://www.aljazeera.com/news/2026/10/11/ethiopia-eritrea-ramp-up-rhetoric-are-they-inching-towards-war",
       "why": "북부 지역 출장·현장 활동 일정과 현지 인력 이동 계획의 점검이 필요하다.",
+      "verified": true
+    },
+    {
+      "iso3": "NPL",
+      "date": "2026-10-10",
+      "cat": "재난",
+      "title": "네팔 부테코시 홍수 사망 1,457명·실종 4,720명, 경찰 집계",
+      "summary": "네팔 경찰본부 집계로 10월 10일 오전 기준 8월 26일 부테코시·트리슐리 강 홍수의 사망자는 1,457명, 실종자는 4,720명이다. 이재민 1,231명이 정부 임시수용시설에 머무르고 있다. 피해평가에서는 복구비를 약 7,230억 루피(약 47~48억 달러)로 추산했다.",
+      "source": "Nepal News",
+      "url": "https://english.nepalnews.com/s/nation/bhotekoshi-flood-official-death-toll-put-at-1457/",
+      "why": "피해 지역(라수와·누와코트·다딩·치트완 등)에 사업 대상지나 협력기관이 있는지 확인하고 현장 접근·일정 변경 필요성을 점검해야 한다.",
       "verified": true
     },
     {
@@ -532,22 +609,22 @@
     }
   ],
   "checked": {
-    "NPL": "2026-10-12",
+    "NPL": "2026-10-17",
     "GHA": "2026-10-13",
     "EGY": "2026-10-14",
     "KHM": "2026-10-15",
     "AZE": "2026-10-15",
     "PAK": "2026-10-16",
     "LAO": "2026-10-13",
-    "KGZ": "2026-10-13",
+    "KGZ": "2026-10-17",
     "MNG": "2026-10-14",
     "RWA": "2026-10-14",
     "BGD": "2026-10-15",
     "UGA": "2026-10-15",
-    "VNM": "2026-10-12",
-    "SEN": "2026-10-12",
-    "UZB": "2026-10-12",
-    "PER": "2026-10-12",
+    "VNM": "2026-10-17",
+    "SEN": "2026-10-17",
+    "UZB": "2026-10-17",
+    "PER": "2026-10-17",
     "PHL": "2026-10-13",
     "ETH": "2026-10-13",
     "IDN": "2026-10-14",

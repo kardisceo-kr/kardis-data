@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17",
+  "updated": "2026-10-18",
   "note": "매일 갱신되는 파일. 항목은 제목·출처·링크·두세 문장 요약만 담고 본문은 싣지 않는다. verified=false는 제목만 확인하고 본문은 읽지 못한 항목.",
   "items": [
     {
@@ -55,6 +55,17 @@
       "source": "Infobae",
       "url": "https://www.infobae.com/peru/2026/10/13/bcrp-busca-elevar-a-mas-de-usd-2700-millones-el-aporte-de-peru-al-fmi-como-afectara-las-reservas-internacionales/",
       "why": "의회 일정과 대외 재정 여건 변화가 있는지 확인하되 사업 예산에 직접 영향은 제한적인지 점검하면 된다.",
+      "verified": true
+    },
+    {
+      "iso3": "ETH",
+      "date": "2026-10-12",
+      "cat": "정치",
+      "title": "에티오피아군, 티그라이 아드와 진입…메켈레 노선 항공편 재개",
+      "summary": "AFP에 따르면 에티오피아 정부군과 연합 민병대가 10월 11일 에리트레아 국경에서 약 40km 떨어진 아드와에 들어갔다. 주민들은 티그라이인민해방전선(TPLF) 병력이 하루 전 철수해 교전은 없었고 간밤에 병원과 상점이 약탈됐다고 전했다. 에티오피아항공은 9월 23일 이후 처음으로 메켈레 운항을 재개했다.",
+      "source": "Al Jazeera(AFP)",
+      "url": "https://www.aljazeera.com/news/2026/10/12/ethiopian-troops-capture-adwa-without-a-fight-witnesses-say",
+      "why": "티그라이·인접 지역 출장과 현지 인력 이동, 사업장 접근 가능 여부를 점검할 필요가 있다.",
       "verified": true
     },
     {
@@ -275,6 +286,17 @@
       "source": "The Star(말레이시아)",
       "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/07/world-bank-cuts-cambodia039s-2026-growth-forecast-to-35-amid-tourism-slump-high-fuel-costs",
       "why": "연료비·송금 감소가 현지 수요와 인건비에 미치는 영향을 사업 예산과 일정 가정에서 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "BOL",
+      "date": "2026-10-05",
+      "cat": "경제",
+      "title": "볼리비아, 경유 시장가 전환 뒤에도 주유소 대기 지속…산타크루스 운송노조 압박",
+      "summary": "볼리비아 경유 가격은 9월 19일 리터당 9.80볼에서 17.95볼로 올랐고 휘발유는 6.96볼의 보조 가격이 유지되고 있다. 10월 5일에도 주유소 대기 줄이 이어졌으며 국영 YPFB와 규제기관은 반복 주유 차량의 번호판을 막는 단속을 벌이고 있다. 산타크루스 운송노조는 48시간 파업을 철회하되 정부에 1주일 안에 장관 파견을 요구하며 무기한 파업 가능성을 열어 두었다.",
+      "source": "The Rio Times",
+      "url": "https://www.riotimesonline.com/bolivia-fuel-shortage-plates-blocked-2026/",
+      "why": "연료 수급과 운송 차질이 현장 방문·자재 운송 일정에 주는 영향을 점검할 필요가 있다.",
       "verified": true
     },
     {
@@ -610,12 +632,12 @@
   ],
   "checked": {
     "NPL": "2026-10-17",
-    "GHA": "2026-10-13",
+    "GHA": "2026-10-18",
     "EGY": "2026-10-14",
     "KHM": "2026-10-15",
     "AZE": "2026-10-15",
     "PAK": "2026-10-16",
-    "LAO": "2026-10-13",
+    "LAO": "2026-10-18",
     "KGZ": "2026-10-17",
     "MNG": "2026-10-14",
     "RWA": "2026-10-14",
@@ -625,10 +647,10 @@
     "SEN": "2026-10-17",
     "UZB": "2026-10-17",
     "PER": "2026-10-17",
-    "PHL": "2026-10-13",
-    "ETH": "2026-10-13",
-    "IDN": "2026-10-14",
-    "BOL": "2026-10-14",
+    "PHL": "2026-10-18",
+    "ETH": "2026-10-18",
+    "IDN": "2026-10-18",
+    "BOL": "2026-10-18",
     "TZA": "2026-10-15",
     "LKA": "2026-10-16",
     "KEN": "2026-10-16",

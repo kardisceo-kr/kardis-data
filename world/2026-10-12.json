@@ -1,0 +1,259 @@
+{
+ "updated": "2026-10-12",
+ "period": "2026-10-05 ~ 2026-10-11",
+ "lead": "에티오피아 연방군이 메켈레를 장악한 뒤 유엔이 티그라이 구호 창고 약탈을 밝혔고, 호르무즈 해협 유조선 공격이 2월 28일 이후 주간 최다(로이터 인용)를 기록했으며, IMF는 파키스탄·르완다와 프로그램 점검 실무진 합의를 발표했다.",
+ "items": [
+  {
+   "cat": "분쟁",
+   "title": "에티오피아 연방군 메켈레 장악, 유엔 \"티그라이 구호 창고 약탈\" 발표",
+   "summary": "에티오피아 연방군과 동맹 세력이 10월 4일까지 티그라이 주도 메켈레를 장악했고, 티그라이인민해방전선(TPLF)은 10월 3일 메켈레에서 철수했다고 확인했다. 파르한 하크 유엔 사무총장 부대변인은 브리핑에서 티그라이의 유엔 기구 창고와 국내외 NGO 시설이 약탈돼 식량·종자·비료·양수기가 사라졌다고 밝혔다. 티그라이 재난위험관리위원회의 9월 인도적 상황 개요(The New Humanitarian 입수)에 따르면 지역 인구의 절반이 넘는 390만 명이 긴급 식량 지원이 필요하다.",
+   "date": "2026-10-07",
+   "channels": [
+    "현장 안전"
+   ],
+   "countries": [
+    "ETH"
+   ],
+   "why": "티그라이·아파르 사업지의 접근 경로(메켈레–세메라 회랑 운영 여부), 현장 물자 보관 위치와 보험, 현지 인력 연락 체계를 점검합니다.",
+   "sources": [
+    {
+     "name": "The Reporter Ethiopia(유엔 브리핑 인용)",
+     "url": "https://www.thereporterethiopia.com/53257/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/5/ethiopias-forces-retake-mekelle-amid-renewed-tigray-fighting"
+    },
+    {
+     "name": "The New Humanitarian",
+     "url": "https://www.thenewhumanitarian.org/analysis/2026/10/08/tigray-faces-double-catastrophe-war-and-worsening-hunger"
+    }
+   ],
+   "verified": true
+  },
+  {
+   "cat": "경제",
+   "title": "호르무즈 해협 유조선 공격 한 주 12건, 2월 말 이후 최다",
+   "summary": "로이터는 해상안보 소식통 3곳을 인용해 9월 28일~10월 5일 호르무즈 해협 주변에서 원유·LNG·LPG 운반선 공격이 최소 12건으로 2월 28일 이후 주간 최다였다고 보도했다(국제해사기구 집계는 9건). 브렌트유는 10월 8일 배럴당 104.28달러로 4% 올라 마감했다. kardis 지표 기준 9월 평균 브렌트유는 배럴당 116.8달러다.",
+   "date": "2026-10-07",
+   "channels": [
+    "협력국 재정·환율"
+   ],
+   "countries": [],
+   "why": "연료·운송비 비중이 큰 사업의 단가 가정과 예비비, 중동산 연료 의존도가 높은 협력국 상대기관의 예산 집행 일정을 점검합니다.",
+   "sources": [
+    {
+     "name": "gCaptain(Reuters)",
+     "url": "https://gcaptain.com/attacks-on-tankers-in-hormuz-hit-highest-of-any-week-since-start-of-iran-war-sources-say/"
+    },
+    {
+     "name": "Alhurra",
+     "url": "https://alhurra.com/en/45443"
+    }
+   ],
+   "verified": true
+  },
+  {
+   "cat": "경제",
+   "title": "IMF, 파키스탄·르완다와 프로그램 점검 실무진 합의",
+   "summary": "IMF는 10월 7일 파키스탄과 확대신용기금(EFF) 4차·회복력지속가능성기금(RSF) 3차 점검에 실무진 합의했다고 밝혔고, 이사회 승인 시 각각 약 10억 달러·2억 1,000만 달러가 지급된다. IMF는 연료 지원 제도의 신속한 폐지와 시의적절한 전력 요금 조정을 권고했으며, 파키스탄 9월 물가상승률은 약 10.3%였다. 앞서 10월 5일에는 르완다와 확대신용제도(ECF) 1차 점검에 합의해 이사회 승인 시 약 3,570만 달러를 인출할 수 있게 되며, 르완다 8월 물가상승률은 15.7%였다.",
+   "date": "2026-10-07",
+   "channels": [
+    "협력국 재정·환율"
+   ],
+   "countries": [
+    "PAK",
+    "RWA"
+   ],
+   "why": "연료보조금·전기요금 조정이 사업 단가와 상대기관 운영비에 주는 영향, 이사회 승인 일정에 따른 상대국 예산·대응자금 집행 시점을 점검합니다.",
+   "sources": [
+    {
+     "name": "IMF",
+     "url": "https://www.imf.org/en/news/articles/2026/10/07/pr26326-pakistan-imf-complete-2026-aiv-consultation-reaches-sla-on-4th-review-eff-3rd-review-for-rsf"
+    },
+    {
+     "name": "IMF",
+     "url": "https://www.imf.org/en/news/articles/2026/10/05/pr26321-rwanda-ecf-review"
+    }
+   ],
+   "verified": true
+  },
+  {
+   "cat": "기후·재난",
+   "title": "WMO, 엘니뇨 12월 무렵 정점 전망…10~12월 해수면 온도 평년보다 약 3.7℃ 높을 것으로 전망",
+   "summary": "세계기상기구(WMO)는 10월 8일 발표한 10~12월 계절 기후 전망에서 엘니뇨가 더 강해져 12월 무렵 정점에 이르고, 이 기간 니뇨3.4 해역 해수면 온도가 평년보다 약 3.7℃ 높을 것으로 내다봤다. 인도양에서는 양(+)의 인도양 쌍극자가 10월에 정점에 이른 뒤 약해질 것으로 봤다.",
+   "date": "2026-10-08",
+   "channels": [
+    "현장 안전",
+    "협력국 재정·환율"
+   ],
+   "countries": [],
+   "why": "농업·수자원·보건 사업의 가뭄·홍수 대비 계획과 우기·건기 공사 일정, 사업지 기상 경보 수신 체계를 점검합니다.",
+   "sources": [
+    {
+     "name": "WMO",
+     "url": "https://wmo.int/resources/publication-series/global-seasonal-climate-updates/gscu-ond2026"
+    },
+    {
+     "name": "CGTN",
+     "url": "https://news.cgtn.com/news/2026-10-09/WMO-El-Ni-o-forecast-to-peak-in-December-last-through-February-2027-1R6t7WLkY48/p.html"
+    }
+   ],
+   "verified": true
+  },
+  {
+   "cat": "외교",
+   "title": "로위연구소, 2024년 동남아 개발재원 260억 달러로 10년 만에 최저",
+   "summary": "호주 로위연구소의 「동남아 원조 지도」에 따르면 2024년 동남아로 들어간 개발재원은 260억 달러로 10% 가까이 줄어 10년 만에 가장 적었다. 중국의 공적개발재원은 53억 달러로 4분의 1 가까이 줄었고, 일본은 15억 달러를 줄였다.",
+   "date": "2026-10-11",
+   "channels": [
+    "공여 재원"
+   ],
+   "countries": [
+    "VNM",
+    "IDN",
+    "PHL",
+    "KHM",
+    "LAO"
+   ],
+   "why": "동남아 협력국 사업에서 다른 공여기관의 축소 여부와 그에 따른 공동재원·후속 사업 영향, 상대기관의 재원 계획 변경을 점검합니다.",
+   "sources": [
+    {
+     "name": "ABC News(Australia)",
+     "url": "https://www.abc.net.au/news/2026-10-11/china-us-japan-cut-aid-to-south-east-asia-lowy-report/107249020"
+    }
+   ],
+   "verified": true
+  }
+ ],
+ "crises": [
+  {
+   "type": "분쟁",
+   "name": "에티오피아 북부 교전",
+   "where": "에티오피아 북부(티그라이·아파르)",
+   "countries": [
+    "ETH"
+   ],
+   "status": "연방군과 동맹 세력이 메켈레 장악(10월 4일), TPLF는 철수 확인. 유엔은 티그라이의 유엔 창고·NGO 시설 약탈을 발표. 에티오피아가 에리트레아 외교관 10명을 추방한 뒤 에리트레아가 외교 관계 단절 발표.",
+   "asof": "2026-10-07",
+   "source": "The Reporter Ethiopia(유엔 브리핑 인용)·Al Jazeera",
+   "url": "https://www.thereporterethiopia.com/53257/"
+  },
+  {
+   "type": "감염병",
+   "name": "에볼라(분디부교 바이러스) 유행",
+   "where": "콩고민주공화국(케냐 수입 사례, 우간다 경유)",
+   "countries": [
+    "KEN",
+    "UGA"
+   ],
+   "status": "WHO 10월 8일 발표, 10월 6일 기준 콩고민주공화국 7개 주 64개 보건구역에서 확진 8,728명·사망 4,205명. 케냐 수입 사례 1건(사망), 케냐·우간다에서 접촉자 추적. WHO는 여행·무역 제한을 권고하지 않음.",
+   "asof": "2026-10-06",
+   "source": "WHO",
+   "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON619"
+  },
+  {
+   "type": "분쟁",
+   "name": "호르무즈 해협 선박 공격",
+   "where": "호르무즈 해협·걸프 해역",
+   "countries": [],
+   "status": "9월 28일~10월 5일 유조선 공격 최소 12건(해상안보 소식통, 국제해사기구 집계 9건). 국제해사기구 누적 집계(기간 미기재): 확인된 사건 93건, 선원 최소 24명 사망.",
+   "asof": "2026-10-09",
+   "source": "Alhurra(Reuters·IMO 인용)",
+   "url": "https://alhurra.com/en/45443"
+  },
+  {
+   "type": "분쟁",
+   "name": "수단 분쟁",
+   "where": "수단",
+   "countries": [],
+   "status": "유엔 안보리는 10월 8일 결의 2830호를 만장일치로 채택해 다르푸르 무기 금수를 12월 11일까지 2개월 연장. 수단 전역으로 넓히는 안은 채택되지 않음.",
+   "asof": "2026-10-08",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/9/un-extends-darfur-arms-embargo-blocks-broader-sudan-sanctions-proposal"
+  },
+  {
+   "type": "분쟁",
+   "name": "파키스탄·아프가니스탄 국경 교전",
+   "where": "파키스탄·아프가니스탄 국경 지역",
+   "countries": [
+    "PAK"
+   ],
+   "status": "파키스탄이 9월 30일 밤 아프가니스탄 쿠나르·헬만드주를 공습. 유엔아프간지원단(UNAMA)은 민간인 10명 사망을 보고하고, 2026년 들어 국경 간 폭력으로 아프가니스탄 민간인 1,100명 넘게 사상했다고 밝힘.",
+   "asof": "2026-10-05",
+   "source": "FDD Long War Journal(UNAMA 인용)",
+   "url": "https://www.longwarjournal.org/archives/2026/10/pakistan-launches-new-strikes-as-conflict-with-taliban-persist-into-third-week.php"
+  },
+  {
+   "type": "재난",
+   "name": "수마트라 산불 연무",
+   "where": "인도네시아 수마트라(남수마트라·리아우)",
+   "countries": [
+    "IDN"
+   ],
+   "status": "산불 연무로 시정이 떨어져 10월 7일 페칸바루 공항 착륙 불가 2편, 10월 8일 팔렘방 공항 지연 5편.",
+   "asof": "2026-10-08",
+   "source": "The Jakarta Post",
+   "url": "https://thejakartapost.com/indonesia/2026/10/09/worsening-wildfire-haze-disrupts-flights-across-sumatra"
+  },
+  {
+   "type": "분쟁",
+   "name": "가자지구 인도적 위기",
+   "where": "가자지구",
+   "countries": [],
+   "status": "WHO: 10월 10일로 휴전 발효 1년, 200만 명 가까이의 필요가 막대하고 보건 상황이 심각하다고 밝힘.",
+   "asof": "2026-10-07",
+   "source": "WHO",
+   "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---7-october-2026"
+  }
+ ],
+ "calendar": [
+  {
+   "date": "2026-10-12",
+   "title": "IMF·세계은행 연차총회(방콕, 10월 12~18일)",
+   "kind": "회의",
+   "countries": [],
+   "url": "https://www.imf.org/en/news/seminars/campaigns/2026/10/thailand-2026"
+  },
+  {
+   "date": "2026-10-13",
+   "title": "IMF 세계경제전망(WEO) 10월호 발표",
+   "kind": "발표",
+   "countries": [],
+   "url": "https://www.imf.org/en/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026"
+  },
+  {
+   "date": "2026-10-14",
+   "title": "차기 COP31 의장단 주재 수석대표 비공식 협의(화상)",
+   "kind": "회의",
+   "countries": [],
+   "url": "https://unfccc.int/cop31/the-road-to-antalya"
+  },
+  {
+   "date": "2026-10-28",
+   "title": "미국 연방공개시장위원회(FOMC) 금리 결정(10월 27~28일)",
+   "kind": "발표",
+   "countries": [],
+   "url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+  },
+  {
+   "date": "2026-11-09",
+   "title": "제31차 유엔기후변화협약 당사국총회(COP31, 튀르키예 안탈리아, 11월 9~20일)",
+   "kind": "회의",
+   "countries": [],
+   "url": "https://unfccc.int/cop31/the-road-to-antalya"
+  },
+  {
+   "date": "2026-11-18",
+   "title": "제33차 APEC 정상회의(중국 선전, 11월 18~19일)",
+   "kind": "회의",
+   "countries": [
+    "VNM",
+    "IDN",
+    "PHL",
+    "PER"
+   ],
+   "url": "https://www.lg.gov.cn/english/news/latestnews/content/post_12588327.html"
+  }
+ ]
+}

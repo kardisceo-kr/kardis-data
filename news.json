@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-18",
+  "updated": "2026-10-19",
   "note": "매일 갱신되는 파일. 항목은 제목·출처·링크·두세 문장 요약만 담고 본문은 싣지 않는다. verified=false는 제목만 확인하고 본문은 읽지 못한 항목.",
   "items": [
+    {
+      "iso3": "VNM",
+      "date": "2026-10-17",
+      "cat": "정치",
+      "title": "베트남 국회 제2차 회기 개막…11월 21일까지 43개 법안·2027년 예산 심의",
+      "summary": "제16기 국회 제2차 회기가 10월 17일 하노이에서 열렸다. 토지법·부동산사업법·주택법 개정안과 2027년 사회경제계획 및 국가예산안 등을 심의하며, 정부는 2027년 성장률 목표를 10% 이상으로 제시했다.",
+      "source": "VietnamPlus",
+      "url": "https://en.vietnamplus.vn/16th-national-assembly-commences-second-session-post353838.vnp",
+      "why": "토지·주택 관련 법 개정과 2027년 예산 확정이 사업 부지·인허가·재원 조건에 미치는 영향을 점검할 필요가 있다.",
+      "verified": true
+    },
     {
       "iso3": "UZB",
       "date": "2026-10-16",
@@ -44,6 +55,28 @@
       "source": "Africanews",
       "url": "https://www.africanews.com/2026/10/15/us-wants-to-see-senegals-debt-restructuring-completed-within-a-year/",
       "why": "채무조정 진행에 따른 재정 긴축이 상대국 부담금·예산 집행 일정에 영향을 주는지 점검이 필요하다.",
+      "verified": true
+    },
+    {
+      "iso3": "PER",
+      "date": "2026-10-15",
+      "cat": "재난",
+      "title": "페루 정부, 엘니뇨 대응책 발표…긴급 예산·위험지점 정비·지역별 장관 책임제",
+      "summary": "페루 대통령이 10월 15일 국가비상작전센터에서 엘니뇨 대응 계획을 밝혔다. 긴급 법령 22건 승인, 우선 위험지점 536곳 정비, 임시 대피소 3만 명분 확보, 우발사태 기금 확대 계획이 포함됐고 NOAA는 내년 1~3월 강한 엘니뇨 가능성을 83% 이상으로 제시했다.",
+      "source": "Andina(노티페루 전재)",
+      "url": "https://www.notiperu.com.pe/peru/noticia-peru-presidenta-fujimori-anuncia-importantes-acciones-gobierno-frente-fenomeno-nino-20261016052434.html",
+      "why": "북부 해안(피우라·툼베스 등) 사업지의 우기 일정, 접근로, 현장 인력 안전·대체 계획을 사전에 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "PER",
+      "date": "2026-10-14",
+      "cat": "정치",
+      "title": "페루 정부, 치안·공공질서 회복 위한 장관급 상설위원회 출범",
+      "summary": "10월 14일 최고행정명령 141-2026-PCM으로 총리가 위원장을 맡고 내무·국방·법무·외교 장관이 참여하는 상설 위원회가 만들어졌다. 위원회는 2026–2031 정부 정책의 치안 분야 이행을 점검하고 부처 간 우선순위와 자원 배분을 조율하며 비공개로 운영된다.",
+      "source": "Infobae(엘 페루아노 관보 기반)",
+      "url": "https://www.infobae.com/peru/2026/10/14/keiko-fujimori-crea-comision-peru-en-orden-quienes-la-integran-y-cuales-son-sus-funciones/",
+      "why": "현장 방문·이동 관련 치안 정책 변화와 기관 간 협의 창구 변동 여부를 점검할 필요가 있다.",
       "verified": true
     },
     {
@@ -110,6 +143,17 @@
       "source": "Trend News Agency",
       "url": "https://www.trend.az/azerbaijan/business/4232870.html",
       "why": "사업비·인건비 단가를 현지통화로 산정한 사업은 물가 반영 방식과 예산 조정 여지를 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "NPL",
+      "date": "2026-10-09",
+      "cat": "재난",
+      "title": "세계은행, 네팔 홍수 직접 물적 피해 16억 6천만 달러로 추산",
+      "summary": "세계은행의 네팔 개발 동향 보고서는 8월 26일 홍수의 직접 물적 피해를 약 16억 6천만 달러로 추정했고, 이 중 인프라가 83%를 차지한다. 라수와 무역로 일부가 파손되고 수력·태양광 약 430MW 설비가 영향을 받았으며, 네팔 정부 자체 평가는 물적 피해 18억 1천만 달러를 제시했다.",
+      "source": "IANS(텔랑가나 투데이 전재)",
+      "url": "https://telanganatoday.com/world-bank-estimates-1-66-billion-in-physical-damage-from-nepal-floods",
+      "why": "피해 지역 인프라·교량·전력 복구 계획이 기존 사업의 접근로와 일정에 미치는 영향을 점검할 필요가 있다.",
       "verified": true
     },
     {
@@ -631,7 +675,7 @@
     }
   ],
   "checked": {
-    "NPL": "2026-10-17",
+    "NPL": "2026-10-19",
     "GHA": "2026-10-18",
     "EGY": "2026-10-14",
     "KHM": "2026-10-15",
@@ -643,10 +687,10 @@
     "RWA": "2026-10-14",
     "BGD": "2026-10-15",
     "UGA": "2026-10-15",
-    "VNM": "2026-10-17",
-    "SEN": "2026-10-17",
-    "UZB": "2026-10-17",
-    "PER": "2026-10-17",
+    "VNM": "2026-10-19",
+    "SEN": "2026-10-19",
+    "UZB": "2026-10-19",
+    "PER": "2026-10-19",
     "PHL": "2026-10-18",
     "ETH": "2026-10-18",
     "IDN": "2026-10-18",

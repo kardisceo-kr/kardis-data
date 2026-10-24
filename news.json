@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24",
+  "updated": "2026-10-25",
   "note": "매일 갱신되는 파일. 항목은 제목·출처·링크·두세 문장 요약만 담고 본문은 싣지 않는다. verified=false는 제목만 확인하고 본문은 읽지 못한 항목.",
   "items": [
     {
@@ -22,6 +22,17 @@
       "source": "SCO 사무국",
       "url": "https://eng.sectsco.org/20261020/2569392.html",
       "why": "역내 교통·무역 협력 합의가 타지키스탄 내 사업 일정이나 인허가·물류 조건에 미치는 영향을 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "IDN",
+      "date": "2026-10-19",
+      "cat": "경제",
+      "title": "인도네시아 중앙은행, 대통령에 물가·루피아 현황 보고…식품물가 5%로 목표 상단 초과",
+      "summary": "인도네시아 중앙은행 총재가 10월 19일 대통령궁에서 대통령에게 물가와 루피아 동향을 보고했다. 9월 식품물가는 5%로 목표 상단(3.5%)을 넘었고 근원물가는 2.8%였다. 중앙은행은 농업부와 협력해 식품물가를 목표 범위로 되돌리고 외환시장 개입과 헤지 비용 인센티브를 이어가기로 했다.",
+      "source": "IDNFinancials",
+      "url": "https://www.idnfinancials.com/news/70517/destry-damayanti-reports-inflation-and-rupiah-developments-to-prabowo",
+      "why": "현지 조달·인건비 단가가 식품물가와 환율에 따라 달라질 수 있어 사업비 산정 기준 환율과 물가 가정을 점검할 필요가 있다.",
       "verified": true
     },
     {
@@ -77,6 +88,17 @@
       "source": "Trend News Agency(EBRD 보고서 인용)",
       "url": "https://www.trend.az/casia/kyrgyzstan/4235410.html",
       "why": "높은 물가가 현지 조달·인건비 단가에 반영돼 있는지 사업 예산을 점검해야 한다.",
+      "verified": true
+    },
+    {
+      "iso3": "NPL",
+      "date": "2026-10-15",
+      "cat": "경제",
+      "title": "네팔 중앙은행 통계: 물가 6.34%로 상승, 해외송금은 달러 기준 13.5% 증가",
+      "summary": "네팔 중앙은행 통계를 인용한 보도에 따르면 2026/27 회계연도 초반 소비자물가 상승률은 6.34%로 1년 전 1.87%보다 높아졌다. 해외송금은 달러 기준 28.5억 달러로 13.5% 늘었고, 외환보유액은 264.8억 달러(수입 약 20.9개월분)다. 루피는 달러당 153.24루피 수준이다.",
+      "source": "ShareSansar(네팔 중앙은행 통계 인용)",
+      "url": "https://www.sharesansar.com/newsdetail/how-did-we-perform-as-a-nation-in-second-month-of-fiscal-year-208384-a-quick-macroeconomic-summary-2026-10-15",
+      "why": "물가가 오르는 구간이어서 현지 물품·서비스 단가와 지표 목표치의 물가 보정 여부를 점검할 필요가 있다.",
       "verified": true
     },
     {
@@ -154,6 +176,17 @@
       "source": "Infobae(엘 페루아노 관보 기반)",
       "url": "https://www.infobae.com/peru/2026/10/14/keiko-fujimori-crea-comision-peru-en-orden-quienes-la-integran-y-cuales-son-sus-funciones/",
       "why": "현장 방문·이동 관련 치안 정책 변화와 기관 간 협의 창구 변동 여부를 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "NPL",
+      "date": "2026-10-13",
+      "cat": "경제",
+      "title": "IMF, 네팔 올해 성장률 3.6% 전망…유가 상승·에너지 공급 차질 위험 언급",
+      "summary": "IMF는 네팔의 성장률을 2026년 3.6%, 2027년 3.7%로 전망했다. 물가상승률은 2026년 3.1%, 2027년 5.8%로 내다봤다. 수입 연료 의존도가 높아 국제유가 상승과 에너지 공급 차질이 위험 요인이라고 밝혔다.",
+      "source": "ShareSansar(IMF 전망 인용)",
+      "url": "https://www.sharesansar.com/newsdetail/imf-projects-nepals-economic-growth-at-36-in-2026-2026-10-13",
+      "why": "성장·물가 전망이 지표 목표치와 사업비 가정에 쓰인 값과 어긋나지 않는지 점검할 필요가 있다.",
       "verified": true
     },
     {
@@ -840,7 +873,7 @@
     }
   ],
   "checked": {
-    "NPL": "2026-10-19",
+    "NPL": "2026-10-25",
     "GHA": "2026-10-24",
     "EGY": "2026-10-21",
     "KHM": "2026-10-22",
@@ -849,16 +882,16 @@
     "LAO": "2026-10-24",
     "KGZ": "2026-10-24",
     "MNG": "2026-10-21",
-    "RWA": "2026-10-21",
+    "RWA": "2026-10-25",
     "BGD": "2026-10-22",
     "UGA": "2026-10-22",
-    "VNM": "2026-10-19",
-    "SEN": "2026-10-19",
+    "VNM": "2026-10-25",
+    "SEN": "2026-10-25",
     "UZB": "2026-10-24",
-    "PER": "2026-10-19",
+    "PER": "2026-10-25",
     "PHL": "2026-10-24",
     "ETH": "2026-10-24",
-    "IDN": "2026-10-21",
+    "IDN": "2026-10-25",
     "BOL": "2026-10-21",
     "TZA": "2026-10-22",
     "LKA": "2026-10-23",

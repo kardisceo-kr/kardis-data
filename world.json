@@ -1,66 +1,40 @@
 {
- "updated": "2026-10-19",
- "period": "2026-10-12 ~ 2026-10-18",
- "lead": "IMF가 2026년 세계 성장률 전망을 3.1%로 제시했고, 호르무즈 해협 인근에서 선박 2척이 침몰했으며, 케냐의 에볼라(분디부교) 확진자는 3명으로 늘었다.",
+ "updated": "2026-10-26",
+ "period": "2026-10-19 ~ 2026-10-25",
+ "lead": "후티의 사우디 석유시설·공항 공격 주장 속에 브렌트유가 10월 23일 배럴당 116.72달러로 마감했고, 나이지리아에서 에볼라(분디부교) 첫 수입 확진이 나왔으며, UNEP는 현 정책이 이어지면 이번 세기 기온이 2.8°C 오른다고 제시했다.",
  "items": [
   {
-   "cat": "경제",
-   "title": "IMF, 올해 세계 성장률 3.1%로 0.1%p 상향…세계 물가상승률은 4.7%로 제시",
-   "summary": "IMF는 10월 13일 방콕 연차총회에서 발표한 세계경제전망에서 2026년 세계 성장률을 3.1%(7월 전망보다 0.1%p 높음), 2027년을 3.4%로 제시했다. 세계 물가상승률은 2025년 4.1%, 2026년 4.7%, 2027년 4.1%로, 신흥·개도국 성장률은 2026년 3.7%, 2027년 4.4%로 제시했다. IMF는 운송 차질·비료 가격·수출 제한·이상 기후에 따른 식량 가격 상승에 저소득국과 가계가 특히 취약하다고 밝혔고, 10월 14일 발표한 재정점검보고서에서는 세계 공공부채가 2025년 GDP의 94%에서 2029년 100%에 가까워질 것으로 내다봤다.",
-   "date": "2026-10-13",
-   "channels": [
-    "협력국 재정·환율"
-   ],
-   "countries": [],
-   "why": "사업 예산의 물가·환율 가정과, 상대국 재정 여건 변화가 대응자금·운영비 집행 계획에 반영돼 있는지 점검합니다.",
-   "sources": [
-    {
-     "name": "IMF",
-     "url": "https://www.imf.org/en/blogs/articles/2026/10/12/global-economic-resilience-is-under-strain-demanding-decisive-policy-action"
-    },
-    {
-     "name": "CGTN",
-     "url": "https://news.cgtn.com/news/2026-10-13/IMF-raises-2026-global-growth-forecast-to-3-1--1RcEPm28WWI/share_amp.html"
-    },
-    {
-     "name": "Pattaya Mail",
-     "url": "https://www.pattayamail.com/thailandnews/imf-warns-in-bangkok-global-public-debt-could-hit-100-of-gdp-by-2029-568416"
-    }
-   ],
-   "verified": true
-  },
-  {
    "cat": "분쟁",
-   "title": "호르무즈 해협 인근 선박 2척 침몰…브렌트유 배럴당 105달러대",
-   "summary": "싱가포르 해사항만청은 자국 선적 컨테이너선 GFS 프라이드호가 호르무즈 해협을 지나다 손상과 화재를 입고 침몰했으며 선원 21명은 모두 대피했다고 밝혔다. 국제해사기구 자료에 따르면 9월 23일 발사체에 맞은 앤티가바부다 선적 벌크선 케이프다오호도 해협 인근에서 침몰한 것으로 10월 14일 확인됐다(피격 당시 선원 1명 사망). 선박 추적업체 케플러 자료로는 10월 13일 기준 해협 통과 원유의 7일 평균이 하루 1,162만 배럴로 개전 전(하루 1,715만 배럴)의 약 68%였고, 브렌트유는 10월 16일 배럴당 105달러대에 거래됐다.",
-   "date": "2026-10-14",
+   "title": "후티, 사우디 석유시설·공항 공격 주장…브렌트유 116.72달러로 마감",
+   "summary": "로이터에 따르면 후티는 10월 19일 얀부의 아람코 시설, 샤이바 유전, 리야드 킹칼리드 국제공항, 아브하 공항을 공격했다고 밝혔고, 사우디 당국은 즉시 확인하지 않았다. 선박 추적업체 케플러는 2주 동안 최소 18척의 선박이 공격받은 것으로 보고됐다고 밝혔다. 미국 국무부는 10월 23일 사우디아라비아 여행경보를 3단계(여행 재고)로 하고 비긴급 공무원과 가족의 출국을 명령했으며, 브렌트유는 같은 날 배럴당 116.72달러(전일 대비 3.1% 상승)에 마감했다.",
+   "date": "2026-10-23",
    "channels": [
     "협력국 재정·환율",
     "현장 안전"
    ],
    "countries": [],
-   "why": "연료·운송비 비중이 큰 사업의 단가 가정과 예비비, 걸프 해역을 거치는 기자재 조달 일정과 해상 운송 보험 조건을 점검합니다.",
+   "why": "연료·운송비 비중이 큰 사업의 단가 가정과 예비비, 걸프·홍해를 거치는 기자재 운송 경로·일정, 중동 경유 출장 계획을 점검합니다.",
    "sources": [
     {
-     "name": "Hawaii Tribune-Herald(Reuters)",
-     "url": "https://www.hawaiitribune-herald.com/2026/10/15/nation-world-news/two-ships-sink-near-hormuz-after-being-hit-by-projectiles-amid-surge-in-attacks/"
+     "name": "미국 국무부 여행경보",
+     "url": "https://travel.state.gov/_res/rss/TAsTWs.xml"
     },
     {
-     "name": "HDFC Sky(Kpler 인용)",
-     "url": "https://hdfcsky.com/news/brent-holds-above-105-as-hormuz-attacks-cut-gulf-flows-68percent-wti-jumps-5-81percent-on-record-us-inventory-draw"
+     "name": "Engineering News(Reuters)",
+     "url": "https://engineeringnews.co.za/article/brent-hits-five-month-high-as-attacks-on-ships-saudi-sites-fuel-supply-worries-2026-10-20"
     },
     {
-     "name": "IndexBox",
-     "url": "https://www.indexbox.io/blog/oil-prices-set-for-weekly-gain-as-hormuz-strikes-and-us-inventory-draw-support-market/"
+     "name": "The Rio Times",
+     "url": "https://www.riotimesonline.com/oil-markets-latam-friday-october-23-2026"
     }
    ],
    "verified": true
   },
   {
    "cat": "보건",
-   "title": "케냐 에볼라(분디부교) 확진 3명으로 늘어…추가 2명은 격리 중 발병",
-   "summary": "WHO 아프리카지역사무소는 케냐에서 10월 14일 39세 남성, 10월 16일 65세 여성이 추가 확진돼 확진 3명·사망 1명이 됐다고 밝혔다. 두 사람은 콩고민주공화국에서 입국해 10월 5일 사망한 첫 확진자의 가족으로 이미 격리 중이었으며, 첫 확진자 접촉자 130명 가운데 127명이 격리돼 있다. 영국보건안전청 집계로 콩고민주공화국 확진은 10월 11일 기준 9,066명, 사망은 4,381명이며, WHO는 여행·무역 제한을 권고하지 않는다.",
-   "date": "2026-10-16",
+   "title": "에볼라(분디부교) 케냐 확진 9명으로 늘어…나이지리아서 첫 수입 확진",
+   "summary": "WHO는 10월 23일 질병발생소식에서 10월 20일 기준 케냐 확진 9명(사망 1명, 모두 한 집단과 연결), 나이지리아 수입 확진 1명, 콩고민주공화국 확진 9,704명·사망 4,687명을 보고했다. AP에 따르면 나이지리아 확진자는 우간다에서 입국한 여성으로, 10월 7일 증상이 나타나 10월 11일 아부자의 사립병원에 입원했으며 보건 당국은 접촉자 44명을 확인했다. WHO는 영향을 받은 나라에 대한 여행·무역 제한을 권고하지 않는다.",
+   "date": "2026-10-23",
    "channels": [
     "현장 안전"
    ],
@@ -71,64 +45,74 @@
    "why": "케냐·우간다 사업 인력의 출장·입국 검역 절차, 현장 감염 예방 물품과 비상 연락 체계를 점검합니다.",
    "sources": [
     {
-     "name": "WHO 아프리카지역사무소",
-     "url": "https://www.afro.who.int/countries/kenya/news/who-supports-kenyas-ebola-response-third-case-found-early-quarantine"
+     "name": "WHO 질병발생소식(DON622)",
+     "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622"
     },
     {
-     "name": "UKHSA",
-     "url": "https://www.gov.uk/government/publications/outbreaks-under-monitoring-in-2026/outbreaks-under-monitoring-week-41-week-ending-11-october-2026"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/14/kenyas-health-ministry-confirms-second-ebola-case"
+     "name": "KUOW(NPR·AP)",
+     "url": "https://www.kuow.org/npr-news/2026-10-20/nigeria-confirms-an-ebola-case-in-abuja-as-a-woman-arriving-from-uganda-tests-positive"
     }
    ],
    "verified": true
   },
   {
-   "cat": "정치",
-   "title": "에티오피아 총리실, 티그라이 임시정부 지명…6개월 안 선거 추진",
-   "summary": "로이터에 따르면 아비 아머드 총리실은 10월 16일 티그라이주 임시정부를 지명했으며, 임시정부는 6개월간 운영되면서 그 기간 안에 선거 여건을 마련하고 기반시설 복구와 실향민 귀환을 맡는다. 앞서 연방군은 아드와·아디그라트에 교전 없이 들어갔고, 분쟁 감시단체 ACLED는 정부군과 동맹 세력의 악숨 진입을 기록했다. 유엔난민기구 집계로 2월 기준 티그라이 국내 실향민은 약 75만 명이다.",
-   "date": "2026-10-16",
+   "cat": "기후·재난",
+   "title": "UNEP 배출격차보고서: 현 정책이면 이번 세기 2.8°C, NDC 모두 이행해도 2.6°C 상승",
+   "summary": "UNEP가 10월 21일 공개한 「배출격차보고서 2026」은 현 정책이 이어지면 이번 세기 기온이 산업화 이전보다 2.8°C, 각국 국가온실가스감축목표(NDC)를 모두 이행하면 2.6°C 오른다고 제시했다. 보고서는 1.5°C를 넘지 않을 수 있는 기회는 닫혔다고 밝히고, 초과 폭을 줄이려면 배출량을 2025년 대비 2030년 18%, 2035년 45%, 2040년 69% 줄여야 한다고 밝혔다. 2025년에는 124개국의 배출이 늘고 63개국은 줄었다.",
+   "date": "2026-10-21",
    "channels": [
-    "현장 안전"
+    "국제 규범·의제"
    ],
-   "countries": [
-    "ETH"
-   ],
-   "why": "티그라이 사업의 상대기관 변경에 따른 협의 창구·서명권자, 사업지 접근 경로와 현장 인력 이동 계획을 점검합니다.",
+   "countries": [],
+   "why": "11월 COP31을 앞두고 기후 분야 사업의 감축·적응 지표 산정 기준과 상대국 NDC 목표와의 연계 서술을 점검합니다.",
    "sources": [
     {
-     "name": "Daily Maverick(Reuters)",
-     "url": "https://www.dailymaverick.co.za/article/2026-10-16-ethiopias-abiy-names-new-tigray-government-wants-polls-in-six-months.md"
+     "name": "UNEP",
+     "url": "https://www.unep.org/en/publications/report/emissions-gap-report-2026"
     },
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses"
+     "name": "TIME",
+     "url": "https://time.com/article/2026/10/21/un-emissions-gap-report-what-to-know/"
+    },
+    {
+     "name": "The Energy Mix",
+     "url": "https://www.theenergymix.com/un-emissions-gap-report-abandons-1-5c-points-to-u-s-as-world-loses-ground-on-climate/"
+    }
+   ],
+   "verified": true
+  },
+  {
+   "cat": "경제",
+   "title": "세계은행그룹, 첫 디지털 전략 발표…연결성·AI 준비도 등 4대 우선순위",
+   "summary": "세계은행그룹은 10월 20일 첫 디지털 전략을 발표하고 연결성 확대, 기기·데이터 비용 절감, 디지털 서비스·역량 강화, 특정 과업과 현지 여건에 맞춘 '소형 AI' 중심의 AI 준비도 구축을 4대 우선순위로 제시했다. 세계은행은 2025년 전 세계 오프라인 인구가 20억 명이 넘고, 저소득국 인터넷 이용률이 23%로 고소득국(94%)보다 낮다고 밝혔다. 아프리카·중남미부터 공유형 종량제 GPU 연산 인프라를 제공하는 'AI 인프라·준비도 이니셔티브'도 함께 내놓았다.",
+   "date": "2026-10-20",
+   "channels": [
+    "국제 규범·의제"
+   ],
+   "countries": [],
+   "why": "디지털·AI 요소가 있는 사업에서 세계은행 사업과의 중복·연계 여부와, 기기·요금 접근성 관련 성과지표의 정의를 점검합니다.",
+   "sources": [
+    {
+     "name": "세계은행",
+     "url": "https://www.worldbank.org/en/news/press-release/2026/10/20/world-bank-group-launches-first-digital-strategy-to-expand-access-and-create-jobs"
     }
    ],
    "verified": true
   },
   {
    "cat": "외교",
-   "title": "유엔난민기구, 올해 필요 재원 85억 달러 중 35% 확보…내년 예상 재원 약 26억 8,000만 달러",
-   "summary": "바르함 살리 유엔난민고등판무관은 10월 12일 제네바 집행위원회에서 올해 필요 재원 85억 달러 가운데 30억 달러(35%)를 확보했다고 밝혔다. 내년 예상 재원은 약 26억 8,000만 달러로 12월 공약회의 뒤 늘어날 수 있고, 직원은 2024년 약 2만 명에서 1만 2,000명 미만으로 줄었다. 에티오피아에서는 남수단·에리트레아 출신 난민 수만 명의 등록이 중단됐다.",
-   "date": "2026-10-12",
+   "title": "WFP, 재원 부족으로 가자지구 지원 대상 약 160만→110만 명으로 축소",
+   "summary": "세계식량계획(WFP)은 10월 19일 재원 부족으로 가자지구 식량·현금 지원 대상을 월 약 160만 명에서 110만 명으로 줄여 50만 명이 지원을 받지 못하게 됐다고 밝혔다. 하루 조리식 제공은 25만 끼에서 15만 끼로 줄었고, 서안지구 지원 대상은 9월에 40만 명에서 20만 명으로 절반이 됐다. WFP는 2026년 10월부터 2027년 3월까지 가자지구·서안지구 운영에 4억 5,000만 달러가 필요하다고 밝혔다.",
+   "date": "2026-10-19",
    "channels": [
     "공여 재원"
    ],
-   "countries": [
-    "ETH"
-   ],
-   "why": "난민·수용 공동체 대상 사업에서 유엔난민기구와의 공동 사업·연계 서비스(등록, 법률 지원 등) 축소 여부와 대체 재원 계획을 점검합니다.",
+   "countries": [],
+   "why": "다자기구와 연계하거나 위탁한 사업에서 협력 기구의 재원 부족에 따른 지원 대상·범위 축소 여부와 사업 계획 반영 상태를 점검합니다.",
    "sources": [
     {
-     "name": "The Star(Reuters)",
-     "url": "https://www.thestar.com.my/news/world/2026/10/12/un-refugee-agency039s-funding-shortfall-is-impacting-refugees-worldwide-its-chief-says"
-    },
-    {
-     "name": "Swissinfo",
-     "url": "https://www.swissinfo.ch/eng/international-geneva/unhcr-chief-says-the-agencys-task-is-impossible-without-funding/92206414"
+     "name": "WFP",
+     "url": "https://www.wfp.org/news/funding-cuts-force-wfp-drastically-reduce-lifesaving-assistance-gaza"
     }
    ],
    "verified": true
@@ -142,7 +126,7 @@
    "countries": [
     "ETH"
    ],
-   "status": "연방군이 메켈레에 이어 아드와·아디그라트에 진입, ACLED는 악숨 진입 기록. 총리실은 10월 16일 6개월 임기의 티그라이 임시정부를 지명. 에티오피아·에리트레아 외교 관계 단절 상태.",
+   "status": "연방군이 메켈레·아드와·아디그라트에 진입. 총리실은 10월 16일 6개월 임기의 티그라이 임시정부를 지명. 에티오피아·에리트레아 외교 관계 단절 상태.",
    "asof": "2026-10-16",
    "source": "Daily Maverick(Reuters)·Al Jazeera",
    "url": "https://www.dailymaverick.co.za/article/2026-10-16-ethiopias-abiy-names-new-tigray-government-wants-polls-in-six-months.md"
@@ -150,15 +134,25 @@
   {
    "type": "감염병",
    "name": "에볼라(분디부교 바이러스) 유행",
-   "where": "콩고민주공화국(케냐 수입 사례 및 2차 감염)",
+   "where": "콩고민주공화국(케냐·나이지리아 수입 사례, 케냐 2차 감염)",
    "countries": [
     "KEN",
     "UGA"
    ],
-   "status": "콩고민주공화국 7개 주 65개 보건구역에서 확진 9,066명·사망 4,381명(10월 11일, 영국보건안전청). 케냐 확진 3명·사망 1명, 접촉자 130명 중 127명 격리(10월 16일, WHO). WHO는 여행·무역 제한을 권고하지 않음.",
-   "asof": "2026-10-16",
-   "source": "WHO 아프리카지역사무소·UKHSA",
-   "url": "https://www.afro.who.int/countries/kenya/news/who-supports-kenyas-ebola-response-third-case-found-early-quarantine"
+   "status": "콩고민주공화국 확진 9,704명·사망 4,687명, 케냐 확진 9명·사망 1명, 나이지리아 수입 확진 1명(10월 20일 기준, WHO). WHO는 여행·무역 제한을 권고하지 않음.",
+   "asof": "2026-10-20",
+   "source": "WHO 질병발생소식(DON622)",
+   "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622"
+  },
+  {
+   "type": "분쟁",
+   "name": "걸프·홍해 해역 선박 및 사우디 시설 공격",
+   "where": "걸프·홍해 해역·사우디아라비아",
+   "countries": [],
+   "status": "케플러는 2주 동안 최소 18척의 선박이 공격받은 것으로 보고됐다고 밝힘(10월 20일, 로이터). 후티는 10월 19일 얀부 아람코 시설·샤이바 유전·공항 공격을 주장했고 사우디 당국은 즉시 확인하지 않음. 미국 국무부는 10월 23일 사우디 여행경보 3단계와 비긴급 공무원 출국 명령을 발표.",
+   "asof": "2026-10-23",
+   "source": "미국 국무부·Engineering News(Reuters)",
+   "url": "https://engineeringnews.co.za/article/brent-hits-five-month-high-as-attacks-on-ships-saudi-sites-fuel-supply-worries-2026-10-20"
   },
   {
    "type": "재난",
@@ -169,8 +163,8 @@
    ],
    "status": "10월 10일 기준 사망 1,457명(네팔 경찰본부 집계)·실종 4,720명, 정부 임시수용시설 이재민 1,231명.",
    "asof": "2026-10-10",
-   "source": "Nepal News",
-   "url": "https://english.nepalnews.com/s/nation/bhotekoshi-flood-official-death-toll-put-at-1457/"
+   "source": "Ratopati(네팔 경찰본부 집계)",
+   "url": "https://english.ratopati.com/story/83108/bhotekoshi-flood-1457-people-dead-4720-missing"
   },
   {
    "type": "분쟁",
@@ -179,7 +173,7 @@
    "countries": [
     "PAK"
    ],
-   "status": "파키스탄이 9월 30일 밤 아프가니스탄 쿠나르·헬만드주를 공습. 유엔아프간지원단(UNAMA)은 민간인 최소 10명 사망을 보고하고, 2026년 들어 국경 간 폭력으로 아프가니스탄 민간인 1,100명 넘게 사상했다고 밝힘. 파키스탄은 무장세력만 겨냥했다고 밝힘.",
+   "status": "파키스탄이 9월 30일~10월 1일 밤사이 아프가니스탄 쿠나르·헬만드주를 공습. 유엔아프간지원단(UNAMA)은 민간인 최소 10명 사망을 보고하고, 2026년 들어 국경 간 폭력으로 아프가니스탄 민간인 1,100명 넘게 사상했다고 밝힘. 파키스탄은 무장세력만 겨냥했다고 밝힘.",
    "asof": "2026-10-05",
    "source": "FDD Long War Journal(UNAMA 인용)",
    "url": "https://www.longwarjournal.org/archives/2026/10/pakistan-launches-new-strikes-as-conflict-with-taliban-persist-into-third-week.php"
@@ -191,30 +185,20 @@
    "countries": [
     "IDN"
    ],
-   "status": "아세안특별기상센터(ASMC) 집계 10월 13일 기준 올해 열점 38,511개(칼리만탄 29,745개·수마트라 8,766개)로 8월 27일 15,652개에서 146% 증가. 남부 아세안 경보 3단계(8월 26일 상향).",
-   "asof": "2026-10-13",
-   "source": "The Star(ASMC 자료)",
-   "url": "https://www.thestar.com.my/news/nation/2026/10/15/interactive-hotspots-in-kalimantan-sumatra-hit-decade-high"
-  },
-  {
-   "type": "분쟁",
-   "name": "호르무즈 해협 선박 공격",
-   "where": "호르무즈 해협·걸프 해역",
-   "countries": [],
-   "status": "싱가포르 선적 컨테이너선 GFS 프라이드호(선원 21명 대피)와 9월 23일 피격된 케이프다오호가 침몰. 국제해사기구 사고 자료 분석상 2월 28일 이후 침몰 선박은 3척.",
-   "asof": "2026-10-14",
-   "source": "Hawaii Tribune-Herald(Reuters)",
-   "url": "https://www.hawaiitribune-herald.com/2026/10/15/nation-world-news/two-ships-sink-near-hormuz-after-being-hit-by-projectiles-amid-surge-in-attacks/"
+   "status": "아세안특별기상센터(ASMC) 자료로 칼리만탄 열점 453개·수마트라 153개 탐지(10월 16일 말레이시아 조호르주 발표). 같은 날 조호르 파시르구당·라킨의 대기오염지수 202(매우 나쁨).",
+   "asof": "2026-10-16",
+   "source": "Bernama(ASMC 자료)",
+   "url": "https://bernama.com/en/news.php?id=2621507"
   },
   {
    "type": "분쟁",
    "name": "수단 분쟁",
    "where": "수단",
    "countries": [],
-   "status": "유엔 안보리 10월 16일 브리핑에서 로즈메리 디카를로 유엔 사무차장이 드론 공격 즉각 중단을 요구. 유엔 자료로 2026년 상반기 드론 공격 사망자 1,100명 이상. 10월 3일 세계식량계획(WFP) 계약 화물차 2대 피격으로 운전기사 1명 사망.",
-   "asof": "2026-10-16",
-   "source": "The National",
-   "url": "https://www.thenationalnews.com/news/us/2026/10/16/un-demands-immediate-end-to-drone-attacks-in-sudan-as-civilian-deaths-mount/"
+   "status": "유엔인권사무소(OHCHR)는 10월 첫 3주 동안 코르도판·다르푸르·청나일·하르툼 등에서 드론 공격으로 최소 306명이 사망했다고 발표. 10월 18일 서코르도판 디바브에서 화물차 공격으로 최소 139명 사망.",
+   "asof": "2026-10-23",
+   "source": "UN News(OHCHR)",
+   "url": "https://news.un.org/en/story/2026/10/1168661"
   }
  ],
  "calendar": [

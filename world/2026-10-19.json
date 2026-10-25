@@ -1,0 +1,255 @@
+{
+ "updated": "2026-10-19",
+ "period": "2026-10-12 ~ 2026-10-18",
+ "lead": "IMF가 2026년 세계 성장률 전망을 3.1%로 제시했고, 호르무즈 해협 인근에서 선박 2척이 침몰했으며, 케냐의 에볼라(분디부교) 확진자는 3명으로 늘었다.",
+ "items": [
+  {
+   "cat": "경제",
+   "title": "IMF, 올해 세계 성장률 3.1%로 0.1%p 상향…세계 물가상승률은 4.7%로 제시",
+   "summary": "IMF는 10월 13일 방콕 연차총회에서 발표한 세계경제전망에서 2026년 세계 성장률을 3.1%(7월 전망보다 0.1%p 높음), 2027년을 3.4%로 제시했다. 세계 물가상승률은 2025년 4.1%, 2026년 4.7%, 2027년 4.1%로, 신흥·개도국 성장률은 2026년 3.7%, 2027년 4.4%로 제시했다. IMF는 운송 차질·비료 가격·수출 제한·이상 기후에 따른 식량 가격 상승에 저소득국과 가계가 특히 취약하다고 밝혔고, 10월 14일 발표한 재정점검보고서에서는 세계 공공부채가 2025년 GDP의 94%에서 2029년 100%에 가까워질 것으로 내다봤다.",
+   "date": "2026-10-13",
+   "channels": [
+    "협력국 재정·환율"
+   ],
+   "countries": [],
+   "why": "사업 예산의 물가·환율 가정과, 상대국 재정 여건 변화가 대응자금·운영비 집행 계획에 반영돼 있는지 점검합니다.",
+   "sources": [
+    {
+     "name": "IMF",
+     "url": "https://www.imf.org/en/blogs/articles/2026/10/12/global-economic-resilience-is-under-strain-demanding-decisive-policy-action"
+    },
+    {
+     "name": "CGTN",
+     "url": "https://news.cgtn.com/news/2026-10-13/IMF-raises-2026-global-growth-forecast-to-3-1--1RcEPm28WWI/share_amp.html"
+    },
+    {
+     "name": "Pattaya Mail",
+     "url": "https://www.pattayamail.com/thailandnews/imf-warns-in-bangkok-global-public-debt-could-hit-100-of-gdp-by-2029-568416"
+    }
+   ],
+   "verified": true
+  },
+  {
+   "cat": "분쟁",
+   "title": "호르무즈 해협 인근 선박 2척 침몰…브렌트유 배럴당 105달러대",
+   "summary": "싱가포르 해사항만청은 자국 선적 컨테이너선 GFS 프라이드호가 호르무즈 해협을 지나다 손상과 화재를 입고 침몰했으며 선원 21명은 모두 대피했다고 밝혔다. 국제해사기구 자료에 따르면 9월 23일 발사체에 맞은 앤티가바부다 선적 벌크선 케이프다오호도 해협 인근에서 침몰한 것으로 10월 14일 확인됐다(피격 당시 선원 1명 사망). 선박 추적업체 케플러 자료로는 10월 13일 기준 해협 통과 원유의 7일 평균이 하루 1,162만 배럴로 개전 전(하루 1,715만 배럴)의 약 68%였고, 브렌트유는 10월 16일 배럴당 105달러대에 거래됐다.",
+   "date": "2026-10-14",
+   "channels": [
+    "협력국 재정·환율",
+    "현장 안전"
+   ],
+   "countries": [],
+   "why": "연료·운송비 비중이 큰 사업의 단가 가정과 예비비, 걸프 해역을 거치는 기자재 조달 일정과 해상 운송 보험 조건을 점검합니다.",
+   "sources": [
+    {
+     "name": "Hawaii Tribune-Herald(Reuters)",
+     "url": "https://www.hawaiitribune-herald.com/2026/10/15/nation-world-news/two-ships-sink-near-hormuz-after-being-hit-by-projectiles-amid-surge-in-attacks/"
+    },
+    {
+     "name": "HDFC Sky(Kpler 인용)",
+     "url": "https://hdfcsky.com/news/brent-holds-above-105-as-hormuz-attacks-cut-gulf-flows-68percent-wti-jumps-5-81percent-on-record-us-inventory-draw"
+    },
+    {
+     "name": "IndexBox",
+     "url": "https://www.indexbox.io/blog/oil-prices-set-for-weekly-gain-as-hormuz-strikes-and-us-inventory-draw-support-market/"
+    }
+   ],
+   "verified": true
+  },
+  {
+   "cat": "보건",
+   "title": "케냐 에볼라(분디부교) 확진 3명으로 늘어…추가 2명은 격리 중 발병",
+   "summary": "WHO 아프리카지역사무소는 케냐에서 10월 14일 39세 남성, 10월 16일 65세 여성이 추가 확진돼 확진 3명·사망 1명이 됐다고 밝혔다. 두 사람은 콩고민주공화국에서 입국해 10월 5일 사망한 첫 확진자의 가족으로 이미 격리 중이었으며, 첫 확진자 접촉자 130명 가운데 127명이 격리돼 있다. 영국보건안전청 집계로 콩고민주공화국 확진은 10월 11일 기준 9,066명, 사망은 4,381명이며, WHO는 여행·무역 제한을 권고하지 않는다.",
+   "date": "2026-10-16",
+   "channels": [
+    "현장 안전"
+   ],
+   "countries": [
+    "KEN",
+    "UGA"
+   ],
+   "why": "케냐·우간다 사업 인력의 출장·입국 검역 절차, 현장 감염 예방 물품과 비상 연락 체계를 점검합니다.",
+   "sources": [
+    {
+     "name": "WHO 아프리카지역사무소",
+     "url": "https://www.afro.who.int/countries/kenya/news/who-supports-kenyas-ebola-response-third-case-found-early-quarantine"
+    },
+    {
+     "name": "UKHSA",
+     "url": "https://www.gov.uk/government/publications/outbreaks-under-monitoring-in-2026/outbreaks-under-monitoring-week-41-week-ending-11-october-2026"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/14/kenyas-health-ministry-confirms-second-ebola-case"
+    }
+   ],
+   "verified": true
+  },
+  {
+   "cat": "정치",
+   "title": "에티오피아 총리실, 티그라이 임시정부 지명…6개월 안 선거 추진",
+   "summary": "로이터에 따르면 아비 아머드 총리실은 10월 16일 티그라이주 임시정부를 지명했으며, 임시정부는 6개월간 운영되면서 그 기간 안에 선거 여건을 마련하고 기반시설 복구와 실향민 귀환을 맡는다. 앞서 연방군은 아드와·아디그라트에 교전 없이 들어갔고, 분쟁 감시단체 ACLED는 정부군과 동맹 세력의 악숨 진입을 기록했다. 유엔난민기구 집계로 2월 기준 티그라이 국내 실향민은 약 75만 명이다.",
+   "date": "2026-10-16",
+   "channels": [
+    "현장 안전"
+   ],
+   "countries": [
+    "ETH"
+   ],
+   "why": "티그라이 사업의 상대기관 변경에 따른 협의 창구·서명권자, 사업지 접근 경로와 현장 인력 이동 계획을 점검합니다.",
+   "sources": [
+    {
+     "name": "Daily Maverick(Reuters)",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-16-ethiopias-abiy-names-new-tigray-government-wants-polls-in-six-months.md"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses"
+    }
+   ],
+   "verified": true
+  },
+  {
+   "cat": "외교",
+   "title": "유엔난민기구, 올해 필요 재원 85억 달러 중 35% 확보…내년 예상 재원 약 26억 8,000만 달러",
+   "summary": "바르함 살리 유엔난민고등판무관은 10월 12일 제네바 집행위원회에서 올해 필요 재원 85억 달러 가운데 30억 달러(35%)를 확보했다고 밝혔다. 내년 예상 재원은 약 26억 8,000만 달러로 12월 공약회의 뒤 늘어날 수 있고, 직원은 2024년 약 2만 명에서 1만 2,000명 미만으로 줄었다. 에티오피아에서는 남수단·에리트레아 출신 난민 수만 명의 등록이 중단됐다.",
+   "date": "2026-10-12",
+   "channels": [
+    "공여 재원"
+   ],
+   "countries": [
+    "ETH"
+   ],
+   "why": "난민·수용 공동체 대상 사업에서 유엔난민기구와의 공동 사업·연계 서비스(등록, 법률 지원 등) 축소 여부와 대체 재원 계획을 점검합니다.",
+   "sources": [
+    {
+     "name": "The Star(Reuters)",
+     "url": "https://www.thestar.com.my/news/world/2026/10/12/un-refugee-agency039s-funding-shortfall-is-impacting-refugees-worldwide-its-chief-says"
+    },
+    {
+     "name": "Swissinfo",
+     "url": "https://www.swissinfo.ch/eng/international-geneva/unhcr-chief-says-the-agencys-task-is-impossible-without-funding/92206414"
+    }
+   ],
+   "verified": true
+  }
+ ],
+ "crises": [
+  {
+   "type": "분쟁",
+   "name": "에티오피아 북부 교전",
+   "where": "에티오피아 북부(티그라이·아파르)",
+   "countries": [
+    "ETH"
+   ],
+   "status": "연방군이 메켈레에 이어 아드와·아디그라트에 진입, ACLED는 악숨 진입 기록. 총리실은 10월 16일 6개월 임기의 티그라이 임시정부를 지명. 에티오피아·에리트레아 외교 관계 단절 상태.",
+   "asof": "2026-10-16",
+   "source": "Daily Maverick(Reuters)·Al Jazeera",
+   "url": "https://www.dailymaverick.co.za/article/2026-10-16-ethiopias-abiy-names-new-tigray-government-wants-polls-in-six-months.md"
+  },
+  {
+   "type": "감염병",
+   "name": "에볼라(분디부교 바이러스) 유행",
+   "where": "콩고민주공화국(케냐 수입 사례 및 2차 감염)",
+   "countries": [
+    "KEN",
+    "UGA"
+   ],
+   "status": "콩고민주공화국 7개 주 65개 보건구역에서 확진 9,066명·사망 4,381명(10월 11일, 영국보건안전청). 케냐 확진 3명·사망 1명, 접촉자 130명 중 127명 격리(10월 16일, WHO). WHO는 여행·무역 제한을 권고하지 않음.",
+   "asof": "2026-10-16",
+   "source": "WHO 아프리카지역사무소·UKHSA",
+   "url": "https://www.afro.who.int/countries/kenya/news/who-supports-kenyas-ebola-response-third-case-found-early-quarantine"
+  },
+  {
+   "type": "재난",
+   "name": "부테코시·트리슐리 강 홍수",
+   "where": "네팔(라수와·누와코트 등)",
+   "countries": [
+    "NPL"
+   ],
+   "status": "10월 10일 기준 사망 1,457명(네팔 경찰본부 집계)·실종 4,720명, 정부 임시수용시설 이재민 1,231명.",
+   "asof": "2026-10-10",
+   "source": "Nepal News",
+   "url": "https://english.nepalnews.com/s/nation/bhotekoshi-flood-official-death-toll-put-at-1457/"
+  },
+  {
+   "type": "분쟁",
+   "name": "파키스탄·아프가니스탄 국경 교전",
+   "where": "파키스탄·아프가니스탄 국경 지역",
+   "countries": [
+    "PAK"
+   ],
+   "status": "파키스탄이 9월 30일 밤 아프가니스탄 쿠나르·헬만드주를 공습. 유엔아프간지원단(UNAMA)은 민간인 최소 10명 사망을 보고하고, 2026년 들어 국경 간 폭력으로 아프가니스탄 민간인 1,100명 넘게 사상했다고 밝힘. 파키스탄은 무장세력만 겨냥했다고 밝힘.",
+   "asof": "2026-10-05",
+   "source": "FDD Long War Journal(UNAMA 인용)",
+   "url": "https://www.longwarjournal.org/archives/2026/10/pakistan-launches-new-strikes-as-conflict-with-taliban-persist-into-third-week.php"
+  },
+  {
+   "type": "재난",
+   "name": "칼리만탄·수마트라 산불 연무",
+   "where": "인도네시아 칼리만탄·수마트라",
+   "countries": [
+    "IDN"
+   ],
+   "status": "아세안특별기상센터(ASMC) 집계 10월 13일 기준 올해 열점 38,511개(칼리만탄 29,745개·수마트라 8,766개)로 8월 27일 15,652개에서 146% 증가. 남부 아세안 경보 3단계(8월 26일 상향).",
+   "asof": "2026-10-13",
+   "source": "The Star(ASMC 자료)",
+   "url": "https://www.thestar.com.my/news/nation/2026/10/15/interactive-hotspots-in-kalimantan-sumatra-hit-decade-high"
+  },
+  {
+   "type": "분쟁",
+   "name": "호르무즈 해협 선박 공격",
+   "where": "호르무즈 해협·걸프 해역",
+   "countries": [],
+   "status": "싱가포르 선적 컨테이너선 GFS 프라이드호(선원 21명 대피)와 9월 23일 피격된 케이프다오호가 침몰. 국제해사기구 사고 자료 분석상 2월 28일 이후 침몰 선박은 3척.",
+   "asof": "2026-10-14",
+   "source": "Hawaii Tribune-Herald(Reuters)",
+   "url": "https://www.hawaiitribune-herald.com/2026/10/15/nation-world-news/two-ships-sink-near-hormuz-after-being-hit-by-projectiles-amid-surge-in-attacks/"
+  },
+  {
+   "type": "분쟁",
+   "name": "수단 분쟁",
+   "where": "수단",
+   "countries": [],
+   "status": "유엔 안보리 10월 16일 브리핑에서 로즈메리 디카를로 유엔 사무차장이 드론 공격 즉각 중단을 요구. 유엔 자료로 2026년 상반기 드론 공격 사망자 1,100명 이상. 10월 3일 세계식량계획(WFP) 계약 화물차 2대 피격으로 운전기사 1명 사망.",
+   "asof": "2026-10-16",
+   "source": "The National",
+   "url": "https://www.thenationalnews.com/news/us/2026/10/16/un-demands-immediate-end-to-drone-attacks-in-sudan-as-civilian-deaths-mount/"
+  }
+ ],
+ "calendar": [
+  {
+   "date": "2026-10-28",
+   "title": "미국 연방공개시장위원회(FOMC) 금리 결정(10월 27~28일)",
+   "kind": "발표",
+   "countries": [],
+   "url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "FAO 식량가격지수 10월 수치 발표",
+   "kind": "발표",
+   "countries": [],
+   "url": "https://www.fao.org/worldfoodsituation/FoodPricesIndex/en"
+  },
+  {
+   "date": "2026-11-09",
+   "title": "제31차 유엔기후변화협약 당사국총회(COP31, 튀르키예 안탈리아, 11월 9~20일)",
+   "kind": "회의",
+   "countries": [],
+   "url": "https://unfccc.int/cop31/the-road-to-antalya"
+  },
+  {
+   "date": "2026-11-18",
+   "title": "제33차 APEC 정상회의(중국 선전, 11월 18~19일)",
+   "kind": "회의",
+   "countries": [
+    "VNM",
+    "IDN",
+    "PHL",
+    "PER"
+   ],
+   "url": "https://www.lg.gov.cn/english/news/latestnews/content/post_12588327.html"
+  }
+ ]
+}

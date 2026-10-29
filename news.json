@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "note": "매일 갱신되는 파일. 항목은 제목·출처·링크·두세 문장 요약만 담고 본문은 싣지 않는다. verified=false는 제목만 확인하고 본문은 읽지 못한 항목.",
   "items": [
     {
@@ -25,6 +25,39 @@
       "verified": true
     },
     {
+      "iso3": "PAK",
+      "date": "2026-10-27",
+      "cat": "경제",
+      "title": "파키스탄 중앙은행, 정책금리 0.5%p 올려 12%로…9월 물가 10.3%",
+      "summary": "파키스탄 중앙은행 통화정책위원회가 9 대 1로 정책금리를 12%로 인상했다. 9월 소비자물가는 전년 대비 10.3%, 근원물가는 약 8.4%였다. 위원회는 중동 분쟁과 국내 밀 공급 차질을 물가 상승 요인으로 들었다.",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2637107/sbp-raises-policy-rate-to-12",
+      "why": "현지 조달·인건비 단가와 환율을 쓰는 사업은 예산 가정의 물가 반영분을 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "LKA",
+      "date": "2026-10-27",
+      "cat": "경제",
+      "title": "스리랑카 내각, 아시아개발은행 1억 달러 거시회복 차관 승인",
+      "summary": "스리랑카 내각이 아시아개발은행의 1억 달러 차관 협정을 승인했다. 이 차관은 IMF 프로그램 하의 개혁을 뒷받침하는 6억 2천만 달러 정책금융 패키지의 일부다.",
+      "source": "EconomyNext",
+      "url": "https://economynext.com/sri-lanka-cabinet-clears-100mn-adb-loan-for-economic-recovery-288007/",
+      "why": "정책금융에 딸린 개혁 조건이 우리 사업 분야의 제도·예산에 미치는 영향을 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "TJK",
+      "date": "2026-10-27",
+      "cat": "경제",
+      "title": "타지키스탄, 쿠웨이트 석유공사와 협력 협의…러시아 외 연료 공급처 모색",
+      "summary": "타지키스탄 주쿠웨이트 대사가 10월 25일 쿠웨이트 석유공사 회장과 석유·가스 협력을 논의했으나 합의된 사업은 발표되지 않았다. 올해 1~9월 석유제품 수입은 91만 6,400톤, 8억 5,840만 달러였고 러시아가 최대 공급국이다.",
+      "source": "Asia-Plus",
+      "url": "https://asiaplus.news/en/2026/10/27/tajikistan-discusses-oil-and-gas-cooperation-with-kuwait-petroleum-corporation/",
+      "why": "연료 수입 의존도가 높아 현장 차량·발전 운영비와 공급 지연 가능성을 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
       "iso3": "BGD",
       "date": "2026-10-27",
       "cat": "사회",
@@ -33,6 +66,28 @@
       "source": "The Daily Star",
       "url": "https://www.thedailystar.net/business/news/rmg-wage-board-be-formed-soon-minister-4308791",
       "why": "의류·봉제 지역에서 사업을 하거나 현장 방문이 있다면 시위 지역의 이동과 일정 영향을 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "KEN",
+      "date": "2026-10-26",
+      "cat": "사회",
+      "title": "케냐 나이로비서 연료값 항의 행진 예고…휘발유 리터당 226.96실링",
+      "summary": "인권단체 연합이 10월 26일 나이로비 시내에서 대통령관저까지 행진을 예고했고, 10월 20일에도 연료값 항의 시위가 있었다. 10~11월 에너지규제청 고시가는 휘발유 226.96실링, 경유 227.76실링으로 직전보다 각각 12.93실링, 9.90실링 올랐다. 규제청은 국제가 상승과 중동 분쟁을 이유로 들었다.",
+      "source": "The Star (Kenya)",
+      "url": "https://www.the-star.co.ke/news/2026-10-26-activists-plan-nairobi-protests-over-soaring-fuel-prices",
+      "why": "나이로비 현장 일정과 이동 계획은 시위 일정·교통 상황과 연료비 상승분을 함께 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "PRY",
+      "date": "2026-10-26",
+      "cat": "경제",
+      "title": "파라과이 은행협회, 중앙은행의 우에노은행 관련 상원 답변에 '불완전' 지적",
+      "summary": "파라과이 은행협회(Asoban)는 중앙은행이 상원 정보요청 31개 문항 중 8개에 은행 비밀을 이유로 답하지 않았다며 모든 은행에 같은 기준을 적용하라고 요구했다. 중앙은행은 금융시스템의 지급능력과 유동성이 적정하다는 입장이다. 대통령은 10월 20일 중앙은행에 독립성 유지와 명확한 설명을 주문했다.",
+      "source": "ABC Color",
+      "url": "https://www.abc.com.py/economia/2026/10/26/la-supervision-bancaria-debe-ofrecer-resultados-visibles-advierte-borda/",
+      "why": "현지 금융기관 계좌·송금을 쓰는 사업은 은행 감독 논의의 진행을 보며 자금 보관·집행 경로를 점검할 필요가 있다.",
       "verified": true
     },
     {
@@ -958,39 +1013,6 @@
       "url": "https://montsame.mn/en/read/408551",
       "why": "2027년 예산 심의 결과에 따라 정부 매칭 재원과 공공부문 임금 가정이 달라질 수 있어 확정 시점을 확인할 필요가 있음.",
       "verified": true
-    },
-    {
-      "iso3": "ETH",
-      "date": "2026",
-      "cat": "한국ODA",
-      "title": "에티오피아 재무부·수출입은행, EDCF 신규 사업군 준비와 기존 사업 속도 점검",
-      "summary": "에티오피아 재무부와 한국수출입은행, 사업수행기관이 EDCF 이행 현황과 조정 과제를 검토했다. 에티오피아 자국 경제개혁 의제에 맞춘 신규 투자도 논의됐다. EDCF는 에너지·도로·관개·보건·고등교육 분야를 지원한다.",
-      "source": "Addis Fortune",
-      "url": "https://addisfortune.news/ethiopia-south-korea-expand-development-finance-pipeline",
-      "why": "신규 EDCF 사업과 연계되는 협력 사업의 일정·분야 중복 여부 점검이 필요하다.",
-      "verified": true
-    },
-    {
-      "iso3": "VNM",
-      "date": "2026",
-      "cat": "경제",
-      "title": "베트남, 고속철도 사업에 일본 ODA 차관 요청",
-      "summary": "베트남 정부가 남북 고속철도 사업을 위해 일본에 새 ODA 차관을 요청했다는 보도.",
-      "source": "vietnam.vn",
-      "url": "https://www.vietnam.vn/ko/de-nghi-nhat-cap-khoan-vay-oda-moi-cho-duong-sat-toc-do-cao-cua-viet-nam",
-      "why": "대형 인프라의 재원 경쟁 구도(일본·한국·중국)를 EDCF 제안 시 참고.",
-      "verified": false
-    },
-    {
-      "iso3": "UZB",
-      "date": "2026",
-      "cat": "경제",
-      "title": "IMF·EBRD·ADB, 우즈베키스탄 차기 개혁 우선순위 제시",
-      "summary": "국제기구 세 곳이 우즈베키스탄의 다음 개혁 단계 우선순위를 밝혔다는 보도. 본문은 확인하지 못함.",
-      "source": "UzDaily",
-      "url": "https://www.uzdaily.uz/en/imf-ebrd-and-adb-outline-priorities-for-uzbekistans-next-reform-stage/",
-      "why": "공기업·금융 부문 개혁 방향이 F/S 단계 사업의 상대기관 역량 가정에 영향.",
-      "verified": false
     }
   ],
   "checked": {
@@ -999,7 +1021,7 @@
     "EGY": "2026-10-28",
     "KHM": "2026-10-29",
     "AZE": "2026-10-29",
-    "PAK": "2026-10-23",
+    "PAK": "2026-10-30",
     "LAO": "2026-10-27",
     "KGZ": "2026-10-27",
     "MNG": "2026-10-28",
@@ -1015,9 +1037,9 @@
     "IDN": "2026-10-28",
     "BOL": "2026-10-28",
     "TZA": "2026-10-29",
-    "LKA": "2026-10-23",
-    "KEN": "2026-10-23",
-    "TJK": "2026-10-23",
-    "PRY": "2026-10-23"
+    "LKA": "2026-10-30",
+    "KEN": "2026-10-30",
+    "TJK": "2026-10-30",
+    "PRY": "2026-10-30"
   }
 }

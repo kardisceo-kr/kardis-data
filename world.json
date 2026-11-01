@@ -1,40 +1,62 @@
 {
- "updated": "2026-10-26",
- "period": "2026-10-19 ~ 2026-10-25",
- "lead": "후티의 사우디 석유시설·공항 공격 주장 속에 브렌트유가 10월 23일 배럴당 116.72달러로 마감했고, 나이지리아에서 에볼라(분디부교) 첫 수입 확진이 나왔으며, UNEP는 현 정책이 이어지면 이번 세기 기온이 2.8°C 오른다고 제시했다.",
+ "updated": "2026-11-02",
+ "period": "2026-10-26 ~ 2026-11-01",
+ "lead": "세계은행이 올해 원자재 가격 23% 상승을 전망했고 미국 연준은 기준금리를 동결했으며, 호르무즈 해협 일대 선박 공격은 10월 1~23일 28건으로 집계됐고 콩고민주공화국 에볼라 확진은 1만 명을 넘었다.",
  "items": [
   {
    "cat": "분쟁",
-   "title": "후티, 사우디 석유시설·공항 공격 주장…브렌트유 116.72달러로 마감",
-   "summary": "로이터에 따르면 후티는 10월 19일 얀부의 아람코 시설, 샤이바 유전, 리야드 킹칼리드 국제공항, 아브하 공항을 공격했다고 밝혔고, 사우디 당국은 즉시 확인하지 않았다. 선박 추적업체 케플러는 2주 동안 최소 18척의 선박이 공격받은 것으로 보고됐다고 밝혔다. 미국 국무부는 10월 23일 사우디아라비아 여행경보를 3단계(여행 재고)로 하고 비긴급 공무원과 가족의 출국을 명령했으며, 브렌트유는 같은 날 배럴당 116.72달러(전일 대비 3.1% 상승)에 마감했다.",
-   "date": "2026-10-23",
+   "title": "호르무즈 해협 일대 선박 공격 10월 23일까지 28건…후티, 사우디 라스타누라 정유시설 공격 주장",
+   "summary": "로이터가 10월 23일 전한 워싱턴근동정책연구소 집계에 따르면 10월 들어 23일까지 호르무즈 해협과 주변 해역에서 확인·보고된 선박 공격은 28건으로 이 연구소 집계상 월간 최다이며, 2월 28일 이후 누적 113건이다. 후티는 10월 27일 탄도미사일로 사우디 동부주 라스타누라 정유시설(하루 55만 배럴 규모)을 공격했다고 밝혔고, 보도 시점까지 사우디 당국의 발표는 전해지지 않았다. 미국 중부사령부는 10월 28일 주요 국제 항로의 기뢰를 제거했고 항로에 기뢰가 없는 상태라고 밝히며, 선박이 기뢰에 피격됐다는 이란 측 주장을 부인했다.",
+   "date": "2026-10-28",
    "channels": [
-    "협력국 재정·환율",
-    "현장 안전"
+    "현장 안전",
+    "협력국 재정·환율"
    ],
    "countries": [],
-   "why": "연료·운송비 비중이 큰 사업의 단가 가정과 예비비, 걸프·홍해를 거치는 기자재 운송 경로·일정, 중동 경유 출장 계획을 점검합니다.",
+   "why": "걸프·홍해를 거치는 기자재 운송 경로·일정과 보험료, 연료비 단가 가정, 중동 경유 출장 계획을 점검합니다.",
    "sources": [
     {
-     "name": "미국 국무부 여행경보",
-     "url": "https://travel.state.gov/_res/rss/TAsTWs.xml"
+     "name": "Al-Monitor(Reuters)",
+     "url": "https://www.al-monitor.com/originals/2026/10/ship-attacks-strait-hormuz-hit-record-high-october"
     },
     {
-     "name": "Engineering News(Reuters)",
-     "url": "https://engineeringnews.co.za/article/brent-hits-five-month-high-as-attacks-on-ships-saudi-sites-fuel-supply-worries-2026-10-20"
+     "name": "Malay Mail(AFP)",
+     "url": "https://www.malaymail.com/news/world/2026/10/27/houthis-say-targeted-saudi-oil-refinery-with-ballistic-missile/240831"
     },
     {
-     "name": "The Rio Times",
-     "url": "https://www.riotimesonline.com/oil-markets-latam-friday-october-23-2026"
+     "name": "Shafaq News(미국 중부사령부 발표)",
+     "url": "https://shafaq.com/en/World/CENTCOM-Hormuz-shipping-lanes-remain-mine-free"
+    }
+   ],
+   "verified": true
+  },
+  {
+   "cat": "경제",
+   "title": "세계은행, 올해 원자재 가격 23%·에너지 32% 상승 전망…같은 날 미 연준은 금리 동결",
+   "summary": "세계은행은 10월 28일 「원자재시장전망」에서 2026년 원자재 가격이 23% 오르고 2027년에는 7% 내릴 것으로 내다봤다. 2026년 에너지 가격은 32%, 비료는 14%, 식량은 약 10% 오르고, 브렌트유는 2026년 평균 배럴당 91달러(2025년 69달러), 2027년 79달러로 제시했다. 같은 날 미국 연방공개시장위원회(FOMC)는 기준금리를 연 3.75~4.00%로 동결했으며(찬성 10, 반대 2), 반대한 2명은 0.25%포인트 인상을 주장했다.",
+   "date": "2026-10-28",
+   "channels": [
+    "협력국 재정·환율"
+   ],
+   "countries": [],
+   "why": "연료·비료·식량 단가가 들어간 사업비 산정 기준과 예비비, 달러 환산 예산의 환율 가정을 점검합니다.",
+   "sources": [
+    {
+     "name": "세계은행",
+     "url": "https://www.worldbank.org/en/news/press-release/2026/10/28/commodity-markets-outlook-october-2026"
+    },
+    {
+     "name": "미국 연방준비제도",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
     }
    ],
    "verified": true
   },
   {
    "cat": "보건",
-   "title": "에볼라(분디부교) 케냐 확진 9명으로 늘어…나이지리아서 첫 수입 확진",
-   "summary": "WHO는 10월 23일 질병발생소식에서 10월 20일 기준 케냐 확진 9명(사망 1명, 모두 한 집단과 연결), 나이지리아 수입 확진 1명, 콩고민주공화국 확진 9,704명·사망 4,687명을 보고했다. AP에 따르면 나이지리아 확진자는 우간다에서 입국한 여성으로, 10월 7일 증상이 나타나 10월 11일 아부자의 사립병원에 입원했으며 보건 당국은 접촉자 44명을 확인했다. WHO는 영향을 받은 나라에 대한 여행·무역 제한을 권고하지 않는다.",
-   "date": "2026-10-23",
+   "title": "콩고민주공화국 에볼라(분디부교) 확진 1만 명 넘어…케냐 사망 2명, 우간다 국경 조치",
+   "summary": "유럽질병예방통제센터(ECDC)가 10월 27일 정리한 자료에 따르면 콩고민주공화국 확진은 10월 26일 기준 10,060명(사망 4,887명, 10월 25일까지 자료)으로, 8개 주 66개 보건구역에서 발생했다. 케냐는 10월 26일 기준 확진 9명·사망 2명이며, 우간다는 10월 25일 콩고민주공화국 국경의 입국 지점 조치와 이동 제한을 발표했다. 나이지리아 수입 확진자는 10월 26일 스위스로 이송됐다.",
+   "date": "2026-10-27",
    "channels": [
     "현장 안전"
    ],
@@ -42,77 +64,60 @@
     "KEN",
     "UGA"
    ],
-   "why": "케냐·우간다 사업 인력의 출장·입국 검역 절차, 현장 감염 예방 물품과 비상 연락 체계를 점검합니다.",
+   "why": "케냐·우간다 사업 인력의 국경 이동·입국 검역 절차와 현장 감염 예방 물품, 비상 연락 체계를 점검합니다.",
    "sources": [
     {
-     "name": "WHO 질병발생소식(DON622)",
-     "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622"
+     "name": "ECDC(10월 27일 갱신)",
+     "url": "https://www.ecdc.europa.eu/en/public-health-events/2026-eip-00026/2026-10-27"
     },
     {
-     "name": "KUOW(NPR·AP)",
-     "url": "https://www.kuow.org/npr-news/2026-10-20/nigeria-confirms-an-ebola-case-in-abuja-as-a-woman-arriving-from-uganda-tests-positive"
+     "name": "ECDC",
+     "url": "https://www.ecdc.europa.eu/en/public-health-events/2026-EIP-00026"
     }
    ],
    "verified": true
   },
   {
    "cat": "기후·재난",
-   "title": "UNEP 배출격차보고서: 현 정책이면 이번 세기 2.8°C, NDC 모두 이행해도 2.6°C 상승",
-   "summary": "UNEP가 10월 21일 공개한 「배출격차보고서 2026」은 현 정책이 이어지면 이번 세기 기온이 산업화 이전보다 2.8°C, 각국 국가온실가스감축목표(NDC)를 모두 이행하면 2.6°C 오른다고 제시했다. 보고서는 1.5°C를 넘지 않을 수 있는 기회는 닫혔다고 밝히고, 초과 폭을 줄이려면 배출량을 2025년 대비 2030년 18%, 2035년 45%, 2040년 69% 줄여야 한다고 밝혔다. 2025년에는 124개국의 배출이 늘고 63개국은 줄었다.",
-   "date": "2026-10-21",
+   "title": "WMO 온실가스 회보: 2025년 대기 이산화탄소 농도 426.8ppm, 최고치",
+   "summary": "세계기상기구(WMO)는 10월 27일 발표한 「온실가스 회보」에서 2025년 지구 평균 이산화탄소 농도가 426.8ppm으로 산업화 이전(1750년)의 153%이며, 2024년보다 2.8ppm 늘었다고 밝혔다. 메탄(1,948ppb)과 아산화질소(339.1ppb)도 관측 이래 최고치였다. WMO는 이산화탄소 증가 폭이 최근 10년 평균보다 컸지만 2023~2024년보다는 작았다고 밝혔다.",
+   "date": "2026-10-27",
    "channels": [
     "국제 규범·의제"
    ],
    "countries": [],
-   "why": "11월 COP31을 앞두고 기후 분야 사업의 감축·적응 지표 산정 기준과 상대국 NDC 목표와의 연계 서술을 점검합니다.",
+   "why": "11월 COP31을 앞두고 기후 분야 사업의 온실가스 감축량 산정 방법과 기초선 자료 연도를 점검합니다.",
    "sources": [
     {
-     "name": "UNEP",
-     "url": "https://www.unep.org/en/publications/report/emissions-gap-report-2026"
+     "name": "WMO",
+     "url": "https://wmo.int/node/39151"
     },
     {
-     "name": "TIME",
-     "url": "https://time.com/article/2026/10/21/un-emissions-gap-report-what-to-know/"
-    },
-    {
-     "name": "The Energy Mix",
-     "url": "https://www.theenergymix.com/un-emissions-gap-report-abandons-1-5c-points-to-u-s-as-world-loses-ground-on-climate/"
-    }
-   ],
-   "verified": true
-  },
-  {
-   "cat": "경제",
-   "title": "세계은행그룹, 첫 디지털 전략 발표…연결성·AI 준비도 등 4대 우선순위",
-   "summary": "세계은행그룹은 10월 20일 첫 디지털 전략을 발표하고 연결성 확대, 기기·데이터 비용 절감, 디지털 서비스·역량 강화, 특정 과업과 현지 여건에 맞춘 '소형 AI' 중심의 AI 준비도 구축을 4대 우선순위로 제시했다. 세계은행은 2025년 전 세계 오프라인 인구가 20억 명이 넘고, 저소득국 인터넷 이용률이 23%로 고소득국(94%)보다 낮다고 밝혔다. 아프리카·중남미부터 공유형 종량제 GPU 연산 인프라를 제공하는 'AI 인프라·준비도 이니셔티브'도 함께 내놓았다.",
-   "date": "2026-10-20",
-   "channels": [
-    "국제 규범·의제"
-   ],
-   "countries": [],
-   "why": "디지털·AI 요소가 있는 사업에서 세계은행 사업과의 중복·연계 여부와, 기기·요금 접근성 관련 성과지표의 정의를 점검합니다.",
-   "sources": [
-    {
-     "name": "세계은행",
-     "url": "https://www.worldbank.org/en/news/press-release/2026/10/20/world-bank-group-launches-first-digital-strategy-to-expand-access-and-create-jobs"
+     "name": "EconoTimes",
+     "url": "https://econotimes.com/Global-CO2-Concentration-Reached-426-8-ppm-in-2025-WMO-Says-1764292"
     }
    ],
    "verified": true
   },
   {
    "cat": "외교",
-   "title": "WFP, 재원 부족으로 가자지구 지원 대상 약 160만→110만 명으로 축소",
-   "summary": "세계식량계획(WFP)은 10월 19일 재원 부족으로 가자지구 식량·현금 지원 대상을 월 약 160만 명에서 110만 명으로 줄여 50만 명이 지원을 받지 못하게 됐다고 밝혔다. 하루 조리식 제공은 25만 끼에서 15만 끼로 줄었고, 서안지구 지원 대상은 9월에 40만 명에서 20만 명으로 절반이 됐다. WFP는 2026년 10월부터 2027년 3월까지 가자지구·서안지구 운영에 4억 5,000만 달러가 필요하다고 밝혔다.",
-   "date": "2026-10-19",
+   "title": "생물다양성협약 COP17 폐막…「예레반 경로」 채택, 2030년 이후 재원 체계는 COP18로",
+   "summary": "아르메니아 예레반에서 열린 생물다양성협약 제17차 당사국총회(COP17)가 10월 31일 폐막하며, 쿤밍-몬트리올 세계생물다양성체계의 첫 전 지구 점검에 따른 「예레반 경로」 등 약 50개 결정을 채택했다. 2030년 이후 재원 체계를 새 기금으로 할지 기존 체계를 쓸지는 2028년 COP18에서 정하기로 했다. 지구환경기금(GEF)은 10월 26일 스페인(5,000만 유로)·우즈베키스탄(450만 달러) 등의 약정으로 GEF-9(2026년 7월~2030년 6월) 약정이 약 44억 달러가 됐다고 밝혔고, 독일은 세계생물다양성체계기금(GBFF)에 5,000만 유로를 추가 출연하겠다고 밝혔다.",
+   "date": "2026-10-31",
    "channels": [
+    "국제 규범·의제",
     "공여 재원"
    ],
    "countries": [],
-   "why": "다자기구와 연계하거나 위탁한 사업에서 협력 기구의 재원 부족에 따른 지원 대상·범위 축소 여부와 사업 계획 반영 상태를 점검합니다.",
+   "why": "생물다양성·산림·보호구역 요소가 있는 사업에서 GEF 재원과의 연계·중복 여부와 상대국 생물다양성 국가전략 목표와의 연계 서술을 점검합니다.",
    "sources": [
     {
-     "name": "WFP",
-     "url": "https://www.wfp.org/news/funding-cuts-force-wfp-drastically-reduce-lifesaving-assistance-gaza"
+     "name": "GEF",
+     "url": "https://www.thegef.org/newsroom/press-releases/un-biodiversity-conference-gets-finance-boost-action-nature-500-million"
+    },
+    {
+     "name": "The News Minute",
+     "url": "https://www.thenewsminute.com/news/cop17-adopts-yerevan-pathway-as-countries-struggle-to-meet-global-biodiversity-targets"
     }
    ],
    "verified": true
@@ -126,33 +131,33 @@
    "countries": [
     "ETH"
    ],
-   "status": "연방군이 메켈레·아드와·아디그라트에 진입. 총리실은 10월 16일 6개월 임기의 티그라이 임시정부를 지명. 에티오피아·에리트레아 외교 관계 단절 상태.",
-   "asof": "2026-10-16",
-   "source": "Daily Maverick(Reuters)·Al Jazeera",
-   "url": "https://www.dailymaverick.co.za/article/2026-10-16-ethiopias-abiy-names-new-tigray-government-wants-polls-in-six-months.md"
+   "status": "10월 30일 티그라이주 라마에서 드론 공격으로 민간인 최소 12명 사망(지역 당국·병원 관계자 집계, 공격 주체 미확인). 연방군이 메켈레 등에 진입했고 총리실은 10월 16일 6개월 임기의 티그라이 임시정부를 지명.",
+   "asof": "2026-10-30",
+   "source": "A News(Addis Standard 인용)",
+   "url": "https://www.anews.com.tr/world/2026/10/31/drone-strike-kills-12-civilians-collecting-grain-in-ethiopias-tigray-region"
   },
   {
    "type": "감염병",
    "name": "에볼라(분디부교 바이러스) 유행",
-   "where": "콩고민주공화국(케냐·나이지리아 수입 사례, 케냐 2차 감염)",
+   "where": "콩고민주공화국(케냐·나이지리아 확진, 우간다 국경 조치)",
    "countries": [
     "KEN",
     "UGA"
    ],
-   "status": "콩고민주공화국 확진 9,704명·사망 4,687명, 케냐 확진 9명·사망 1명, 나이지리아 수입 확진 1명(10월 20일 기준, WHO). WHO는 여행·무역 제한을 권고하지 않음.",
-   "asof": "2026-10-20",
-   "source": "WHO 질병발생소식(DON622)",
-   "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622"
+   "status": "콩고민주공화국 확진 10,274명·사망 4,992명(10월 28일까지, ECDC 10월 30일 갱신), 8개 주. 케냐 확진 9명·사망 2명(10월 26일 기준), 나이지리아 수입 확진자는 스위스로 이송(ECDC 10월 27일 갱신). WHO는 여행·무역 금지를 권고하지 않음.",
+   "asof": "2026-10-28",
+   "source": "ECDC(10월 27·30일 갱신)",
+   "url": "https://www.ecdc.europa.eu/en/public-health-events/2026-EIP-00026"
   },
   {
    "type": "분쟁",
    "name": "걸프·홍해 해역 선박 및 사우디 시설 공격",
    "where": "걸프·홍해 해역·사우디아라비아",
    "countries": [],
-   "status": "케플러는 2주 동안 최소 18척의 선박이 공격받은 것으로 보고됐다고 밝힘(10월 20일, 로이터). 후티는 10월 19일 얀부 아람코 시설·샤이바 유전·공항 공격을 주장했고 사우디 당국은 즉시 확인하지 않음. 미국 국무부는 10월 23일 사우디 여행경보 3단계와 비긴급 공무원 출국 명령을 발표.",
-   "asof": "2026-10-23",
-   "source": "미국 국무부·Engineering News(Reuters)",
-   "url": "https://engineeringnews.co.za/article/brent-hits-five-month-high-as-attacks-on-ships-saudi-sites-fuel-supply-worries-2026-10-20"
+   "status": "10월 1~23일 호르무즈 해협 일대 선박 공격 28건, 2월 28일 이후 113건(워싱턴근동정책연구소 집계). 후티는 10월 27일 라스타누라 정유시설 공격을 주장. 미국 중부사령부는 10월 28일 주요 항로의 기뢰를 제거했고 기뢰가 없는 상태라고 발표.",
+   "asof": "2026-10-28",
+   "source": "Al-Monitor(Reuters)·Shafaq News",
+   "url": "https://www.al-monitor.com/originals/2026/10/ship-attacks-strait-hormuz-hit-record-high-october"
   },
   {
    "type": "재난",
@@ -161,10 +166,20 @@
    "countries": [
     "NPL"
    ],
-   "status": "10월 10일 기준 사망 1,457명(네팔 경찰본부 집계)·실종 4,720명, 정부 임시수용시설 이재민 1,231명.",
-   "asof": "2026-10-10",
-   "source": "Ratopati(네팔 경찰본부 집계)",
-   "url": "https://english.ratopati.com/story/83108/bhotekoshi-flood-1457-people-dead-4720-missing"
+   "status": "사망 1,457명·실종 4,720명(10월 10일, 네팔 경찰본부 집계). 국가계획위원회는 피해·손실을 4,082.9억 루피, 복구 소요를 7,233.1억 루피로 추산(10월 29일 보도). 정부는 이재민에게 6개월간 임시 주거 지원 예정.",
+   "asof": "2026-10-29",
+   "source": "Nepal News",
+   "url": "https://english.nepalnews.com/s/business/nepal-news-evening-economic-brief-october-29-2026/"
+  },
+  {
+   "type": "분쟁",
+   "name": "수단 분쟁",
+   "where": "수단",
+   "countries": [],
+   "status": "유엔 인권최고대표(폴커 튀르크)는 10월 첫 3주 동안 드론 공격으로 최소 306명이 사망했다고 발표(10월 23일). 유엔 수단 진상조사단은 10월 28일 북코르도판 엘오베이드의 병원 약 30%만 운영 중이라고 밝힘.",
+   "asof": "2026-10-28",
+   "source": "UN News",
+   "url": "https://news.un.org/en/story/2026/10/1168696"
   },
   {
    "type": "분쟁",
@@ -173,41 +188,19 @@
    "countries": [
     "PAK"
    ],
-   "status": "파키스탄이 9월 30일~10월 1일 밤사이 아프가니스탄 쿠나르·헬만드주를 공습. 유엔아프간지원단(UNAMA)은 민간인 최소 10명 사망을 보고하고, 2026년 들어 국경 간 폭력으로 아프가니스탄 민간인 1,100명 넘게 사상했다고 밝힘. 파키스탄은 무장세력만 겨냥했다고 밝힘.",
+   "status": "파키스탄이 9월 30일~10월 1일 밤사이 아프가니스탄 쿠나르·헬만드주를 공습. 유엔아프간지원단(UNAMA)은 민간인 최소 10명 사망을 보고하고, 2026년 들어 국경 간 폭력으로 아프가니스탄 민간인 1,100명 넘게 사상했다고 밝힘. 파키스탄은 무장세력만 겨냥했다고 밝힘. (10월 5일 이후 갱신 정보 확인 안 됨)",
    "asof": "2026-10-05",
    "source": "FDD Long War Journal(UNAMA 인용)",
    "url": "https://www.longwarjournal.org/archives/2026/10/pakistan-launches-new-strikes-as-conflict-with-taliban-persist-into-third-week.php"
-  },
-  {
-   "type": "재난",
-   "name": "칼리만탄·수마트라 산불 연무",
-   "where": "인도네시아 칼리만탄·수마트라",
-   "countries": [
-    "IDN"
-   ],
-   "status": "아세안특별기상센터(ASMC) 자료로 칼리만탄 열점 453개·수마트라 153개 탐지(10월 16일 말레이시아 조호르주 발표). 같은 날 조호르 파시르구당·라킨의 대기오염지수 202(매우 나쁨).",
-   "asof": "2026-10-16",
-   "source": "Bernama(ASMC 자료)",
-   "url": "https://bernama.com/en/news.php?id=2621507"
-  },
-  {
-   "type": "분쟁",
-   "name": "수단 분쟁",
-   "where": "수단",
-   "countries": [],
-   "status": "유엔인권사무소(OHCHR)는 10월 첫 3주 동안 코르도판·다르푸르·청나일·하르툼 등에서 드론 공격으로 최소 306명이 사망했다고 발표. 10월 18일 서코르도판 디바브에서 화물차 공격으로 최소 139명 사망.",
-   "asof": "2026-10-23",
-   "source": "UN News(OHCHR)",
-   "url": "https://news.un.org/en/story/2026/10/1168661"
   }
  ],
  "calendar": [
   {
-   "date": "2026-10-28",
-   "title": "미국 연방공개시장위원회(FOMC) 금리 결정(10월 27~28일)",
-   "kind": "발표",
+   "date": "2026-11-03",
+   "title": "미국 중간선거(연방 하원 전체·상원 일부)",
+   "kind": "선거",
    "countries": [],
-   "url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+   "url": "https://www.fec.gov/help-candidates-and-committees/dates-and-deadlines/2026-reporting-dates/electioneering-communications-periods-general-election-2026/"
   },
   {
    "date": "2026-11-06",
@@ -234,6 +227,13 @@
     "PER"
    ],
    "url": "https://www.lg.gov.cn/english/news/latestnews/content/post_12588327.html"
+  },
+  {
+   "date": "2026-12-09",
+   "title": "미국 연방공개시장위원회(FOMC) 금리 결정(12월 8~9일)",
+   "kind": "발표",
+   "countries": [],
+   "url": "https://www.federalreserve.gov/newsevents/2026-december.htm"
   }
  ]
 }

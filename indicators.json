@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03",
+ "updated": "2026-11-04",
  "note": "매일 GitHub Actions가 공개 데이터로 계산한다(AI 미사용). stale=true는 최근 수집에 실패해 이전 값을 보여 주는 항목.",
  "items": [
   {
@@ -7,13 +7,9 @@
    "label": "원/달러 환율",
    "unit": "원",
    "freq": "일간",
-   "value": 1342.9,
-   "asof": "2026-11-02",
+   "value": 1344.6,
+   "asof": "2026-11-03",
    "series": [
-    [
-     "2026-06-30",
-     1550.9
-    ],
     [
      "2026-07-01",
      1558.1
@@ -369,15 +365,19 @@
     [
      "2026-11-02",
      1342.9
+    ],
+    [
+     "2026-11-03",
+     1344.6
     ]
    ],
-   "change": -208.0,
-   "change_from": "2026-06-30",
+   "change": -213.5,
+   "change_from": "2026-07-01",
    "why": "달러 강세는 원화로 편성된 사업비의 현지 구매력과, 달러 부채가 많은 협력국의 상환 부담을 바꿉니다.",
    "source": "ECB 유로 기준환율로 환산(kardis 계산)",
    "source_url": "https://data.ecb.europa.eu/data/datasets/EXR",
    "note": "Source: ECB statistics.",
-   "fetched": "2026-11-03"
+   "fetched": "2026-11-04"
   },
   {
    "id": "effr",
@@ -385,12 +385,8 @@
    "unit": "%",
    "freq": "일간",
    "value": 3.88,
-   "asof": "2026-10-30",
+   "asof": "2026-11-02",
    "series": [
-    [
-     "2025-10-31",
-     3.86
-    ],
     [
      "2025-11-07",
      3.87
@@ -598,15 +594,19 @@
     [
      "2026-10-30",
      3.88
+    ],
+    [
+     "2026-11-02",
+     3.88
     ]
    ],
-   "change": 0.02,
-   "change_from": "2025-10-31",
+   "change": 0.01,
+   "change_from": "2025-11-07",
    "why": "미국 금리는 협력국의 외채 이자와 자본 유출입, 개발은행 차관 금리 환경에 영향을 줍니다.",
    "source": "뉴욕 연방준비은행 EFFR",
    "source_url": "https://www.newyorkfed.org/markets/reference-rates/effr",
    "note": "EFFR data is subject to the Terms of Use posted at newyorkfed.org. The New York Fed is not responsible for publication of the EFFR by kardis.",
-   "fetched": "2026-11-03"
+   "fetched": "2026-11-04"
   },
   {
    "freq": "월간",
@@ -616,13 +616,9 @@
    "id": "brent",
    "label": "국제유가(브렌트)",
    "unit": "달러/배럴",
-   "value": 116.8,
-   "asof": "2026-09",
+   "value": 125.0,
+   "asof": "2026-10",
    "series": [
-    [
-     "2024-10",
-     75.7
-    ],
     [
      "2024-11",
      74.4
@@ -714,12 +710,16 @@
     [
      "2026-09",
      116.8
+    ],
+    [
+     "2026-10",
+     125.0
     ]
    ],
-   "change": 41.1,
-   "change_from": "2024-10",
+   "change": 50.6,
+   "change_from": "2024-11",
    "why": "유가는 협력국의 수입 물가와 재정, 사업 현장의 운송·연료비를 움직입니다.",
-   "fetched": "2026-11-03"
+   "fetched": "2026-11-04"
   },
   {
    "freq": "월간",
@@ -729,13 +729,9 @@
    "id": "food",
    "label": "식량가격지수",
    "unit": "2010=100",
-   "value": 124.1,
-   "asof": "2026-09",
+   "value": 121.9,
+   "asof": "2026-10",
    "series": [
-    [
-     "2024-10",
-     116.3
-    ],
     [
      "2024-11",
      116.2
@@ -827,12 +823,16 @@
     [
      "2026-09",
      124.1
+    ],
+    [
+     "2026-10",
+     121.9
     ]
    ],
-   "change": 7.8,
-   "change_from": "2024-10",
+   "change": 5.7,
+   "change_from": "2024-11",
    "why": "식량 가격은 식량 수입국의 물가와 취약계층 생계, 농업·영양 사업의 목표치에 직접 영향을 줍니다.",
-   "fetched": "2026-11-03"
+   "fetched": "2026-11-04"
   },
   {
    "id": "oda",
@@ -1021,7 +1021,7 @@
    "source": "세계은행 World Development Indicators(FP.CPI.TOTL.ZG), CC BY 4.0",
    "source_url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG",
    "note": "나라별 가장 최근 연도 값",
-   "fetched": "2026-11-03"
+   "fetched": "2026-11-04"
   }
  ],
  "errors": []

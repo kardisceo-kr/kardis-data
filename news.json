@@ -1,7 +1,51 @@
 {
-  "updated": "2026-11-03",
+  "updated": "2026-11-04",
   "note": "매일 갱신되는 파일. 항목은 제목·출처·링크·두세 문장 요약만 담고 본문은 싣지 않는다. verified=false는 제목만 확인하고 본문은 읽지 못한 항목.",
   "items": [
+    {
+      "iso3": "RWA",
+      "date": "2026-11-03",
+      "cat": "사회",
+      "title": "르완다 동부 3개 군, 적응기금 497만 달러로 소농 가뭄 대응 지원 받는다",
+      "summary": "적응기금 이사회가 르완다 동부주 카욘자·가치보·니아가타레 3개 군의 소농 최소 1만 명을 대상으로 한 497만 달러 사업을 승인했다. UNDP가 농업·축산자원부와 함께 지역 기후정보 제공과 기후적응 농법 보급을 맡는다. 카욘자는 2025년 건조기 작황 피해를 겪었다.",
+      "source": "The New Times(allAfrica)",
+      "url": "https://allafrica.com/stories/202611030075.html",
+      "why": "농업·기후적응 분야 사업은 동부주 대상 지역과 중복 여부, 기후정보 연계 가능성을 확인할 필요가 있음.",
+      "verified": true
+    },
+    {
+      "iso3": "IDN",
+      "date": "2026-11-03",
+      "cat": "경제",
+      "title": "인도네시아 10월 물가 3.23%…재무장관 '목표 범위 내' 대통령에 보고",
+      "summary": "인도네시아 10월 연간 물가상승률은 3.23%로, 정부 목표(2.5%±1%p) 범위 안이다. 재무장관은 대통령에게 제조업 PMI가 9월 52에서 10월 54로 올랐다고 보고했다.",
+      "source": "ANTARA",
+      "url": "https://en.antaranews.com/amp/news/439947/ris-october-inflation-stays-within-target-range-at-323-percent-govt",
+      "why": "물가 흐름이 안정적이므로 사업비 단가·인건비 가정을 기존 수준으로 유지해도 되는지 점검하면 됨.",
+      "verified": true
+    },
+    {
+      "iso3": "EGY",
+      "date": "2026-11-02",
+      "cat": "경제",
+      "title": "이집트, 세계은행과 10억 달러 개발정책차관 서명…국영기업·조세 개혁 연계",
+      "summary": "이집트 외무장관이 세계은행과 10억 달러 규모 개발정책차관(3회 중 2회차) 협정에 서명했다. 국영기업 개혁, 경쟁 규칙, 조세 징수, 정부 차입비용 개선 등이 조건이다. 10월 중 파운드가 약 8% 하락했고 IMF 대표단이 마지막 점검을 위해 카이로에 체류 중이다.",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/mena/2026/11/02/egypt-signs-1-billion-world-bank-deal-as-war-compounds-economic-pressures/",
+      "why": "IMF 프로그램 종료(12월 15일)와 후속 협의 결과에 따라 정부 재정·보조금 정책 변화 가능성을 확인할 필요가 있음.",
+      "verified": true
+    },
+    {
+      "iso3": "RWA",
+      "date": "2026-11-02",
+      "cat": "경제",
+      "title": "미 무역대표부, 르완다의 AGOA 무관세 자격 2027년 1월 1일부로 종료 추진",
+      "summary": "미 무역대표부 대표가 르완다의 관행이 AGOA 자격 요건에 맞지 않는다며 2027년 1월 1일부터 무관세 혜택을 종료하는 절차를 시작했다고 밝혔다. 의회 협의 기간을 거쳐야 종료가 확정된다. 구체적인 위반 항목은 공개되지 않았다.",
+      "source": "Streamline Feed(USTR 발표 보도)",
+      "url": "https://streamlinefeed.co.ke/news/us-moves-to-terminate-rwanda-and-south-africa-from-agoa-trade-pact",
+      "why": "수출·가공 분야 협력 사업의 시장·고용 가정과 수혜 기업 현황을 점검할 필요가 있음.",
+      "verified": true
+    },
     {
       "iso3": "ETH",
       "date": "2026-10-31",
@@ -11,6 +55,17 @@
       "source": "A News (Addis Standard 인용)",
       "url": "https://www.anews.com.tr/world/2026/10/31/drone-strike-kills-12-civilians-collecting-grain-in-ethiopias-tigray-region",
       "why": "티그라이 인접 지역 사업·출장 일정과 현지 인력 이동 계획에 대한 점검이 필요하다.",
+      "verified": true
+    },
+    {
+      "iso3": "MNG",
+      "date": "2026-10-30",
+      "cat": "정치",
+      "title": "몽골 국회, 2027년 예산안 3차 심의 마무리…오유톨고이 배당 연계 법안은 정부가 철회",
+      "summary": "몽골 국회가 10월 30일 2027년 국가예산 등 4개 예산안의 3차 심의 수정안을 10개 묶음으로 표결해 지출 이전·사업명 변경 등을 반영하고 4차 심의로 넘겼다. 정부는 오유톨고이 배당 전망과 연계된 법안을 철회해 중기 재정틀이 수정됐다. 최종 통과는 아직 아니다.",
+      "source": "MongoliaDaily(MI126)",
+      "url": "https://mongoliadaily.substack.com/p/mi126-lex-parliamenti-2027-budget",
+      "why": "예산 확정 시 사회·보건 분야 재정 배분과 정부 분담금 가정이 달라지는지 점검할 필요가 있음.",
       "verified": true
     },
     {
@@ -33,6 +88,17 @@
       "source": "Trend News Agency",
       "url": "https://www.trend.az/casia/uzbekistan/4241243.html",
       "why": "한국 기관과 연계한 환경 분야 사업은 세계은행 사업과의 역할 분담 및 중복 여부를 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "EGY",
+      "date": "2026-10-29",
+      "cat": "경제",
+      "title": "이집트 중앙은행, 2024년 3월 이후 첫 금리 인상…예금금리 20%로 1%p 올려",
+      "summary": "이집트 중앙은행 통화정책위원회가 10월 29일 예금금리를 19%에서 20%, 대출금리를 21%로 각각 1%p 인상했다. 대외 여건 악화와 불확실성 속에서 물가 기대를 묶기 위한 조치라고 밝혔으며, 다수 분석가는 동결을 예상했다. 결정 전후 파운드는 달러당 56파운드 선을 넘어섰다.",
+      "source": "EnterpriseAM",
+      "url": "https://enterpriseam.com/egypt/2026/10/30/cbe-raises-key-rates-by-100-bps/",
+      "why": "환율·금리 변동에 따른 현지 조달·인건비 예산과 현지통화 집행 계획의 점검이 필요함.",
       "verified": true
     },
     {
@@ -1161,14 +1227,14 @@
   "checked": {
     "NPL": "2026-11-02",
     "GHA": "2026-11-03",
-    "EGY": "2026-10-28",
+    "EGY": "2026-11-04",
     "KHM": "2026-10-29",
     "AZE": "2026-10-29",
     "PAK": "2026-10-30",
     "LAO": "2026-11-03",
     "KGZ": "2026-11-03",
-    "MNG": "2026-11-01",
-    "RWA": "2026-11-01",
+    "MNG": "2026-11-04",
+    "RWA": "2026-11-04",
     "BGD": "2026-10-29",
     "UGA": "2026-10-29",
     "VNM": "2026-11-02",
@@ -1177,8 +1243,8 @@
     "PER": "2026-11-02",
     "PHL": "2026-11-03",
     "ETH": "2026-11-03",
-    "IDN": "2026-10-28",
-    "BOL": "2026-10-28",
+    "IDN": "2026-11-04",
+    "BOL": "2026-11-04",
     "TZA": "2026-10-29",
     "LKA": "2026-10-30",
     "KEN": "2026-10-30",

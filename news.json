@@ -1,7 +1,29 @@
 {
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "note": "매일 갱신되는 파일. 항목은 제목·출처·링크·두세 문장 요약만 담고 본문은 싣지 않는다. verified=false는 제목만 확인하고 본문은 읽지 못한 항목.",
   "items": [
+    {
+      "iso3": "TJK",
+      "date": "2026-11-04",
+      "cat": "정치",
+      "title": "타지키스탄 상원의장 라흐몬 에모말리, 타슈켄트서 우즈베키스탄 대통령 면담…교역·에너지 협력 논의",
+      "summary": "타지키스탄 상원의장이자 두샨베 시장인 루스탐 에모말리가 11월 4일 타슈켄트에서 미르지요예프 대통령을 만났다. 양측은 교역·화물운송 진전을 평가하고 투자·에너지·교육 협력 확대를 논의했다. 구체적인 신규 합의는 보도되지 않았다.",
+      "source": "Asia-Plus",
+      "url": "https://asiaplus.news/en/2026/11/05/rustam-emomali-and-shavkat-mirziyoyev-discuss-strengthening-tajikistan-uzbekistan-ties/",
+      "why": "역내 교통·에너지 연계 협력이 사업 지역의 물류와 전력 여건에 미칠 영향을 지켜볼 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "PRY",
+      "date": "2026-11-03",
+      "cat": "경제",
+      "title": "파라과이 10월 물가 전월 대비 -0.1%…연간 1.7%로 목표 하회",
+      "summary": "파라과이 중앙은행은 10월 소비자물가가 전월 대비 0.1% 하락했고 연간 상승률은 1.7%라고 밝혔다. 채소·생선 등이 내렸고 연료는 2.5% 올랐다. 올해 누적 물가는 1.8%이며 중앙은행의 올해 전망은 3%다.",
+      "source": "ABC Color(EFE)",
+      "url": "https://www.abc.com.py/internacionales/2026/11/03/paraguay-registra-inflacion-del-01-en-octubre-por-bajadas-en-precios-de-los-alimentos/",
+      "why": "물가가 안정적이어서 계약 단가 변동 위험은 낮은 편이나, 과라니화 강세가 달러 기준 예산에 주는 영향은 점검할 만하다.",
+      "verified": true
+    },
     {
       "iso3": "RWA",
       "date": "2026-11-03",
@@ -22,6 +44,17 @@
       "source": "ANTARA",
       "url": "https://en.antaranews.com/amp/news/439947/ris-october-inflation-stays-within-target-range-at-323-percent-govt",
       "why": "물가 흐름이 안정적이므로 사업비 단가·인건비 가정을 기존 수준으로 유지해도 되는지 점검하면 됨.",
+      "verified": true
+    },
+    {
+      "iso3": "PAK",
+      "date": "2026-11-02",
+      "cat": "경제",
+      "title": "파키스탄 10월 물가 9.6%로 둔화…밀가루·닭고기 급등, 휘발유·LPG는 전년 대비 큰 폭 상승",
+      "summary": "파키스탄통계국은 10월 소비자물가 상승률이 전년 동월 대비 9.6%로 9월(10.3%)보다 낮아졌다고 발표했다. 전월 대비로는 1.1% 올랐고, 밀가루 7.5%·닭고기 19.4% 등 식품이 올랐다. 근원물가는 도시 7.8%, 농촌 7.1%였다.",
+      "source": "Business Recorder",
+      "url": "https://brecorder.com/news/40447159/oct-cpi-rises-96pc-yoy",
+      "why": "연료·주식 가격 변동이 현지 비용 단가에 반영되는지 사업비 집행 계획에서 점검이 필요하다.",
       "verified": true
     },
     {
@@ -55,6 +88,28 @@
       "source": "A News (Addis Standard 인용)",
       "url": "https://www.anews.com.tr/world/2026/10/31/drone-strike-kills-12-civilians-collecting-grain-in-ethiopias-tigray-region",
       "why": "티그라이 인접 지역 사업·출장 일정과 현지 인력 이동 계획에 대한 점검이 필요하다.",
+      "verified": true
+    },
+    {
+      "iso3": "KEN",
+      "date": "2026-10-30",
+      "cat": "경제",
+      "title": "케냐 10월 물가 7.3%로 상승…2023년 7월 이후 최고, 경유 32.5%·휘발유 22.8% 상승",
+      "summary": "케냐통계청은 10월 연간 물가상승률이 7.3%로 9월(6.8%)보다 올랐다고 발표했다. 교통 부문이 17.1%, 식품·비알코올 음료가 10.2% 올랐고, 근원물가는 4.3%였다.",
+      "source": "Citizen Digital",
+      "url": "https://citizen.digital/article/kenyas-inflation-rises-to-73-in-october-as-food-and-fuel-prices-surge-n393084",
+      "why": "교통·연료비 상승이 현장 이동·물류 예산에 미치는 영향을 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "LKA",
+      "date": "2026-10-30",
+      "cat": "경제",
+      "title": "스리랑카 콜롬보 10월 물가 8.3%로 상승…식품 8.8%·비식품 8.0%",
+      "summary": "스리랑카 중앙은행은 콜롬보소비자물가지수(CCPI) 기준 10월 물가상승률이 8.3%로 9월(8.0%)보다 올랐다고 발표했다. 식품 물가는 8.8%, 비식품 물가는 8.0%였다.",
+      "source": "스리랑카 중앙은행(CBSL)",
+      "url": "https://www.cbsl.gov.lk/en/news/ccpi-inflation-october-2026",
+      "why": "물가 상승이 이어지는 만큼 계약 단가와 현지 인건비 조정 요구가 있는지 점검이 필요하다.",
       "verified": true
     },
     {
@@ -1263,7 +1318,7 @@
     "EGY": "2026-11-04",
     "KHM": "2026-11-05",
     "AZE": "2026-11-05",
-    "PAK": "2026-10-30",
+    "PAK": "2026-11-06",
     "LAO": "2026-11-03",
     "KGZ": "2026-11-03",
     "MNG": "2026-11-04",
@@ -1279,9 +1334,9 @@
     "IDN": "2026-11-04",
     "BOL": "2026-11-04",
     "TZA": "2026-11-05",
-    "LKA": "2026-10-30",
-    "KEN": "2026-10-30",
-    "TJK": "2026-10-30",
-    "PRY": "2026-10-30"
+    "LKA": "2026-11-06",
+    "KEN": "2026-11-06",
+    "TJK": "2026-11-06",
+    "PRY": "2026-11-06"
   }
 }

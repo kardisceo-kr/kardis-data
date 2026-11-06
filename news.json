@@ -1,7 +1,62 @@
 {
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "note": "매일 갱신되는 파일. 항목은 제목·출처·링크·두세 문장 요약만 담고 본문은 싣지 않는다. verified=false는 제목만 확인하고 본문은 읽지 못한 항목.",
   "items": [
+    {
+      "iso3": "PHL",
+      "date": "2026-11-05",
+      "cat": "경제",
+      "title": "필리핀 10월 물가 7.8%로 상승, 2023년 2월 이후 최고…교통·연료비가 주도",
+      "summary": "필리핀통계청이 10월 소비자물가 상승률을 7.8%로 발표했다(9월 7.2%). 교통 지수가 20.1%, 주거·전기·연료 지수가 9.3%로 올랐고 근원물가는 5.4%였다. 중앙은행은 물가가 당분간 높은 수준에 머물 것으로 보며 다음 통화정책회의는 12월 17일이다.",
+      "source": "Manila Times(필리핀통계청 발표 인용)",
+      "url": "https://www.manilatimes.net/2026/11/06/business/top-business/inflation-climbs-to-78/2463227",
+      "why": "사업비 산정에 쓰는 물가상승률과 현지 조달 단가를 최신 수치로 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "PER",
+      "date": "2026-11-05",
+      "cat": "정치",
+      "title": "페루 후지모리 대통령 취임 100일…치안 통합사령부 신설, 엘니뇨 대비에 20억 솔레스 배정",
+      "summary": "정부는 경찰·군을 조율하는 범죄대응 통합사령부를 만들고 교도소 외곽에 군을 배치했다. 의회는 치안과 엘니뇨 대응에 관해 120일간의 입법권을 위임했다. 엘니뇨 대비 사업에는 20억 솔레스가 배정됐고 위험지점 536곳의 정비가 진행 중이다.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/peru/2026/11/05/keiko-fujimori-cumple-100-dias-de-gobierno-con-dos-frentes-que-marcan-su-agenda-la-criminalidad-y-la-amenaza-de-el-nino/",
+      "why": "북부 지역 사업지의 우기 접근성과 현장 안전 점검 계획을 확인할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "NPL",
+      "date": "2026-11-05",
+      "cat": "경제",
+      "title": "네팔 재무장관 \"세계은행·ADB 초양허성 차입 여지 줄 것\"…홍수 구호기금 잔액 183억 루피",
+      "summary": "스와르님 와글레 재무장관은 세계은행·ADB의 초양허성 대출 접근이 좁아질 전망이라며 다른 재원 확보가 필요하다고 밝혔다. 라수와·보테코시 홍수 이후 총리 구호기금 잔액은 11월 5일 오전 기준 183억 7천만 루피로 집계됐다.",
+      "source": "Nepal News",
+      "url": "https://english.nepalnews.com/s/business/nepal-news-evening-economic-brief-november-05-2026/",
+      "why": "정부 대응자금과 공여 재원 구조가 바뀔 수 있어 공동금융·분담금 계획을 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "VNM",
+      "date": "2026-11-05",
+      "cat": "경제",
+      "title": "베트남 총리, 국가목표프로그램 3개에 중앙예산 70조 동 배정",
+      "summary": "총리가 2026~2030 중기 공공투자계획에 따라 신농촌개발, 지속가능한 빈곤감축, 소수민족·산간지역 개발 프로그램에 중앙예산 70조 동(약 27억 달러)을 배정했다. 같은 시기 국회는 통합 국가예산법 심의를 앞두고 있다.",
+      "source": "VietnamPlus",
+      "url": "https://en.vietnamplus.vn/morning-digest-on-november-6-post354924.vnp",
+      "why": "농촌·소수민족 지역 사업은 중앙예산 배정 방향과 겹치는지 확인할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "SEN",
+      "date": "2026-11-04",
+      "cat": "정치",
+      "title": "세네갈 국회, 2026년 수정예산안 부결…IMF 22억 달러 프로그램 협상에 변수",
+      "summary": "세네갈 국회가 11월 4일 본회의에서 2026년 수정예산안을 찬성 20, 반대 109, 기권 3으로 부결했다. 수정안은 탄화수소 가격 상승, 세수 전망 하락, 부채상환비 증가를 반영한 것이었다. IMF 이사회 승인은 아직 발표되지 않았다.",
+      "source": "Africanews",
+      "url": "https://www.africanews.com/2026/11/04/senegals-national-assembly-rejects-key-budget-bill-after-heated-disputes/",
+      "why": "정부 재정 집행과 사업 분담금 지급 일정에 영향이 없는지 점검할 필요가 있다.",
+      "verified": true
+    },
     {
       "iso3": "TJK",
       "date": "2026-11-04",
@@ -77,6 +132,17 @@
       "source": "Streamline Feed(USTR 발표 보도)",
       "url": "https://streamlinefeed.co.ke/news/us-moves-to-terminate-rwanda-and-south-africa-from-agoa-trade-pact",
       "why": "수출·가공 분야 협력 사업의 시장·고용 가정과 수혜 기업 현황을 점검할 필요가 있음.",
+      "verified": true
+    },
+    {
+      "iso3": "UZB",
+      "date": "2026-11-01",
+      "cat": "경제",
+      "title": "우즈베키스탄 11월 1일부터 신규 규정 시행…자동계량 기업 전기·가스 15% 선납, 국제 택배 통관수수료 20% 인하",
+      "summary": "11월 1일부터 전기·가스 자동계량 사업자는 월 예상 사용량의 15%를 선납한다. 국제 택배 통관수수료는 20% 낮아지고, 가정용 LPG는 상품거래소를 통해 판매된다.",
+      "source": "UzDaily",
+      "url": "https://www.uzdaily.uz/en/what-changes-in-uzbekistans-legislation-from-1-november-2026/",
+      "why": "사업장 공공요금 납부 방식과 물품 반입 비용 변동이 사업비에 미치는지 점검할 필요가 있다.",
       "verified": true
     },
     {
@@ -1313,7 +1379,7 @@
     }
   ],
   "checked": {
-    "NPL": "2026-11-02",
+    "NPL": "2026-11-07",
     "GHA": "2026-11-03",
     "EGY": "2026-11-04",
     "KHM": "2026-11-05",
@@ -1325,11 +1391,11 @@
     "RWA": "2026-11-04",
     "BGD": "2026-11-05",
     "UGA": "2026-11-05",
-    "VNM": "2026-11-02",
-    "SEN": "2026-11-02",
-    "UZB": "2026-11-02",
-    "PER": "2026-11-02",
-    "PHL": "2026-11-03",
+    "VNM": "2026-11-07",
+    "SEN": "2026-11-07",
+    "UZB": "2026-11-07",
+    "PER": "2026-11-07",
+    "PHL": "2026-11-07",
     "ETH": "2026-11-03",
     "IDN": "2026-11-04",
     "BOL": "2026-11-04",

@@ -1,62 +1,84 @@
 {
- "updated": "2026-11-02",
- "period": "2026-10-26 ~ 2026-11-01",
- "lead": "세계은행이 올해 원자재 가격 23% 상승을 전망했고 미국 연준은 기준금리를 동결했으며, 호르무즈 해협 일대 선박 공격은 10월 1~23일 28건으로 집계됐고 콩고민주공화국 에볼라 확진은 1만 명을 넘었다.",
+ "updated": "2026-11-09",
+ "period": "2026-11-02 ~ 2026-11-08",
+ "lead": "세계은행은 2025년 개발도상국 대외부채가 9.4조 달러로 최대치라고 발표했고, 미국 중간선거에서 민주당이 상·하원 다수를 차지했으며, UNEP는 개도국 적응 재원 수요를 2035년까지 연 약 3,050억 달러로 제시했고, 콩고민주공화국 에볼라 확진은 10,741명이 됐다.",
  "items": [
   {
-   "cat": "분쟁",
-   "title": "호르무즈 해협 일대 선박 공격 10월 23일까지 28건…후티, 사우디 라스타누라 정유시설 공격 주장",
-   "summary": "로이터가 10월 23일 전한 워싱턴근동정책연구소 집계에 따르면 10월 들어 23일까지 호르무즈 해협과 주변 해역에서 확인·보고된 선박 공격은 28건으로 이 연구소 집계상 월간 최다이며, 2월 28일 이후 누적 113건이다. 후티는 10월 27일 탄도미사일로 사우디 동부주 라스타누라 정유시설(하루 55만 배럴 규모)을 공격했다고 밝혔고, 보도 시점까지 사우디 당국의 발표는 전해지지 않았다. 미국 중부사령부는 10월 28일 주요 국제 항로의 기뢰를 제거했고 항로에 기뢰가 없는 상태라고 밝히며, 선박이 기뢰에 피격됐다는 이란 측 주장을 부인했다.",
-   "date": "2026-10-28",
+   "cat": "경제",
+   "title": "세계은행 「국제부채보고서」: 2025년 개도국 대외부채 9.4조 달러로 최대…10월 FAO 식량가격지수는 1.2% 하락",
+   "summary": "세계은행은 11월 5일 「국제부채보고서 2026」에서 2025년 개발도상국 대외부채가 5.5% 늘어 9.4조 달러로 최대치를 기록했고, 원리금 상환액은 1.4조 달러로 5년 연속 늘었다고 밝혔다. IDA 지원 대상국의 대외부채는 8.1% 늘어 1.3조 달러였고, 이들 국가가 새로 빌린 민간 채무의 평균 금리는 8.2%로 1989년 이후 가장 높았다. FAO는 11월 6일 10월 식량가격지수가 133.9로 전월보다 1.2% 내리고 1년 전보다 5.9% 높다고 발표했으며, 곡물은 전월 대비 4.5% 내리고 설탕은 6.6% 올랐다.",
+   "date": "2026-11-05",
    "channels": [
-    "현장 안전",
     "협력국 재정·환율"
    ],
    "countries": [],
-   "why": "걸프·홍해를 거치는 기자재 운송 경로·일정과 보험료, 연료비 단가 가정, 중동 경유 출장 계획을 점검합니다.",
+   "why": "차관·재정지원 사업에서 상대국 부채 상환 일정과 대응자금(카운터파트 펀드) 확보 계획, 식량·농업 사업의 곡물·설탕 단가 가정을 점검합니다.",
    "sources": [
     {
-     "name": "Al-Monitor(Reuters)",
-     "url": "https://www.al-monitor.com/originals/2026/10/ship-attacks-strait-hormuz-hit-record-high-october"
+     "name": "세계은행",
+     "url": "https://www.worldbank.org/en/news/press-release/2026/11/05/developing-countries-external-debt-surges-to-record-9-4-trillion"
     },
     {
-     "name": "Malay Mail(AFP)",
-     "url": "https://www.malaymail.com/news/world/2026/10/27/houthis-say-targeted-saudi-oil-refinery-with-ballistic-missile/240831"
-    },
-    {
-     "name": "Shafaq News(미국 중부사령부 발표)",
-     "url": "https://shafaq.com/en/World/CENTCOM-Hormuz-shipping-lanes-remain-mine-free"
+     "name": "FAO",
+     "url": "https://www.fao.org/worldfoodsituation/FoodPricesIndex/en"
     }
    ],
    "verified": true
   },
   {
-   "cat": "경제",
-   "title": "세계은행, 올해 원자재 가격 23%·에너지 32% 상승 전망…같은 날 미 연준은 금리 동결",
-   "summary": "세계은행은 10월 28일 「원자재시장전망」에서 2026년 원자재 가격이 23% 오르고 2027년에는 7% 내릴 것으로 내다봤다. 2026년 에너지 가격은 32%, 비료는 14%, 식량은 약 10% 오르고, 브렌트유는 2026년 평균 배럴당 91달러(2025년 69달러), 2027년 79달러로 제시했다. 같은 날 미국 연방공개시장위원회(FOMC)는 기준금리를 연 3.75~4.00%로 동결했으며(찬성 10, 반대 2), 반대한 2명은 0.25%포인트 인상을 주장했다.",
-   "date": "2026-10-28",
+   "cat": "정치",
+   "title": "미국 중간선거, 민주당이 상·하원 다수 차지…새 의회는 2027년 1월 3일 출범",
+   "summary": "11월 3일 치러진 미국 중간선거에서 민주당이 하원과 상원 모두에서 다수당이 됐다고 주요 매체가 보도했다. 제120대 의회는 2027년 1월 3일 출범하며, 이때부터 외교·세출 관련 상임위원장이 바뀐다. 대외원조와 국무부 예산을 담은 세출법안은 관례상 하원에서 먼저 심의한다.",
+   "date": "2026-11-04",
    "channels": [
-    "협력국 재정·환율"
+    "공여 재원"
    ],
    "countries": [],
-   "why": "연료·비료·식량 단가가 들어간 사업비 산정 기준과 예비비, 달러 환산 예산의 환율 가정을 점검합니다.",
+   "why": "미국 재원과 함께 진행하거나 미국 지원 축소를 전제로 설계한 협력국 사업에서 2027 회계연도 세출 심의 일정에 따른 재원 가정과 공동 재원 협의 일정을 점검합니다.",
    "sources": [
     {
-     "name": "세계은행",
-     "url": "https://www.worldbank.org/en/news/press-release/2026/10/28/commodity-markets-outlook-october-2026"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-gains-us-house-majority-in-2026-midterm-elections"
     },
     {
-     "name": "미국 연방준비제도",
-     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+     "name": "PBS NewsHour",
+     "url": "https://www.pbs.org/newshour/politics/democrats-take-control-of-the-senate-after-winning-key-midterm-races"
+    },
+    {
+     "name": "미국외교협회(CFR)",
+     "url": "https://www.cfr.org/articles/democrats-win-control-of-congress-heres-how-that-could-affect-u-s-foreign-policy"
+    }
+   ],
+   "verified": true
+  },
+  {
+   "cat": "기후·재난",
+   "title": "UNEP 「적응격차보고서」: 개도국 적응 재원 수요 2035년까지 연 약 3,050억 달러…2024년 국제 공공 적응 재원은 282억~317억 달러",
+   "summary": "유엔환경계획(UNEP)은 11월 4일 「적응격차보고서 2026」에서 개발도상국의 기후 적응 재원 수요가 2035년까지 연 약 3,050억 달러(민간 부문 수요 제외)이며, 2024년 국제 공공 적응 재원은 282억~317억 달러로 2023년보다 약 10억 달러 늘었다고 밝혔다. 보고서는 COP30에서 정한 대로 2035년까지 적응 재원을 세 배로 늘려도 수요의 최대 29%를 충당한다고 밝혔다. 제31차 유엔기후변화협약 당사국총회(COP31)는 11월 9~20일 튀르키예 안탈리아에서 열린다.",
+   "date": "2026-11-04",
+   "channels": [
+    "국제 규범·의제",
+    "공여 재원"
+   ],
+   "countries": [],
+   "why": "기후 적응 요소가 있는 사업에서 적응 재원 집계 기준에 맞춘 사업비 분류와, 상대국 국가적응계획(NAP) 연계 서술을 COP31(11월 9~20일) 결정 내용과 대조해 점검합니다.",
+   "sources": [
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/11/1168725"
+    },
+    {
+     "name": "UNFCCC",
+     "url": "https://unfccc.int/cop31/the-road-to-antalya"
     }
    ],
    "verified": true
   },
   {
    "cat": "보건",
-   "title": "콩고민주공화국 에볼라(분디부교) 확진 1만 명 넘어…케냐 사망 2명, 우간다 국경 조치",
-   "summary": "유럽질병예방통제센터(ECDC)가 10월 27일 정리한 자료에 따르면 콩고민주공화국 확진은 10월 26일 기준 10,060명(사망 4,887명, 10월 25일까지 자료)으로, 8개 주 66개 보건구역에서 발생했다. 케냐는 10월 26일 기준 확진 9명·사망 2명이며, 우간다는 10월 25일 콩고민주공화국 국경의 입국 지점 조치와 이동 제한을 발표했다. 나이지리아 수입 확진자는 10월 26일 스위스로 이송됐다.",
-   "date": "2026-10-27",
+   "title": "콩고민주공화국 에볼라 확진 10,741명…WHO, 분디부교 백신 후보 2종 시험 추가 권고하고 콜레라 유행도 보고",
+   "summary": "유럽질병예방통제센터(ECDC)가 콩고민주공화국 보건당국 상황보고를 정리해 11월 6일 갱신한 자료에 따르면 콩고민주공화국 에볼라(분디부교 바이러스) 확진은 11월 5일 기준 10,741명, 관련 사망은 5,230명(11월 4일까지 자료)이며, WHO 사무총장도 11월 4일 확진 1만 명·사망 5,000명 이상이라고 밝혔다. 케냐는 10월 26일 기준 확진 9명·사망 2명이다(ECDC). WHO 사무총장은 같은 브리핑에서 분디부교 바이러스용 백신 후보 2종(ChAdOx1 BDBV, mRNA-1469)을 시험에 추가하도록 전문가들이 권고했다고 밝혔고, 콩고민주공화국에서 올해 콜레라 6만 명 넘게 발생하고 1,800명이 사망했다고 밝혔다.",
+   "date": "2026-11-06",
    "channels": [
     "현장 안전"
    ],
@@ -64,60 +86,39 @@
     "KEN",
     "UGA"
    ],
-   "why": "케냐·우간다 사업 인력의 국경 이동·입국 검역 절차와 현장 감염 예방 물품, 비상 연락 체계를 점검합니다.",
+   "why": "케냐·우간다 등 접경국 사업 인력의 입국 검역·이동 절차와 현장 감염 예방 물품, 식수·위생 사업의 콜레라 대응 계획을 점검합니다.",
    "sources": [
-    {
-     "name": "ECDC(10월 27일 갱신)",
-     "url": "https://www.ecdc.europa.eu/en/public-health-events/2026-eip-00026/2026-10-27"
-    },
     {
      "name": "ECDC",
-     "url": "https://www.ecdc.europa.eu/en/public-health-events/2026-EIP-00026"
+     "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda"
+    },
+    {
+     "name": "WHO(11월 4일 사무총장 브리핑)",
+     "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---4-november-2026"
     }
    ],
    "verified": true
   },
   {
-   "cat": "기후·재난",
-   "title": "WMO 온실가스 회보: 2025년 대기 이산화탄소 농도 426.8ppm, 최고치",
-   "summary": "세계기상기구(WMO)는 10월 27일 발표한 「온실가스 회보」에서 2025년 지구 평균 이산화탄소 농도가 426.8ppm으로 산업화 이전(1750년)의 153%이며, 2024년보다 2.8ppm 늘었다고 밝혔다. 메탄(1,948ppb)과 아산화질소(339.1ppb)도 관측 이래 최고치였다. WMO는 이산화탄소 증가 폭이 최근 10년 평균보다 컸지만 2023~2024년보다는 작았다고 밝혔다.",
-   "date": "2026-10-27",
+   "cat": "분쟁",
+   "title": "WHO 사무총장 \"에티오피아 북부 폭력으로 보건체계 붕괴에 가까워져\"…암하라 피란민 수용소·티그라이에서 민간인 사망 보고",
+   "summary": "WHO 사무총장은 11월 2일 에티오피아 암하라주 자아리 2(Jaari 2) 피란민 수용소와 티그라이주 라마에서 어린이를 포함한 민간인이 숨졌다는 보고를 언급하며, 병원이 보건 인력·의약품·장비 부족을 겪고 있고 치안 문제로 일부 지역에 의료 물품이 전달되지 못한다고 밝혔다. 그는 공격 주체를 밝히지 않았다. 앞서 유엔 사무총장 대변인은 10월 31일 당사자들에게 민간인과 핵심 기반시설을 보호하라고 촉구했다.",
+   "date": "2026-11-02",
    "channels": [
-    "국제 규범·의제"
+    "현장 안전"
    ],
-   "countries": [],
-   "why": "11월 COP31을 앞두고 기후 분야 사업의 온실가스 감축량 산정 방법과 기초선 자료 연도를 점검합니다.",
+   "countries": [
+    "ETH"
+   ],
+   "why": "에티오피아 북부(암하라·티그라이) 사업의 현장 출입 가능 여부, 인력 안전·철수 절차, 보건 분야 사업의 물품 조달·전달 경로를 점검합니다.",
    "sources": [
     {
-     "name": "WMO",
-     "url": "https://wmo.int/node/39151"
+     "name": "UN News(APO 배포)",
+     "url": "https://africa.com/apo/ethiopia-violence-in-the-north-is-pushing-health-system-to-the-brink-who-chief-warns"
     },
     {
-     "name": "EconoTimes",
-     "url": "https://econotimes.com/Global-CO2-Concentration-Reached-426-8-ppm-in-2025-WMO-Says-1764292"
-    }
-   ],
-   "verified": true
-  },
-  {
-   "cat": "외교",
-   "title": "생물다양성협약 COP17 폐막…「예레반 경로」 채택, 2030년 이후 재원 체계는 COP18로",
-   "summary": "아르메니아 예레반에서 열린 생물다양성협약 제17차 당사국총회(COP17)가 10월 31일 폐막하며, 쿤밍-몬트리올 세계생물다양성체계의 첫 전 지구 점검에 따른 「예레반 경로」 등 약 50개 결정을 채택했다. 2030년 이후 재원 체계를 새 기금으로 할지 기존 체계를 쓸지는 2028년 COP18에서 정하기로 했다. 지구환경기금(GEF)은 10월 26일 스페인(5,000만 유로)·우즈베키스탄(450만 달러) 등의 약정으로 GEF-9(2026년 7월~2030년 6월) 약정이 약 44억 달러가 됐다고 밝혔고, 독일은 세계생물다양성체계기금(GBFF)에 5,000만 유로를 추가 출연하겠다고 밝혔다.",
-   "date": "2026-10-31",
-   "channels": [
-    "국제 규범·의제",
-    "공여 재원"
-   ],
-   "countries": [],
-   "why": "생물다양성·산림·보호구역 요소가 있는 사업에서 GEF 재원과의 연계·중복 여부와 상대국 생물다양성 국가전략 목표와의 연계 서술을 점검합니다.",
-   "sources": [
-    {
-     "name": "GEF",
-     "url": "https://www.thegef.org/newsroom/press-releases/un-biodiversity-conference-gets-finance-boost-action-nature-500-million"
-    },
-    {
-     "name": "The News Minute",
-     "url": "https://www.thenewsminute.com/news/cop17-adopts-yerevan-pathway-as-countries-struggle-to-meet-global-biodiversity-targets"
+     "name": "AP(NY1 게재)",
+     "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/02/ethiopia-attacks-kill-civilians-as-health-system-nears-collapse-who-chief-says"
     }
    ],
    "verified": true
@@ -127,37 +128,57 @@
   {
    "type": "분쟁",
    "name": "에티오피아 북부 교전",
-   "where": "에티오피아 북부(티그라이·아파르)",
+   "where": "에티오피아 북부(티그라이·암하라)",
    "countries": [
     "ETH"
    ],
-   "status": "10월 30일 티그라이주 라마에서 드론 공격으로 민간인 최소 12명 사망(지역 당국·병원 관계자 집계, 공격 주체 미확인). 연방군이 메켈레 등에 진입했고 총리실은 10월 16일 6개월 임기의 티그라이 임시정부를 지명.",
-   "asof": "2026-10-30",
-   "source": "A News(Addis Standard 인용)",
-   "url": "https://www.anews.com.tr/world/2026/10/31/drone-strike-kills-12-civilians-collecting-grain-in-ethiopias-tigray-region"
+   "status": "WHO 사무총장은 11월 2일 암하라주 자아리 2(Jaari 2) 피란민 수용소와 티그라이주 라마에서 어린이를 포함한 민간인 사망 보고를 언급하며 보건체계가 붕괴에 가까워지고 있다고 밝힘(공격 주체 미확인). 유엔 사무총장 대변인은 10월 31일 당사자들에게 민간인과 핵심 기반시설 보호를 촉구.",
+   "asof": "2026-11-02",
+   "source": "UN News(APO 배포)",
+   "url": "https://africa.com/apo/ethiopia-violence-in-the-north-is-pushing-health-system-to-the-brink-who-chief-warns"
   },
   {
    "type": "감염병",
    "name": "에볼라(분디부교 바이러스) 유행",
-   "where": "콩고민주공화국(케냐·나이지리아 확진, 우간다 국경 조치)",
+   "where": "콩고민주공화국(우간다 종식, 케냐·나이지리아 확진)",
    "countries": [
     "KEN",
     "UGA"
    ],
-   "status": "콩고민주공화국 확진 10,274명·사망 4,992명(10월 28일까지, ECDC 10월 30일 갱신), 8개 주. 케냐 확진 9명·사망 2명(10월 26일 기준), 나이지리아 수입 확진자는 스위스로 이송(ECDC 10월 27일 갱신). WHO는 여행·무역 금지를 권고하지 않음.",
-   "asof": "2026-10-28",
-   "source": "ECDC(10월 27·30일 갱신)",
-   "url": "https://www.ecdc.europa.eu/en/public-health-events/2026-EIP-00026"
+   "status": "콩고민주공화국 확진 10,741명·사망 5,230명(11월 5일 기준, 11월 4일까지 자료, ECDC가 콩고민주공화국 보건당국 자료 정리). 케냐 확진 9명·사망 2명(10월 26일 기준). 나이지리아 확진자는 스위스로 이송, 접촉자 62명 추적 중(11월 4일). WHO는 2026년 5월 17일 국제공중보건비상사태를 선포했고 여행·무역 금지를 권고하지 않음.",
+   "asof": "2026-11-05",
+   "source": "ECDC(11월 6일 갱신)·WHO",
+   "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda"
+  },
+  {
+   "type": "감염병",
+   "name": "콜레라 유행",
+   "where": "콩고민주공화국",
+   "countries": [],
+   "status": "WHO 사무총장은 11월 4일 콩고민주공화국에서 올해 콜레라 6만 명 넘게 발생하고 1,800명이 사망했다고 밝힘.",
+   "asof": "2026-11-04",
+   "source": "WHO",
+   "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---4-november-2026"
   },
   {
    "type": "분쟁",
-   "name": "걸프·홍해 해역 선박 및 사우디 시설 공격",
-   "where": "걸프·홍해 해역·사우디아라비아",
+   "name": "걸프·호르무즈 해협 선박 공격",
+   "where": "걸프·호르무즈 해협 해역",
    "countries": [],
-   "status": "10월 1~23일 호르무즈 해협 일대 선박 공격 28건, 2월 28일 이후 113건(워싱턴근동정책연구소 집계). 후티는 10월 27일 라스타누라 정유시설 공격을 주장. 미국 중부사령부는 10월 28일 주요 항로의 기뢰를 제거했고 기뢰가 없는 상태라고 발표.",
-   "asof": "2026-10-28",
-   "source": "Al-Monitor(Reuters)·Shafaq News",
-   "url": "https://www.al-monitor.com/originals/2026/10/ship-attacks-strait-hormuz-hit-record-high-october"
+   "status": "이란 측은 11월 5일 호르무즈 해협에서 유조선 최소 5척과 예인선 1척에 기뢰 등으로 화재가 났다고 주장(독립 확인 안 됨). 영국해사무역기구(UKMTO)는 11월 5일, 4일 23:20(GMT) 카타르 마디나트 아쉬샤말 북쪽 약 50해리에서 유조선 1척이 발사체 2발에 맞았다고 발표. 카타르 외무부는 11월 3일 양측이 중재안을 검토 중이라고 밝힘.",
+   "asof": "2026-11-05",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack"
+  },
+  {
+   "type": "분쟁",
+   "name": "수단 분쟁",
+   "where": "수단",
+   "countries": [],
+   "status": "유엔 수단 상주·인도주의조정관은 11월 3일 드론 공격으로 발전소·주유소가 피해를 입어 하르툼 인근 병원 투석 환자 25명의 치료가 중단됐고, 연료 부족으로 구호 트럭 수백 대가 멈춰 있다고 밝힘. WHO는 11월 4일 분쟁 시작 이후 보건의료 공격 230건 이상, 사망 2,000명 이상을 확인했다고 밝힘.",
+   "asof": "2026-11-04",
+   "source": "UN News(11월 3일)·WHO(11월 4일 브리핑)",
+   "url": "https://news.un.org/en/story/2026/11/1168731"
   },
   {
    "type": "재난",
@@ -166,20 +187,10 @@
    "countries": [
     "NPL"
    ],
-   "status": "사망 1,457명·실종 4,720명(10월 10일, 네팔 경찰본부 집계). 국가계획위원회는 피해·손실을 4,082.9억 루피, 복구 소요를 7,233.1억 루피로 추산(10월 29일 보도). 정부는 이재민에게 6개월간 임시 주거 지원 예정.",
+   "status": "국가계획위원회는 피해·손실을 4,082.9억 루피, 복구 소요를 7,233.1억 루피로 추산(10월 29일 보도). 정부는 이재민에게 6개월간 임시 주거 지원 예정. 사망·실종 집계는 발표 시점·기관마다 달라 싣지 않음.",
    "asof": "2026-10-29",
    "source": "Nepal News",
    "url": "https://english.nepalnews.com/s/business/nepal-news-evening-economic-brief-october-29-2026/"
-  },
-  {
-   "type": "분쟁",
-   "name": "수단 분쟁",
-   "where": "수단",
-   "countries": [],
-   "status": "유엔 인권최고대표(폴커 튀르크)는 10월 첫 3주 동안 드론 공격으로 최소 306명이 사망했다고 발표(10월 23일). 유엔 수단 진상조사단은 10월 28일 북코르도판 엘오베이드의 병원 약 30%만 운영 중이라고 밝힘.",
-   "asof": "2026-10-28",
-   "source": "UN News",
-   "url": "https://news.un.org/en/story/2026/10/1168696"
   },
   {
    "type": "분쟁",
@@ -188,27 +199,13 @@
    "countries": [
     "PAK"
    ],
-   "status": "파키스탄이 9월 30일~10월 1일 밤사이 아프가니스탄 쿠나르·헬만드주를 공습. 유엔아프간지원단(UNAMA)은 민간인 최소 10명 사망을 보고하고, 2026년 들어 국경 간 폭력으로 아프가니스탄 민간인 1,100명 넘게 사상했다고 밝힘. 파키스탄은 무장세력만 겨냥했다고 밝힘. (10월 5일 이후 갱신 정보 확인 안 됨)",
-   "asof": "2026-10-05",
-   "source": "FDD Long War Journal(UNAMA 인용)",
-   "url": "https://www.longwarjournal.org/archives/2026/10/pakistan-launches-new-strikes-as-conflict-with-taliban-persist-into-third-week.php"
+   "status": "파키스탄 매체는 11월 2일 남와지리스탄 국경에서 아프가니스탄 측 초소에서 사격이 있었고 파키스탄군이 응사했다고 보도. 남와지리스탄 당국은 파키스탄 측 사상자는 없다고 밝힘. 아프가니스탄 측 입장과 피해는 확인되지 않음.",
+   "asof": "2026-11-02",
+   "source": "Daily Pakistan",
+   "url": "https://en.dailypakistan.com.pk/02-Nov-2026/pakistan-again-hits-afghan-taliban-border-posts-amid-unprovoked-cross-border-firing"
   }
  ],
  "calendar": [
-  {
-   "date": "2026-11-03",
-   "title": "미국 중간선거(연방 하원 전체·상원 일부)",
-   "kind": "선거",
-   "countries": [],
-   "url": "https://www.fec.gov/help-candidates-and-committees/dates-and-deadlines/2026-reporting-dates/electioneering-communications-periods-general-election-2026/"
-  },
-  {
-   "date": "2026-11-06",
-   "title": "FAO 식량가격지수 10월 수치 발표",
-   "kind": "발표",
-   "countries": [],
-   "url": "https://www.fao.org/worldfoodsituation/FoodPricesIndex/en"
-  },
   {
    "date": "2026-11-09",
    "title": "제31차 유엔기후변화협약 당사국총회(COP31, 튀르키예 안탈리아, 11월 9~20일)",
@@ -227,6 +224,13 @@
     "PER"
    ],
    "url": "https://www.lg.gov.cn/english/news/latestnews/content/post_12588327.html"
+  },
+  {
+   "date": "2026-12-04",
+   "title": "FAO 식량가격지수 11월 수치 발표",
+   "kind": "발표",
+   "countries": [],
+   "url": "https://www.fao.org/worldfoodsituation/FoodPricesIndex/en"
   },
   {
    "date": "2026-12-09",

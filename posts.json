@@ -1,7 +1,24 @@
 {
- "updated": "2026-11-06 09:39",
+ "updated": "2026-11-09 11:08",
  "categories": [],
  "items": [
+  {
+   "slug": "2026-11-korea-oda-allocation",
+   "title": "아시아 비중은 줄고 경제 인프라 비중은 늘었습니다: OECD 자료로 계산한 한국 ODA 15년(2010–2024) 배분 변화",
+   "date": "2026-11-09",
+   "category": "",
+   "summary": "OECD CRS와 DAC5 자료로 2010–2024년 한국 양자 ODA의 지역·국가·분야 배분을 직접 계산했습니다. 아시아 비중은 낮아지고 수원국은 넓어졌으며, 분야 약정은 경제 인프라 쪽으로 기울었습니다. 같은 수치도 분모와 금액 기준에 따라 크게 달라집니다.",
+   "tags": [
+    "한국 ODA",
+    "배분",
+    "OECD CRS",
+    "공개 데이터"
+   ],
+   "author": "kardis",
+   "status": "published",
+   "ai": true,
+   "minutes": 12
+  },
   {
    "slug": "2026-11-disaster-baseline",
    "title": "충격 직후에 잰 기초선은 성과를 부풀릴 수 있습니다: 재난·기후 충격 속 기초선 보정",

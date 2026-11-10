@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "note": "매일 갱신되는 파일. 항목은 제목·출처·링크·두세 문장 요약만 담고 본문은 싣지 않는다. verified=false는 제목만 확인하고 본문은 읽지 못한 항목.",
   "items": [
+    {
+      "iso3": "RWA",
+      "date": "2026-11-10",
+      "cat": "경제",
+      "title": "르완다 10월 도시 물가 19.5%로 가속…식품 가격이 상승 견인",
+      "summary": "르완다 통계청(NISR)이 발표한 10월 도시 물가상승률은 전년 동월 대비 19.5%로, 9월 17.2%에서 높아졌다. 식품 범주의 기여가 상승 요인으로 제시됐다.",
+      "source": "The New Times",
+      "url": "https://www.newtimes.co.rw/article/40350/news/economy/inflation-rises-by-195-in-october",
+      "why": "물가 급등이 이어지는 만큼 현지 조달 단가와 인건비 가정의 재점검이 필요하다.",
+      "verified": false
+    },
     {
       "iso3": "PHL",
       "date": "2026-11-09",
@@ -11,6 +22,61 @@
       "source": "The Manila Times",
       "url": "https://www.manilatimes.net/2026/11/09/business/top-business/another-jumbo-hike-seen-as-inflation-climbs/2464803",
       "why": "환율·물가 상승분이 현지 조달 단가와 사업 예산 환산에 미치는 영향을 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "RWA",
+      "date": "2026-11-06",
+      "cat": "경제",
+      "title": "르완다 중앙은행, 2025/26 회계연도 성장률 10.6%…평균 물가는 9.2%로 목표 상회",
+      "summary": "르완다 중앙은행은 2025/26 회계연도 실질 GDP 성장률이 10.6%로 전년 6.3%보다 높았고 평균 물가는 9.2%로 목표 범위(2~8%)를 웃돌았다고 밝혔다. 프랑 가치는 달러 대비 2.28% 하락했고 상품 수출은 33.0% 늘었다. 총재는 물가를 가장 큰 도전 과제로 꼽았다.",
+      "source": "신화통신(The Star 전재)",
+      "url": "https://www.thestar.com.my/news/world/2026/11/07/rwanda039s-economy-maintains-strong-momentum-in-20252026-central-bank",
+      "why": "성장세와 높은 물가가 함께 나타나므로 사업비 물가 보정 기준을 확인할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "IDN",
+      "date": "2026-11-06",
+      "cat": "경제",
+      "title": "인도네시아 10월 말 외환보유액 1,468억 달러…수입 5.3개월분",
+      "summary": "인도네시아 중앙은행은 10월 말 공적 외환보유액이 1,468억 달러로 9월 말 1,463억 달러보다 늘었다고 발표했다. 수입 5.3개월분이며, 정부 해외차입 인출과 세금·서비스 수입이 늘었으나 만기 외채 상환과 루피아 안정화 조치가 일부 상쇄했다.",
+      "source": "인도네시아 중앙은행(BI)",
+      "url": "https://www.bi.go.id/en/publikasi/ruang-media/news-release/Pages/sp_2824226.aspx",
+      "why": "환율 변동 가정을 쓰는 사업은 루피아 흐름을 계속 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "IDN",
+      "date": "2026-11-05",
+      "cat": "경제",
+      "title": "인도네시아 3분기 성장률 5.47%…가계소비·투자·정부지출이 견인",
+      "summary": "인도네시아 통계청(BPS)은 3분기 실질 GDP가 전년 동기 대비 5.47% 성장해 전망치 5.2%를 웃돌았다고 발표했다. 가계소비 5%, 투자 6.1%, 정부지출 약 9% 증가가 뒷받침했다.",
+      "source": "The Jakarta Post",
+      "url": "https://www.thejakartapost.com/business/2026/11/05/indonesia-economy-picks-up-pace-in-third-quarter",
+      "why": "정부지출 확대 국면이므로 협력 사업의 상대국 재정 분담 일정을 확인할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "EGY",
+      "date": "2026-11-05",
+      "cat": "경제",
+      "title": "이집트 10월 물가 12.0%로 둔화…도시 12.7%, 교통비는 연 20%대 중반",
+      "summary": "이집트 통계청(CAPMAS)은 10월 전국 물가상승률이 전년 대비 12.0%로 9월 12.8%보다 낮아졌다고 발표했다. 도시 지표는 12.7%, 근원 물가는 13.1%이며 도시 교통비는 연 25.8% 올랐다. 중앙은행은 10월 29일 예금금리를 1%p 올려 20%로 했다.",
+      "source": "EnterpriseAM Egypt(CAPMAS 발표)",
+      "url": "https://enterpriseam.com/egypt/2026/11/10/egypts-urban-inflation-slowed-to-12-7-in-october-despite-non-food-momentum/",
+      "why": "물가는 둔화하나 교통·근원 물가 압력이 남아 있어 이동·운영비 가정을 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "BOL",
+      "date": "2026-11-05",
+      "cat": "경제",
+      "title": "볼리비아 10월 물가 월 2.07% 상승…연초 누계 6.03%, 12개월 7.08%",
+      "summary": "볼리비아 통계청(INE)은 10월 소비자물가가 전월 대비 2.07% 올라 1~10월 누계 6.03%, 12개월 누계 7.08%라고 발표했다. 미니버스 요금과 양파·감자·점심 가격 상승이 컸고 지역별로는 포토시가 3.77%로 가장 높았다.",
+      "source": "볼리비아 통계청(INE)",
+      "url": "https://www.ine.gob.bo/index.php/bolivia-registra-una-variacion-mensual-del-ipc-de-207-en-octubre-de-2026/",
+      "why": "중앙은행 연간 전망 9.2%와 비교되는 수치로, 교통·식비 단가와 현지 비용 가정을 확인할 필요가 있다.",
       "verified": true
     },
     {
@@ -1469,14 +1535,14 @@
   "checked": {
     "NPL": "2026-11-09",
     "GHA": "2026-11-10",
-    "EGY": "2026-11-04",
+    "EGY": "2026-11-11",
     "KHM": "2026-11-05",
     "AZE": "2026-11-05",
     "PAK": "2026-11-06",
     "LAO": "2026-11-10",
     "KGZ": "2026-11-10",
-    "MNG": "2026-11-08",
-    "RWA": "2026-11-04",
+    "MNG": "2026-11-11",
+    "RWA": "2026-11-11",
     "BGD": "2026-11-05",
     "UGA": "2026-11-05",
     "VNM": "2026-11-09",
@@ -1485,8 +1551,8 @@
     "PER": "2026-11-09",
     "PHL": "2026-11-10",
     "ETH": "2026-11-10",
-    "IDN": "2026-11-04",
-    "BOL": "2026-11-08",
+    "IDN": "2026-11-11",
+    "BOL": "2026-11-11",
     "TZA": "2026-11-05",
     "LKA": "2026-11-06",
     "KEN": "2026-11-06",

@@ -1,18 +1,7 @@
 {
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "note": "매일 갱신되는 파일. 항목은 제목·출처·링크·두세 문장 요약만 담고 본문은 싣지 않는다. verified=false는 제목만 확인하고 본문은 읽지 못한 항목.",
   "items": [
-    {
-      "iso3": "BGD",
-      "date": "2026-11-09",
-      "cat": "경제",
-      "title": "방글라데시 10월 물가 8.27%로 소폭 둔화…식품 6.40%, 비식품 9.89%",
-      "summary": "통계청(BBS) 발표에 따르면 10월 전국 물가상승률은 8.27%로 9월 8.34%보다 낮아졌다. 식품 물가는 7.22%에서 6.40%로 내렸고 비식품은 9.30%에서 9.89%로 올랐다.",
-      "source": "UNB(파이낸셜 익스프레스 게재)",
-      "url": "https://thefinancialexpress.com.bd/economy/inflation-dips-to-827pc-in-october-as-food-prices-ease",
-      "why": "비식품 물가가 오르고 있어 현지 조달 단가와 인건비 가정을 다시 점검할 필요가 있다.",
-      "verified": true
-    },
     {
       "iso3": "TZA",
       "date": "2026-11-10",
@@ -36,6 +25,28 @@
       "verified": false
     },
     {
+      "iso3": "PRY",
+      "date": "2026-11-09",
+      "cat": "경제",
+      "title": "파라과이 중앙은행, 우에노은행 예금 선지급 약 3.4억 달러…고객 93%가 일부 수령",
+      "summary": "중앙은행은 11월 3일 우에노은행을 개입했고 5일부터 예금보장 선지급을 시작했다. 9일 발표 기준 약 3.4억 달러가 지급돼 보장 대상 고객의 93.1%가 일부를 받았으며, 달러 예금은 11월 2일 환율로 과라니화 상환된다. 계좌당 선지급 한도는 약 1만 8천 달러이고, 한도 초과분은 자산 정리에 따라 정해진다.",
+      "source": "페르필(Perfil)",
+      "url": "https://www.perfil.com/noticias/amp/economia/crisis-de-ueno-bank-el-banco-central-paraguayo-restituyo-parte-de-los-ahorros-a-17-millones-de-clientes-aDCpT4b9T6RF.phtml",
+      "why": "과라니화 약세와 금융 불안이 현지 인건비·구매 지급에 미치는 영향, 사업비 예치 은행 점검이 필요함.",
+      "verified": true
+    },
+    {
+      "iso3": "BGD",
+      "date": "2026-11-09",
+      "cat": "경제",
+      "title": "방글라데시 10월 물가 8.27%로 소폭 둔화…식품 6.40%, 비식품 9.89%",
+      "summary": "통계청(BBS) 발표에 따르면 10월 전국 물가상승률은 8.27%로 9월 8.34%보다 낮아졌다. 식품 물가는 7.22%에서 6.40%로 내렸고 비식품은 9.30%에서 9.89%로 올랐다.",
+      "source": "UNB(파이낸셜 익스프레스 게재)",
+      "url": "https://thefinancialexpress.com.bd/economy/inflation-dips-to-827pc-in-october-as-food-prices-ease",
+      "why": "비식품 물가가 오르고 있어 현지 조달 단가와 인건비 가정을 다시 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
       "iso3": "PHL",
       "date": "2026-11-09",
       "cat": "경제",
@@ -44,6 +55,39 @@
       "source": "The Manila Times",
       "url": "https://www.manilatimes.net/2026/11/09/business/top-business/another-jumbo-hike-seen-as-inflation-climbs/2464803",
       "why": "환율·물가 상승분이 현지 조달 단가와 사업 예산 환산에 미치는 영향을 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "LKA",
+      "date": "2026-11-08",
+      "cat": "경제",
+      "title": "스리랑카 2027년 예산안 11월 12일 국회 제출 예정…IMF 기초재정흑자 GDP 2.6% 요건",
+      "summary": "현지 매체에 따르면 2027년 예산안은 11월 12일 국회에 제출될 예정이다. 정부는 법인세·부가세 등 현행 세율을 유지하고 징수 개선으로 세수를 늘리며, 취약계층 현금이전과 연료·전기 표적 보조를 확대할 계획이다. 29억 달러 규모 IMF 프로그램은 2027년 3월 종료되며 이사회 승인은 예산의 IMF 기준 부합 여부에 달려 있다.",
+      "source": "선데이 타임스(스리랑카)",
+      "url": "https://www.sundaytimes.lk/261108/business-times/2027-budget-balances-imf-discipline-with-public-relief-662898.html",
+      "why": "예산안 확정 뒤 보건·교육·인프라 분야 배정과 보조 개편이 진행 중 사업에 주는 영향을 점검해야 함.",
+      "verified": true
+    },
+    {
+      "iso3": "PRY",
+      "date": "2026-11-06",
+      "cat": "정치",
+      "title": "파라과이 상원, 페냐 대통령 탄핵 의결…알리아나 부통령이 대통령직 승계",
+      "summary": "상원은 11월 6일 탄핵 심판에서 재적 45명 중 44표 찬성으로 페냐 대통령을 해임했고, 알리아나 부통령이 같은 날 의회에서 대통령(임시)으로 취임했다. 우에노은행 개입 사흘 뒤의 일이며, 알리아나 대통령은 피해 예금자를 전액 보상하겠다고 밝혔다. 후임 임기와 선거 일정은 확인하지 못했다.",
+      "source": "프리미시아스(에콰도르)",
+      "url": "https://www.primicias.ec/internacional/paraguay-pedro-alliana-posesion-presidente-interino-destitucion-santiago-pena-ueno-bank-136624/",
+      "why": "카운터파트 정부 부처의 인사·예산 집행이 바뀔 수 있어, 진행 중인 사업의 승인 절차와 담당자를 점검해야 함.",
+      "verified": true
+    },
+    {
+      "iso3": "LKA",
+      "date": "2026-11-06",
+      "cat": "경제",
+      "title": "스리랑카 중앙은행 주간지표: 루피 올해 6.7% 절하, 10월 말 외환보유 70.9억 달러",
+      "summary": "중앙은행 11월 6일자 주간 경제지표에 따르면 루피는 연초 대비 달러 대비 6.7% 절하됐다. 10월 말 총 공식 외환보유액은 중국 인민은행 스와프 자금을 포함해 70억 8,600만 달러이고, 정책금리는 8.75%다. 10월 해외송금은 7억 3,560만 달러였다.",
+      "source": "스리랑카 중앙은행(CBSL)",
+      "url": "https://www.cbsl.gov.lk/sites/default/files/cbslweb_documents/statistics/wei/WEI_20261106_e.pdf",
+      "why": "환율 변동에 따른 현지 조달·인건비 예산 가정을 점검해야 함.",
       "verified": true
     },
     {
@@ -187,6 +231,17 @@
       "source": "Asia-Plus",
       "url": "https://asiaplus.news/en/2026/11/05/rustam-emomali-and-shavkat-mirziyoyev-discuss-strengthening-tajikistan-uzbekistan-ties/",
       "why": "역내 교통·에너지 연계 협력이 사업 지역의 물류와 전력 여건에 미칠 영향을 지켜볼 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "KEN",
+      "date": "2026-11-03",
+      "cat": "경제",
+      "title": "케냐 재무장관, 11~12월 유가 조정 때 연료안정기금으로 인하 추진",
+      "summary": "음바디 재무장관은 라디오 인터뷰에서 10월 조정 때 쓰지 않은 연료안정기금을 11~12월 조정에 활용해 판매가를 낮추겠다고 밝혔다. 현재 나이로비 휘발유는 리터당 226.96실링, 경유는 227.76실링이며, 이 가격은 11월 14일까지 적용된다.",
+      "source": "Kenyans.co.ke",
+      "url": "https://www.kenyans.co.ke/news/129085-cs-mbadi-reveals-govt-plan-cut-fuel-prices-november-december-review",
+      "why": "연료비 변동에 따른 차량·물류 예산 가정을 11월 14일 조정 결과로 다시 점검해야 함.",
       "verified": true
     },
     {
@@ -1560,7 +1615,7 @@
     "EGY": "2026-11-11",
     "KHM": "2026-11-12",
     "AZE": "2026-11-12",
-    "PAK": "2026-11-06",
+    "PAK": "2026-11-13",
     "LAO": "2026-11-10",
     "KGZ": "2026-11-10",
     "MNG": "2026-11-11",
@@ -1576,9 +1631,9 @@
     "IDN": "2026-11-11",
     "BOL": "2026-11-11",
     "TZA": "2026-11-12",
-    "LKA": "2026-11-06",
-    "KEN": "2026-11-06",
-    "TJK": "2026-11-06",
-    "PRY": "2026-11-06"
+    "LKA": "2026-11-13",
+    "KEN": "2026-11-13",
+    "TJK": "2026-11-13",
+    "PRY": "2026-11-13"
   }
 }

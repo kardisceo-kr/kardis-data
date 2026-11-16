@@ -1,7 +1,40 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "note": "매일 갱신되는 파일. 항목은 제목·출처·링크·두세 문장 요약만 담고 본문은 싣지 않는다. verified=false는 제목만 확인하고 본문은 읽지 못한 항목.",
   "items": [
+    {
+      "iso3": "ETH",
+      "date": "2026-11-14",
+      "cat": "정치",
+      "title": "에티오피아 군 총참모장, 티그라이 공세 배후로 에리트레아·이집트 지목",
+      "summary": "에티오피아 군 수장 비르하누 줄라 원수는 기자회견에서 에리트레아가 주도하고 이집트가 무기·물류를 댄 티그라이 세력의 공세를 아파르·암하라 지역에서 격퇴했다고 밝혔다. 이 주장은 독립적으로 확인되지 않았고 에리트레아와 이집트는 유사한 주장을 이전에 부인했다.",
+      "source": "아나돌루 통신",
+      "url": "https://www.aa.com.tr/en/africa/ethiopia-accuses-eritrea-of-leading-tigray-rebel-offensive-with-egyptian-support/4125272",
+      "why": "북부 지역과 주변국 관계 변화에 따라 현장 방문·이동 일정과 비상 연락 체계를 다시 점검할 필요가 있습니다.",
+      "verified": true
+    },
+    {
+      "iso3": "ETH",
+      "date": "2026-11-13",
+      "cat": "정치",
+      "title": "주에티오피아 미국대사관, 북부 교전 지속 속 티그라이·암하라·아파르 여행 자제 안내",
+      "summary": "미국대사관은 에리트레아 국경 인근 티그라이 외곽에서 교전이 이어지고 악숨·셔라 공항 운항이 중단된 상태라고 안내했다. 티그라이·암하라(랄리벨라 포함)·아파르 지역 이동을 하지 말고 군 시설을 피하라고 권고했다.",
+      "source": "주에티오피아 미국대사관",
+      "url": "https://et.usembassy.gov/security-alert-u-s-embassy-addis-ababa-ethiopia-november-13-2026/",
+      "why": "북부 지역 출장·모니터링 일정과 항공편 대체 경로, 현지 직원 안전 연락망을 점검할 필요가 있습니다.",
+      "verified": true
+    },
+    {
+      "iso3": "KGZ",
+      "date": "2026-11-13",
+      "cat": "정치",
+      "title": "키르기스스탄 중앙선관위, 2027년 1월 대선 신청자 11명 확인…서명 마감 12월 8일",
+      "summary": "중앙선관위는 자파로프 대통령을 포함해 11명이 대선 출마를 신청했다고 밝혔다. 후보는 유권자 서명 3만 명을 모아야 하며 등록은 12월 23일까지 마무리되고 선거일은 2027년 1월 27일이다.",
+      "source": "중앙아시아 타임스",
+      "url": "https://timesca.com/kyrgyzstan-presidential-election-11-candidates-japarov/",
+      "why": "선거 일정 전후로 정부 부처 협의와 현장 일정이 밀릴 수 있어 사업 연간 일정을 확인할 필요가 있습니다.",
+      "verified": true
+    },
     {
       "iso3": "GHA",
       "date": "2026-11-12",
@@ -11,6 +44,17 @@
       "source": "Citi Newsroom",
       "url": "https://www.citinewsroom.com/2026/11/government-targets-5-2-growth-6-months-of-import-cover-in-2027/",
       "why": "가나 사업의 2027년 예산 배정·대응자금 계획이 새 예산 항목과 맞는지 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "PHL",
+      "date": "2026-11-11",
+      "cat": "경제",
+      "title": "필리핀 중앙은행, 3분기 성장 둔화를 물가 전망에 반영해 향후 금리 결정에 고려",
+      "summary": "중앙은행은 3분기 성장률 2.1%와 10월 물가 7.8%를 함께 살피며 인플레이션 기대 이탈을 주시하겠다고 밝혔다. 노무라는 12월에 0.25~0.5%p 추가 인상 가능성을 언급했다. 정책금리는 현재 5.5%다.",
+      "source": "마닐라 타임스",
+      "url": "https://www.manilatimes.net/2026/11/13/business/top-business/bsp-to-weigh-gdp-drop-in-future-rate-decision/2468859",
+      "why": "고물가와 금리 인상이 이어지는 만큼 현지 비용·환율 가정과 대응자금 계획을 점검할 필요가 있습니다.",
       "verified": true
     },
     {
@@ -198,6 +242,17 @@
       "source": "인도네시아 중앙은행(BI)",
       "url": "https://www.bi.go.id/en/publikasi/ruang-media/news-release/Pages/sp_2824226.aspx",
       "why": "환율 변동 가정을 쓰는 사업은 루피아 흐름을 계속 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "GHA",
+      "date": "2026-11-05",
+      "cat": "경제",
+      "title": "IMF, 가나 정책조정수단 1차 점검 실무진 합의…이사회 승인은 남아",
+      "summary": "IMF 실무진은 가나의 36개월 정책조정수단(PCI) 1차 점검에서 성과가 대체로 만족스럽다고 평가했다. 이 수단은 자금 제공 없이 개혁 이행을 점검하며 이사회 승인 일정은 정해지지 않았다. 10월 물가는 5.5%, 공공부채는 GDP의 약 50%다.",
+      "source": "Rio Times(IMF 브리핑 인용)",
+      "url": "https://www.riotimesonline.com/ghana-imf-first-review-staff-agreement-pci-2026/",
+      "why": "재정·통화 기조가 이어지는지 확인하고 사업 예산의 환율·물가 가정을 점검할 필요가 있습니다.",
       "verified": true
     },
     {
@@ -583,6 +638,17 @@
       "source": "Trend News Agency",
       "url": "https://www.trend.az/casia/uzbekistan/4241243.html",
       "why": "한국 기관과 연계한 환경 분야 사업은 세계은행 사업과의 역할 분담 및 중복 여부를 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "LAO",
+      "date": "2026-10-29",
+      "cat": "사회",
+      "title": "라오스 정부, 민간 최저임금 2027년 1월부터 월 340만 킵으로 인상",
+      "summary": "정부는 민간 부문 월 최저임금을 250만 킵에서 340만 킵(약 150달러)으로 올리기로 했다. 10월 19일 총리·부총리 회의에서 결정됐고 2027년 1월 시행된다. 기본급과 생활수당을 함께 올리며 이전 인상은 2023년이었다.",
+      "source": "빈티안 타임스(스타 온라인 전재)",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/29/lao-govt-to-raise-private-sector-minimum-wage-to-us150",
+      "why": "현지 인건비 단가와 용역·위탁 계약의 임금 반영 조건을 점검할 필요가 있습니다.",
       "verified": true
     },
     {
@@ -1765,13 +1831,13 @@
   ],
   "checked": {
     "NPL": "2026-11-16",
-    "GHA": "2026-11-15",
+    "GHA": "2026-11-17",
     "EGY": "2026-11-11",
     "KHM": "2026-11-12",
     "AZE": "2026-11-12",
     "PAK": "2026-11-13",
-    "LAO": "2026-11-14",
-    "KGZ": "2026-11-15",
+    "LAO": "2026-11-17",
+    "KGZ": "2026-11-17",
     "MNG": "2026-11-15",
     "RWA": "2026-11-11",
     "BGD": "2026-11-12",
@@ -1780,8 +1846,8 @@
     "SEN": "2026-11-16",
     "UZB": "2026-11-16",
     "PER": "2026-11-16",
-    "PHL": "2026-11-15",
-    "ETH": "2026-11-15",
+    "PHL": "2026-11-17",
+    "ETH": "2026-11-17",
     "IDN": "2026-11-11",
     "BOL": "2026-11-15",
     "TZA": "2026-11-12",

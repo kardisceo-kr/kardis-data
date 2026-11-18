@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "note": "매일 갱신되는 파일. 항목은 제목·출처·링크·두세 문장 요약만 담고 본문은 싣지 않는다. verified=false는 제목만 확인하고 본문은 읽지 못한 항목.",
   "items": [
     {
@@ -22,6 +22,17 @@
       "source": "Visión 360 · FM Bolivia",
       "url": "https://www.vision360.bo/noticias/2026/11/16/77451-ministro-blanco-bolivia-cumplira-el-compromiso-con-el-fmi-de-acabar-con-la-subvencion-a-los-hidrocarburos",
       "why": "휘발유·LPG 가격 개편 시점이 확정되지 않았으므로 현지 운송·물류비와 연료 수급을 가정한 사업 일정·예산을 재점검해야 한다.",
+      "verified": true
+    },
+    {
+      "iso3": "KHM",
+      "date": "2026-11-15",
+      "cat": "정치",
+      "title": "캄보디아 프놈펜서 제20차 프랑코포니 정상회의 개막…훈 마넷 총리 태국 국경 휴전 '유지되나 복잡·취약' 언급",
+      "summary": "프랑코포니 정상회의가 11월 15~16일 프놈펜에서 열렸고 마크롱 프랑스 대통령 등 80여 개국 대표단이 참석했다. 훈 마넷 총리는 개막 연설에서 평화가 성장의 전제라고 말했으며, 2025년 12월 27일 합의된 태국과의 휴전이 유지되고 있으나 상황은 복잡하고 취약하다고 밝혔다.",
+      "source": "The Star(말레이시아)",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/15/cambodian-pm-hun-manet-says-no-prosperity-without-peace-at-the-francophonie-summit-in-phnom-penh",
+      "why": "정상회의 기간 프놈펜 교통·보안 통제와 태국 접경 상황이 현장 방문·물류 일정에 영향을 주는지 점검할 필요가 있다.",
       "verified": true
     },
     {
@@ -77,6 +88,17 @@
       "source": "Citi Newsroom",
       "url": "https://www.citinewsroom.com/2026/11/government-targets-5-2-growth-6-months-of-import-cover-in-2027/",
       "why": "가나 사업의 2027년 예산 배정·대응자금 계획이 새 예산 항목과 맞는지 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "AZE",
+      "date": "2026-11-11",
+      "cat": "경제",
+      "title": "아제르바이잔 1~10월 물가 전년 대비 5.6%…9월 누계보다 0.1%p 낮아져",
+      "summary": "국가통계위원회에 따르면 1~10월 소비자물가는 전년 같은 기간보다 5.6% 올라 1~9월(5.7%)보다 둔화했다. 중앙은행 자료상 9월 연간 물가는 5.5%였고 식품·주류·담배가 6.9%로 가장 높았다. 근원물가는 4.9%였다.",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4245093.html",
+      "why": "식품 물가가 전체보다 높은 점을 감안해 현지 조달·인건비 단가 가정을 점검할 필요가 있다.",
       "verified": true
     },
     {
@@ -155,6 +177,17 @@
       "url": "https://www.newtimes.co.rw/article/40350/news/economy/inflation-rises-by-195-in-october",
       "why": "물가 급등이 이어지는 만큼 현지 조달 단가와 인건비 가정의 재점검이 필요하다.",
       "verified": false
+    },
+    {
+      "iso3": "UGA",
+      "date": "2026-11-09",
+      "cat": "경제",
+      "title": "우간다 중앙은행, 기준금리 12% 유지하고 금리 변동폭 ±3%p로 확대",
+      "summary": "우간다 중앙은행이 11월 9일 통화정책 성명에서 기준금리(CBR)를 12%로 동결하고 금리 변동폭을 ±2%p에서 ±3%p로 넓혔다. 재할인율은 16%, 은행금리는 17%가 된다. 향후 12개월 물가는 에너지 가격·실링화 약세·날씨 영향으로 7.5~8%까지 오를 것으로 전망했다.",
+      "source": "AllAfrica(Daily Monitor 등 인용)",
+      "url": "https://allafrica.com/stories/202611100498.html",
+      "why": "실링화 약세와 고금리가 이어질 수 있어 현지 통화 계약 단가와 환율 가정을 점검할 필요가 있다.",
+      "verified": true
     },
     {
       "iso3": "VNM",
@@ -1888,15 +1921,15 @@
     "NPL": "2026-11-16",
     "GHA": "2026-11-17",
     "EGY": "2026-11-18",
-    "KHM": "2026-11-12",
-    "AZE": "2026-11-12",
+    "KHM": "2026-11-19",
+    "AZE": "2026-11-19",
     "PAK": "2026-11-13",
     "LAO": "2026-11-17",
     "KGZ": "2026-11-17",
     "MNG": "2026-11-18",
     "RWA": "2026-11-18",
-    "BGD": "2026-11-12",
-    "UGA": "2026-11-12",
+    "BGD": "2026-11-19",
+    "UGA": "2026-11-19",
     "VNM": "2026-11-16",
     "SEN": "2026-11-16",
     "UZB": "2026-11-16",
@@ -1905,7 +1938,7 @@
     "ETH": "2026-11-17",
     "IDN": "2026-11-18",
     "BOL": "2026-11-18",
-    "TZA": "2026-11-12",
+    "TZA": "2026-11-19",
     "LKA": "2026-11-13",
     "KEN": "2026-11-13",
     "TJK": "2026-11-13",

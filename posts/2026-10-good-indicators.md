@@ -1,6 +1,7 @@
 ---
 title: 좋은 성과지표의 조건: SMART만으로 부족한 이유
 date: 2026-10-14
+category: 성과측정 설계
 summary: 가상 모자보건 사업의 지표 6개에 SMART와 CREAM을 함께 적용하고 모성사망비의 정밀도를 계산해, 문장 형식만으로는 드러나지 않는 지표의 결함을 살펴봅니다.
 tags: [성과지표, SMART, CREAM, 측정 설계]
 author: kardis

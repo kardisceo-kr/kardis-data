@@ -5,8 +5,8 @@ GitHub Actions가 posts/ 변경 시 자동 실행한다. 직접 실행: python3 
 import json, re, sys, pathlib, datetime
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-# 분류(category)는 아직 정하지 않았다. 정해지면 이 목록을 채워 입력값 검사에 쓴다(사이트의 분류 버튼은 그때 다시 만든다).
-CATEGORIES = []
+# 분류(category): 사이트 인사이트의 주제 탭. 새 분류를 만들 때는 이 목록과 사이트 탭을 함께 바꾼다.
+CATEGORIES = ["성과측정 설계", "AI 활용", "데이터로 본 개발협력", "현장 위험과 사업관리"]
 STATUS = {"published", "draft"}
 SLUG = re.compile(r"^[a-z0-9][a-z0-9-]{2,80}$")
 

@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "note": "매일 갱신되는 파일. 항목은 제목·출처·링크·두세 문장 요약만 담고 본문은 싣지 않는다. verified=false는 제목만 확인하고 본문은 읽지 못한 항목.",
   "items": [
+    {
+      "iso3": "PAK",
+      "date": "2026-11-17",
+      "cat": "경제",
+      "title": "파키스탄 중앙은행, 2025/26 회계연도 연차보고서 발표…4월부터 물가 두 자릿수, 외환보유 목표 초과",
+      "summary": "중앙은행이 2025/26 회계연도 연차보고서를 공개했다. 중동 분쟁에 따른 유가 상승으로 4월부터 물가가 두 자릿수로 올랐고, 기준금리는 12월 0.5%p 인하 뒤 4월 1%p 인상됐다. 중앙은행 외환보유액은 6월 말 목표 180억 달러를 넘었다.",
+      "source": "State Bank of Pakistan",
+      "url": "https://www.sbp.org.pk/assets/documents/press-release/PR-17-Nov-2026.pdf",
+      "why": "물가·금리 수준이 사업비 단가와 현지 조달 계획에 반영돼 있는지 점검할 필요가 있다.",
+      "verified": true
+    },
     {
       "iso3": "EGY",
       "date": "2026-11-17",
@@ -80,6 +91,17 @@
       "verified": true
     },
     {
+      "iso3": "LKA",
+      "date": "2026-11-12",
+      "cat": "경제",
+      "title": "스리랑카 대통령, 2027년 예산안 의회 제출…재정적자 GDP 대비 4.5%, 사이클론 복구 추경 포함",
+      "summary": "디사나야케 대통령이 재무장관 자격으로 11월 12일 2027년 예산안을 의회에 제출했다. 공공투자는 2조 루피(GDP 대비 5.1%), 수입은 GDP 대비 15.8%로 잡혔고 이자 지출은 수입의 약 43%다. 개인소득세 면세 기준은 연 195만 루피로 올랐다.",
+      "source": "The Morning",
+      "url": "https://www.themorning.lk/articles/utLs5qNerMhf7poTDIcn",
+      "why": "2027년 정부 재정 배분과 복구 예산 항목이 현지 사업 예산·상대국 분담 계획에 미치는 영향을 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
       "iso3": "GHA",
       "date": "2026-11-12",
       "cat": "경제",
@@ -88,6 +110,17 @@
       "source": "Citi Newsroom",
       "url": "https://www.citinewsroom.com/2026/11/government-targets-5-2-growth-6-months-of-import-cover-in-2027/",
       "why": "가나 사업의 2027년 예산 배정·대응자금 계획이 새 예산 항목과 맞는지 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "PAK",
+      "date": "2026-11-11",
+      "cat": "경제",
+      "title": "아시아개발은행, 파키스탄에 재난 발생 시 즉시 집행하는 5억 달러 우발금융 승인",
+      "summary": "ADB가 기후·재난 복원력 강화 프로그램의 2차 부분으로 5억 달러 규모 재난 우발금융을 승인했다. 홍수·지진 등 요건에 해당하는 재난 뒤 예산 지원으로 신속히 집행되는 정책기반 금융이다. 2022년 홍수의 직접 피해는 149억 달러로 추산됐다.",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2639769/adb-announces-500m-in-contingent-disaster-financing-for-pakistan",
+      "why": "재난 대응 재원 구조가 바뀌므로 재난 취약 지역 사업의 위기 대응·재원 연계 계획을 확인할 필요가 있다.",
       "verified": true
     },
     {
@@ -473,6 +506,17 @@
       "source": "Asia-Plus",
       "url": "https://asiaplus.news/en/2026/11/05/rustam-emomali-and-shavkat-mirziyoyev-discuss-strengthening-tajikistan-uzbekistan-ties/",
       "why": "역내 교통·에너지 연계 협력이 사업 지역의 물류와 전력 여건에 미칠 영향을 지켜볼 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "TJK",
+      "date": "2026-11-03",
+      "cat": "한국ODA",
+      "title": "두샨베시 대표단, 한국 국토교통부와 스마트교통 사업 의정서 서명…최대 190만 달러 무상 유치 기대",
+      "summary": "두샨베시 대표단이 11월 2~6일 한국을 방문해 국토교통부와 '두샨베 스마트교통 개발' 사업 의정서에 서명했다. 스마트 신호·교통 시스템 구축에 최대 190만 달러의 한국 무상자금을 유치할 것으로 전해졌다.",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/tajikistan/4242446.html",
+      "why": "의정서 이행 주체와 사업 착수 시점, 기존 한국 협력사업과의 중복 여부를 확인할 필요가 있다.",
       "verified": true
     },
     {
@@ -1923,7 +1967,7 @@
     "EGY": "2026-11-18",
     "KHM": "2026-11-19",
     "AZE": "2026-11-19",
-    "PAK": "2026-11-13",
+    "PAK": "2026-11-20",
     "LAO": "2026-11-17",
     "KGZ": "2026-11-17",
     "MNG": "2026-11-18",
@@ -1939,9 +1983,9 @@
     "IDN": "2026-11-18",
     "BOL": "2026-11-18",
     "TZA": "2026-11-19",
-    "LKA": "2026-11-13",
-    "KEN": "2026-11-13",
-    "TJK": "2026-11-13",
-    "PRY": "2026-11-13"
+    "LKA": "2026-11-20",
+    "KEN": "2026-11-20",
+    "TJK": "2026-11-20",
+    "PRY": "2026-11-20"
   }
 }

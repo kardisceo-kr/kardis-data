@@ -1,13 +1,34 @@
 {
- "updated": "2026-11-16",
- "period": "2026-11-09 ~ 2026-11-15",
- "lead": "콩고민주공화국 에볼라 확진은 11,197명이 됐고, 미국 2026 회계연도 국가별 국제보건 배정이 2024년보다 약 16.6억 달러 적다는 시민단체 분석이 공개됐으며, COP31이 첫 주를 마쳤고, 브렌트유는 13일 오후 기준 2주 연속 하락 흐름을 보였으며, WFP는 재원 감소로 수단 지원 대상이 300만여 명으로 줄었다고 밝혔다.",
+ "updated": "2026-11-23",
+ "period": "2026-11-16 ~ 2026-11-22",
+ "lead": "COP31이 결정문을 채택하지 못하고 11월 22일 끝났고, WHO는 에볼라를 국제공중보건비상사태로 유지했으며, WFP는 2027년 지원 목표를 9,100만 명으로 낮췄고, 독일 의회 예산위원회가 확정한 2027년 개발협력 예산(95.8억 유로)이 이번 주 본회의 표결을 앞두고 있으며, 브렌트유는 11월 16일 95.36달러에서 20일 91~93달러로 내렸다.",
  "items": [
   {
+   "cat": "기후·재난",
+   "title": "COP31, 총괄 결정문 채택 없이 폐막…차기 COP32는 에티오피아 아디스아바바",
+   "summary": "튀르키예 안탈리아에서 11월 9일 개막한 제31차 유엔기후변화협약 당사국총회(COP31)는 예정보다 이틀 늦은 11월 22일 결정문을 채택하지 못한 채 끝났다. 무라트 쿠룸 의장은 문안에 합의가 없어 해당 결정들을 채택하지 않았다고 밝혔고, 유럽연합(EU)은 화석연료 언급이 없는 총괄 결정문을 받아들일 수 없다며 공식 반대했으며 파나마도 결과에 반대했다. 다음 당사국총회(COP32)는 에티오피아 아디스아바바에서 열린다.",
+   "date": "2026-11-22",
+   "channels": [
+    "국제 규범·의제",
+    "공여 재원"
+   ],
+   "countries": [
+    "ETH"
+   ],
+   "why": "기후 적응·에너지 전환 요소가 있는 사업에서 이번 총회 결정문을 근거로 쓰려던 지표·문구가 있는지, 있다면 기존 파리협정·상대국 NDC 기준으로 유지되는지 점검합니다.",
+   "sources": [
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/11/1168855"
+    }
+   ],
+   "verified": true
+  },
+  {
    "cat": "보건",
-   "title": "콩고민주공화국 에볼라 확진 11,197명…케냐는 마지막 환자 퇴원으로 종식 확인 42일 집계 시작",
-   "summary": "유럽질병예방통제센터(ECDC)가 콩고민주공화국 보건당국 자료를 정리해 11월 13일 갱신한 자료에 따르면 11월 11일까지 확진 11,197명, 관련 사망 5,471명이며 8개 주에서 발생했다. WHO 사무총장은 11월 11일 회원국 브리핑에서 케냐의 마지막 환자가 이날 퇴원해 종식 선언을 위한 42일 집계가 시작됐다고 밝히고, 전면적인 여행 제한을 둔 국가들에 이를 해제하도록 요청했다. 그는 또 지난주 칸틴-알로야(Cantine-Aloya) 공격으로 보건인력 3명을 포함한 민간인 66명이 숨지고 보건시설 3곳이 약탈·방화됐다고 밝혔다.",
-   "date": "2026-11-11",
+   "title": "WHO, 에볼라 국제공중보건비상사태 유지…콩고민주공화국 확진 11,613명",
+   "summary": "WHO는 11월 17일 열린 제3차 국제보건규칙(IHR) 긴급위원회 권고에 따라 11월 18일 분디부교 바이러스 에볼라가 계속 국제공중보건비상사태(PHEIC)에 해당한다고 결정했다. 11월 20일 발표한 질병 발생 소식에 따르면 11월 17일까지 콩고민주공화국 확진 11,613명, 사망 5,678명이며 8개 주 68개 보건구역에서 발생했고, 케냐(확진 9명, 사망 2명)와 나이지리아(1명)는 신규 환자 없이 42일 종식 확인 기간에 있다. WHO는 콩고민주공화국의 위험을 '매우 높음', 케냐·나이지리아를 '높음'으로 평가했고 여행·교역 제한을 권고하지 않았다.",
+   "date": "2026-11-20",
    "channels": [
     "현장 안전"
    ],
@@ -15,75 +36,69 @@
     "KEN",
     "UGA"
    ],
-   "why": "케냐·우간다 사업 인력의 입국 검역·이동 절차가 케냐 종식 확인 기간(42일) 동안 바뀌는지와 접경 지역 사업의 감염 예방 물품 재고를 점검합니다.",
+   "why": "케냐·우간다 사업에서 파견 인력의 검역·이동 절차와 접경 지역 사업의 감염 예방 물품·비상 연락 체계를 점검합니다.",
    "sources": [
     {
-     "name": "WHO(11월 11일 회원국 브리핑)",
-     "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-member-state-briefing-on-ebola-outbreak-in-the-democratic-republic-of-the-congo---11-november-2026"
+     "name": "WHO 질병 발생 소식(DON630)",
+     "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630"
     },
     {
-     "name": "ECDC",
-     "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda"
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/11/1168827"
+    }
+   ],
+   "verified": true
+  },
+  {
+   "cat": "분쟁",
+   "title": "WFP 2027년 호소: 지원 목표 9,100만 명(2026년 1억 1,000만 명), 필요 재원 120억 달러",
+   "summary": "유엔세계식량계획(WFP)은 11월 20일 2027년 호소를 발표하고 9,100만 명 지원에 120억 달러가 필요하다고 밝혔다. 2026년에는 1억 1,000만 명 지원을 목표로 130억 달러를 호소했으나 절반가량만 확보됐다. WFP는 급성·심각한 기아에 처한 인구를 2억 6,600만 명으로 집계했고 수단을 기근 위험 국가로 들었다.",
+   "date": "2026-11-20",
+   "channels": [
+    "공여 재원",
+    "현장 안전"
+   ],
+   "countries": [],
+   "why": "WFP 등 다자기구와 함께하는 식량·영양·인도적 지원 사업에서 2027년 협력 기관의 수혜자 범위·배분 계획이 바뀌는지와 공동 재원 가정을 점검합니다.",
+   "sources": [
+    {
+     "name": "The Daily Star(로이터)",
+     "url": "https://www.thedailystar.net/news/world/news/un-cuts-food-aid-target-despite-looming-hunger-crisis-4329206"
+    },
+    {
+     "name": "Arab News(로이터)",
+     "url": "https://www.arabnews.com/world/un-cuts-food-aid-target-despite-looming-hunger-crisis-3013187"
     }
    ],
    "verified": true
   },
   {
    "cat": "정치",
-   "title": "미국 2026 회계연도 국가별 국제보건 배정, 2024년보다 약 16.6억 달러 적어…시민단체 3곳 분석 공개",
-   "summary": "미국 시민단체 퍼블릭 시티즌·파트너스 인 헬스·PAI는 11월 14일, 국무부가 5월 의회에 낸 2026 회계연도 대외원조 배정 보고서(653(a))를 분석한 결과 국가별 국제보건 배정액이 2024 회계연도보다 약 16.6억 달러(25.5%) 적고, 79개국 중 69개국이 줄었으며 8개국은 0이 됐다고 발표했다. 단체들은 같은 보고서가 「혁신 기금」에 8.88억 달러를 배정했고, 의회가 승인한 가족계획·생식보건 예산 6.075억 달러 중 약 6.05억 달러가 유보·전용 대상으로 분류됐다고 밝혔다. 중점협력국 배정액은 탄자니아 4.752억→3.379억 달러, 방글라데시 8,000만→2,590만 달러, 네팔 4,790만→1,060만 달러, 케냐 3.933억→3.913억 달러, 에티오피아 2.406억→2.750억 달러다.",
-   "date": "2026-11-14",
+   "title": "독일 2027년 개발협력부(BMZ) 예산 95.8억 유로…2026년 100.5억 유로에서 감소, 11월 25일 본회의 표결",
+   "summary": "독일 연방하원 예산위원회는 11월 13일 2027년 예산을 확정했으며, 연방경제협력개발부(BMZ) 예산은 정부안(94.7억 유로)보다 1.1억 유로 많은 95.8억 유로로 2026년 100.5억 유로보다 적다. 정부안 기준 양자 개발협력은 약 39.1억 유로(2026년 46.4억 유로), 유엔 등 국제기구 분담금은 5.159억→4.427억 유로, 세계은행 그룹은 9.099억→약 10.9억 유로다. BMZ 예산은 11월 25일, 연방 예산 전체는 11월 27일 본회의에서 최종 표결한다.",
+   "date": "2026-11-17",
    "channels": [
-    "공여 재원"
-   ],
-   "countries": [
-    "TZA",
-    "BGD",
-    "NPL",
-    "KEN",
-    "ETH"
-   ],
-   "why": "미국 보건 재원과 함께 진행하거나 같은 지역에서 운영하는 보건·가족계획 사업에서 공동 재원·물자 공급 가정과 상대국 보건부 예산 계획의 변동 여부를 점검합니다.",
-   "sources": [
-    {
-     "name": "Public Citizen·Partners In Health·PAI",
-     "url": "https://www.citizen.org/article/trump-administration-signals-intent-to-bypass-congress-siphon-funding-away-from-low-and-middle-income-countries/"
-    },
-    {
-     "name": "International Business Times UK",
-     "url": "https://www.ibtimes.co.uk/trump-health-innovation-fund-country-allocations-1832248"
-    }
-   ],
-   "verified": true
-  },
-  {
-   "cat": "기후·재난",
-   "title": "COP31 첫 주 마무리…적응목표 새 초안 나오고 총괄 결정문 초안은 이번 주 초 예정",
-   "summary": "11월 9일 튀르키예 안탈리아에서 개막한 제31차 유엔기후변화협약 당사국총회(COP31)는 20일까지 열리며, 튀르키예 환경장관이 의장을, 호주 기후변화·에너지 장관이 협상을 맡는 공동 의장 체제로 운영된다. 첫 주에 지구적 적응목표(GGA) 새 초안과 정의로운 전환 메커니즘 비공식 문서가 나왔고, 총괄 결정문(cover decision) 초안은 11월 16일이 있는 주 초에 나올 예정이다. 튀르키예 주도의 자발적 서약은 세계 최종 에너지 소비 중 전력 비중을 현재 23%에서 2035년 35%로 높이는 내용이며, 아랍 국가들·멕시코·한국·스위스는 COP를 2년마다 여는 방안을 제안했다.",
-   "date": "2026-11-14",
-   "channels": [
-    "국제 규범·의제",
     "공여 재원"
    ],
    "countries": [],
-   "why": "기후 적응·에너지 전환 요소가 있는 사업에서 11월 20일 폐막 후 결정문이 채택되면 그 적응 지표·정의로운 전환 문구를 사업 성과지표와 상대국 NDC·국가적응계획(NAP) 연계 서술에 대조해 점검합니다.",
+   "why": "독일(GIZ·KfW)과 공동 또는 병행으로 추진하는 사업에서 2027년 독일 측 재원 배정과 착수 일정이 바뀌는지 점검합니다.",
    "sources": [
     {
-     "name": "UN News",
-     "url": "https://news.un.org/en/story/2026/11/1168763"
+     "name": "독일 연방하원",
+     "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw48-de-entwicklung-1232316"
     },
     {
-     "name": "Climate Home News",
-     "url": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/"
+     "name": "독일 연방하원(예산위원회)",
+     "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw46-pa-haushalt-1231890"
     }
    ],
    "verified": true
   },
   {
    "cat": "경제",
-   "title": "브렌트유 배럴당 96달러대, 13일 오후 기준 2주 연속 하락 흐름…10월 월평균 125.0달러보다 낮아",
-   "summary": "로이터 보도(RTÉ 게재)에 따르면 11월 13일 오후 브렌트유는 배럴당 96.67달러, WTI는 89.18달러로 주간 약 2% 내려 2주 연속 하락할 것으로 나타났고, 전주에는 브렌트유가 16%, WTI가 13% 내렸다. 보도는 미국이 이란에 대한 봉쇄·경제 압박에 집중하면서 직접 충돌 재개 우려가 줄어든 점과 미국 수요 둔화를 하락 요인으로, 후티의 사우디아라비아 시설 공격 주장과 유조선 공격 주장을 상승 요인으로 들었다. kardis 지표 기준 브렌트유 10월 월평균은 125.0달러, 원/달러 환율은 11월 13일 1,337.1원이다.",
-   "date": "2026-11-13",
+   "title": "브렌트유 11월 16일 95.36달러→20일 91~93달러…미국 재고 증가·중동 수출 회복 보도",
+   "summary": "11월 20일 브렌트유 종가·참고가격은 집계 출처에 따라 배럴당 91.59달러(Arbiterz, 주간 종가)~92.57달러(Trading Economics)로, 11월 16일 95.36달러(Arbiterz)보다 낮았다. Trading Economics는 브렌트유가 3주 연속 주간 하락 흐름에 있다고 보도했다. 보도들은 미국 원유 재고 증가, 중동산 원유 수출 회복, 공급 과잉 전망을 하락 요인으로, 이란 관련 긴장과 호르무즈 해협 운송 위험을 지지 요인으로 들었다. kardis 지표 기준 브렌트유 10월 월평균은 125.0달러, 원/달러 환율은 11월 20일 1,339.4원이다.",
+   "date": "2026-11-20",
    "channels": [
     "협력국 재정·환율"
    ],
@@ -91,27 +106,12 @@
    "why": "연료·운송비 비중이 큰 사업과 차량·발전기 운영 예산의 유가 단가 가정, 원화로 편성한 사업비의 환율 가정을 점검합니다.",
    "sources": [
     {
-     "name": "RTÉ(로이터)",
-     "url": "https://www.rte.ie/news/business/2026/1113/1599081-world-oil-prices/"
-    }
-   ],
-   "verified": true
-  },
-  {
-   "cat": "분쟁",
-   "title": "WFP 사무총장 수단 방문…재원 감소로 지원 대상 400만여 명→300만여 명, 2027년 4월까지 5.2억 달러 필요",
-   "summary": "유엔세계식량계획(WFP) 루크 린드버그 사무총장은 첫 수단 현장 방문에서, WFP가 2026년 8월 400만 명 넘게(기근 위험 지역 88만 명 포함) 지원했으나 재원 감소로 지원 대상이 300만여 명으로 줄었고 약 90만 명이 식량 지원을 받지 못하게 됐다고 밝혔다(UN News, 11월 12일). WFP는 2027년 4월까지 540만 명에게 식량·영양 지원을 하려면 5.2억 달러가 필요하다고 밝혔다. 치안 불안, 도로 봉쇄, 홍수 피해로 구호 물자 전달이 지연되고 있다.",
-   "date": "2026-11-12",
-   "channels": [
-    "현장 안전",
-    "공여 재원"
-   ],
-   "countries": [],
-   "why": "다자기구와 함께하는 인도적 지원·식량 사업에서 협력 기관의 재원 감소에 따른 수혜자 범위·배분 계획 변동 여부를 점검합니다.",
-   "sources": [
+     "name": "Arbiterz",
+     "url": "https://arbiterz.com/oil-prices-today-brent-crude-closes-weekly-trading-at-91-59-per-barrel"
+    },
     {
-     "name": "UN News",
-     "url": "https://news.un.org/en/story/2026/11/1168793"
+     "name": "Trading Economics",
+     "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
     }
    ],
    "verified": true
@@ -121,47 +121,47 @@
   {
    "type": "분쟁",
    "name": "에티오피아 북부 교전",
-   "where": "에티오피아 북부(티그라이·암하라)",
+   "where": "에티오피아 북부(티그라이·암하라·아파르)",
    "countries": [
     "ETH"
    ],
-   "status": "ACLED는 11월 7일 에티오피아-에리트레아 국경 인근 라마 일대에서 교전이 있었고 연방군이 라마를 되찾았다고 보고했으며, 티그라이방위군(TDF)은 자신들이 연방군을 물리쳤다고 주장(확인 안 됨). 11월 9일 바드메 부근 에티오피아군·에리트레아군 충돌 보도는 확인되지 않음.",
-   "asof": "2026-11-10",
-   "source": "Critical Threats Project(ACLED 인용)",
-   "url": "https://www.criticalthreats.org/briefs/ethiopia-war-security-review/november-10-2026"
+   "status": "ACLED는 11월 15일까지 에리트레아군이 바드메를 다시 장악했다고 보고. 11월 18일 아디 하게라이 서쪽에서 연방군과 티그라이방위군(TDF) 교전, 11월 18~19일 밤 바드메 일대 포격·드론 공격 보도. 북서부 티그라이 지휘소는 11월 17일 통행금지, 5인 이상 집회 금지, 금 채굴 중단을 발표. 상당수 보도는 확인되지 않음.",
+   "asof": "2026-11-20",
+   "source": "Critical Threats Project(ACLED 등 인용)",
+   "url": "https://www.criticalthreats.org/briefs/ethiopia-war-security-review/november-20-2026"
   },
   {
    "type": "감염병",
    "name": "에볼라(분디부교 바이러스) 유행",
-   "where": "콩고민주공화국(우간다 종식, 케냐·나이지리아 확진)",
+   "where": "콩고민주공화국(케냐·나이지리아 확진, 우간다 종식)",
    "countries": [
     "KEN",
     "UGA"
    ],
-   "status": "콩고민주공화국 확진 11,197명·관련 사망 5,471명(11월 11일까지 자료, ECDC가 콩고민주공화국 보건당국 자료 정리), 8개 주 발생. 케냐 확진 9명·사망 2명, 마지막 환자가 11월 11일 퇴원해 42일 종식 확인 기간 시작. 나이지리아 확진 1명은 스위스로 이송. WHO는 11월 11일 전면적 여행 제한 해제를 요청.",
-   "asof": "2026-11-11",
-   "source": "ECDC(11월 13일 갱신)·WHO",
-   "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda"
+   "status": "콩고민주공화국 확진 11,613명·사망 5,678명(11월 17일까지), 8개 주 68개 보건구역 중 48곳에서 전파 중. 케냐 확진 9명·사망 2명, 나이지리아 1명, 두 나라 모두 42일 종식 확인 기간. WHO는 11월 18일 국제공중보건비상사태 유지 결정.",
+   "asof": "2026-11-20",
+   "source": "WHO(DON630, 11월 20일 발표)",
+   "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630"
   },
   {
    "type": "분쟁",
    "name": "수단 분쟁",
    "where": "수단",
    "countries": [],
-   "status": "WFP 사무총장은 재원 감소로 지원 대상이 2026년 8월 400만여 명에서 300만여 명으로 줄었고 약 90만 명이 식량 지원을 받지 못하게 됐으며, 2027년 4월까지 540만 명 지원에 5.2억 달러가 필요하다고 밝힘(11월 12일). 치안 불안·도로 봉쇄·홍수 피해로 구호 물자 전달 지연.",
-   "asof": "2026-11-12",
-   "source": "UN News",
-   "url": "https://news.un.org/en/story/2026/11/1168793"
+   "status": "WFP는 11월 20일 2027년 호소에서 수단을 기근 위험 국가로 들었음.",
+   "asof": "2026-11-20",
+   "source": "The Daily Star(로이터)",
+   "url": "https://www.thedailystar.net/news/world/news/un-cuts-food-aid-target-despite-looming-hunger-crisis-4329206"
   },
   {
    "type": "분쟁",
-   "name": "걸프·호르무즈 해협 선박 공격",
+   "name": "걸프·호르무즈 해협 긴장",
    "where": "걸프·호르무즈 해협 해역, 사우디아라비아",
    "countries": [],
-   "status": "이란군은 호르무즈 해협에서 유조선 4척이 폭발 피해를 입었다고 주장(로이터 확인 안 됨). 예멘 후티는 사우디아라비아 동서 송유관 펌프장, 얀부 시설, 리야드의 아람코 건물을 공격했다고 주장. 미국은 이란에 대한 봉쇄를 이어가고 있음(11월 13일 보도).",
-   "asof": "2026-11-13",
-   "source": "RTÉ(로이터)",
-   "url": "https://www.rte.ie/news/business/2026/1113/1599081-world-oil-prices/"
+   "status": "11월 20일 아시아 거래 시간에 후티의 리야드 공격 보도와 호르무즈 해협 유조선 운항 차질 보도가 나왔고, 로이터는 호르무즈 해협 통과 물동량이 전쟁 이전 수준 가까이 회복됐다고 보도.",
+   "asof": "2026-11-20",
+   "source": "5paisa(로이터 인용)",
+   "url": "https://www.5paisa.com/blog/crude-oil-price-today-20-november-2026"
   },
   {
    "type": "재난",
@@ -212,23 +212,18 @@
  ],
  "calendar": [
   {
-   "date": "2026-11-18",
-   "title": "제33차 APEC 정상회의(중국 선전, 11월 18~19일)",
-   "kind": "회의",
-   "countries": [
-    "VNM",
-    "IDN",
-    "PHL",
-    "PER"
-   ],
-   "url": "https://www.lg.gov.cn/english/news/latestnews/content/post_12588327.html"
-  },
-  {
-   "date": "2026-11-20",
-   "title": "COP31 폐막(튀르키예 안탈리아, 11월 9~20일)",
+   "date": "2026-11-25",
+   "title": "독일 연방하원, 2027년 개발협력부(BMZ) 예산 2차 독회·표결",
    "kind": "회의",
    "countries": [],
-   "url": "https://unfccc.int/cop31/the-road-to-antalya"
+   "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw48-de-entwicklung-1232316"
+  },
+  {
+   "date": "2026-11-27",
+   "title": "독일 연방하원, 2027년 연방 예산 최종 표결",
+   "kind": "회의",
+   "countries": [],
+   "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw46-pa-haushalt-1231890"
   },
   {
    "date": "2026-12-04",

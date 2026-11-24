@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "note": "매일 갱신되는 파일. 항목은 제목·출처·링크·두세 문장 요약만 담고 본문은 싣지 않는다. verified=false는 제목만 확인하고 본문은 읽지 못한 항목.",
   "items": [
+    {
+      "iso3": "EGY",
+      "date": "2026-11-19",
+      "cat": "경제",
+      "title": "IMF, 이집트와 확대금융 마지막 점검 실무진 합의…약 23억 달러 풀릴 예정, 이사회 승인 남아",
+      "summary": "IMF와 이집트는 확대금융(EFF) 8차이자 마지막 점검에 실무진 합의했다. EFF 약 15억 달러와 회복·지속가능성 금융(RSF) 최대 약 8억 달러가 대상이며 집행에는 IMF 이사회 승인이 필요하다. 두 프로그램은 12월 15일 만료되며, 이집트 대통령은 새 IMF 금융을 요청하지 않겠다는 뜻을 밝혔다.",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/business/economy/2026/11/19/imf-reaches-final-deal-with-egypt-as-loan-programme-nears-end/",
+      "why": "프로그램 종료 뒤 재정·환율 정책 방향이 바뀔 수 있어 현지 비용과 환율 가정을 다시 확인할 필요가 있다.",
+      "verified": true
+    },
     {
       "iso3": "SEN",
       "date": "2026-11-19",
@@ -22,6 +33,17 @@
       "source": "N1(AP·Beta 통신)",
       "url": "https://n1info.rs/svet/parlament-mongolije-prihvatio-ostavku-predsednika/",
       "why": "권한대행 체제 동안 정부 간 서명·승인 일정과 상대 기관 담당자가 바뀌는지 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "IDN",
+      "date": "2026-11-18",
+      "cat": "경제",
+      "title": "인도네시아 중앙은행, 기준금리 6.00%로 0.25%p 인상…루피아 방어·물가 선제 대응",
+      "summary": "인도네시아 중앙은행은 11월 17~18일 이사회에서 기준금리를 5.75%에서 6.00%로 올렸고 예금금리는 5.25%, 대출금리는 6.75%가 됐다. 중앙은행은 환율 안정과 2026~2027년 물가 목표(2.5±1%) 유지를 이유로 들었다. 11월 17일 루피아는 달러당 18,245루피아로 10월 말보다 0.66% 약세였다.",
+      "source": "인도네시아 중앙은행(Bank Indonesia)",
+      "url": "https://www.bi.go.id/en/iru/highlight-news/Pages/BI-Rate-Raised-25-bps-to-6.00-percent-Strengthening-Stability,-Supporting-Economic-Growth.aspx",
+      "why": "현지 통화 예산·인건비·조달 단가를 금리·환율 변동에 맞춰 다시 계산할 필요가 있는지 점검해야 한다.",
       "verified": true
     },
     {
@@ -102,6 +124,17 @@
       "verified": true
     },
     {
+      "iso3": "IDN",
+      "date": "2026-11-14",
+      "cat": "정치",
+      "title": "인도네시아 대통령, 광업 허가에서 국가 몫 70% 이상 확보 지시…대통령궁은 지분 70% 의무 아니라고 설명",
+      "summary": "프라보워 대통령은 11월 14일 연설에서 모든 광업 허가의 이익 중 최소 70%가 국가에 돌아가도록 하라고 에너지광물부 장관에게 지시했다. 대통령궁은 이 비율이 허가 운영 수익에 관한 것이며 모든 광산 기업의 지분 70%를 요구하는 것은 아니라고 밝혔다. 시행 시기와 산정 방식은 아직 공개되지 않았다.",
+      "source": "로이터(더스타 전재)",
+      "url": "https://www.thestar.com.my/news/world/2026/11/14/indonesian-president-orders-greater-share-of-mining-benefits-for-the-state",
+      "why": "광업·자원 분야 사업이나 민간 협력 기관이 있다면 후속 규정이 나올 때 계약·협력 구조에 영향이 있는지 확인해야 한다.",
+      "verified": true
+    },
+    {
       "iso3": "UZB",
       "date": "2026-11-14",
       "cat": "경제",
@@ -154,6 +187,17 @@
       "source": "중앙아시아 타임스",
       "url": "https://timesca.com/kyrgyzstan-presidential-election-11-candidates-japarov/",
       "why": "선거 일정 전후로 정부 부처 협의와 현장 일정이 밀릴 수 있어 사업 연간 일정을 확인할 필요가 있습니다.",
+      "verified": true
+    },
+    {
+      "iso3": "BOL",
+      "date": "2026-11-12",
+      "cat": "경제",
+      "title": "세계은행, 볼리비아에 재정 안정·민간투자 개방 위한 5억 달러 예산지원 승인",
+      "summary": "세계은행그룹은 11월 12일 볼리비아에 5억 달러 일반예산지원을 승인했다고 밝혔다. 두 차례로 계획된 지원 중 첫 번째이며 IMF·미주개발은행·안데스개발공사(CAF)와 함께하는 패키지다. 핀테크 규제 정비, 신용 요건 완화, 전력 부문 민간 참여 확대 등 정부가 이미 채택한 조치와 연계된다.",
+      "source": "세계은행(World Bank)",
+      "url": "https://www.bancomundial.org/es/news/press-release/2026/11/12/world-bank-group-approves-us-500-million-to-support-fiscal-sustainability-and-job",
+      "why": "재정·보조금 개혁 이행 속도에 따라 사업 예산 집행과 현지 비용 구조가 달라질 수 있는지 점검해야 한다.",
       "verified": true
     },
     {
@@ -2085,14 +2129,14 @@
   "checked": {
     "NPL": "2026-11-23",
     "GHA": "2026-11-24",
-    "EGY": "2026-11-18",
+    "EGY": "2026-11-25",
     "KHM": "2026-11-19",
     "AZE": "2026-11-19",
     "PAK": "2026-11-20",
     "LAO": "2026-11-24",
     "KGZ": "2026-11-24",
-    "MNG": "2026-11-22",
-    "RWA": "2026-11-22",
+    "MNG": "2026-11-25",
+    "RWA": "2026-11-25",
     "BGD": "2026-11-19",
     "UGA": "2026-11-19",
     "VNM": "2026-11-23",
@@ -2101,8 +2145,8 @@
     "PER": "2026-11-23",
     "PHL": "2026-11-24",
     "ETH": "2026-11-24",
-    "IDN": "2026-11-18",
-    "BOL": "2026-11-18",
+    "IDN": "2026-11-25",
+    "BOL": "2026-11-25",
     "TZA": "2026-11-19",
     "LKA": "2026-11-20",
     "KEN": "2026-11-20",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "note": "매일 갱신되는 파일. 항목은 제목·출처·링크·두세 문장 요약만 담고 본문은 싣지 않는다. verified=false는 제목만 확인하고 본문은 읽지 못한 항목.",
   "items": [
     {
@@ -33,6 +33,17 @@
       "source": "N1(AP·Beta 통신)",
       "url": "https://n1info.rs/svet/parlament-mongolije-prihvatio-ostavku-predsednika/",
       "why": "권한대행 체제 동안 정부 간 서명·승인 일정과 상대 기관 담당자가 바뀌는지 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "BGD",
+      "date": "2026-11-19",
+      "cat": "경제",
+      "title": "방글라데시 11월 1~18일 해외송금 21.3억 달러, 전년 동기 대비 12% 증가",
+      "summary": "방글라데시 중앙은행 최신 자료에 따르면 11월 첫 18일간 해외송금은 약 21.32억 달러로 전년 같은 기간(19.04억 달러)보다 12% 늘었다. 2026/27 회계연도 누계(11월 18일까지)는 135.98억 달러로 12.8% 증가했다.",
+      "source": "The Financial Express (방글라데시 중앙은행 자료)",
+      "url": "https://thefinancialexpress.com.bd/bangladesh/remittance-hits-213b-in-first-18-days-of-nov",
+      "why": "외화 유입 증가가 환율·외환보유액에 미치는 영향을 보고 사업비 환산 기준을 점검할 필요가 있다.",
       "verified": true
     },
     {
@@ -99,6 +110,28 @@
       "source": "Visión 360 · FM Bolivia",
       "url": "https://www.vision360.bo/noticias/2026/11/16/77451-ministro-blanco-bolivia-cumplira-el-compromiso-con-el-fmi-de-acabar-con-la-subvencion-a-los-hidrocarburos",
       "why": "휘발유·LPG 가격 개편 시점이 확정되지 않았으므로 현지 운송·물류비와 연료 수급을 가정한 사업 일정·예산을 재점검해야 한다.",
+      "verified": true
+    },
+    {
+      "iso3": "AZE",
+      "date": "2026-11-16",
+      "cat": "경제",
+      "title": "아제르바이잔 중앙은행 총재 \"달러화 비중 25.2%로 역대 최저\"…10월 말 물가 5.2%",
+      "summary": "중앙은행 총재 탈레 카지모프는 2027년 예산안 1차 심의에서 달러화 비중이 3.3%p 낮아진 25.2%라고 밝혔다. 10월 말 물가는 연 5.2%, 1~10월 GDP 성장률은 1.7%(비석유·가스 2.9%)이며 전략 외환보유액은 886억 달러로 4.1% 늘었다.",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4246921.html",
+      "why": "2027년 예산안과 물가·환율 전망을 확인해 사업비 산정 기준을 점검할 필요가 있다.",
+      "verified": true
+    },
+    {
+      "iso3": "KHM",
+      "date": "2026-11-16",
+      "cat": "경제",
+      "title": "캄보디아·캐나다 정상회담, 무역경제협력·금융정보 교환 양해각서 2건 서명",
+      "summary": "캐나다 총리 마크 카니가 11월 15일 프랑코포니 정상회의 참석을 겸해 프놈펜을 방문했다. 16일 훈 마넷 총리와 회담 뒤 무역경제협력 MOU와 금융정보 교환 MOU를 각각 체결했다.",
+      "source": "The Star (말레이시아)",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/17/cambodia-canada-ink-deals-on-trade-financial-intelligence-exchange",
+      "why": "무역·금융정보 협력 MOU가 송금·자금 이체 절차에 주는 영향을 확인할 필요가 있다.",
       "verified": true
     },
     {
@@ -2130,15 +2163,15 @@
     "NPL": "2026-11-23",
     "GHA": "2026-11-24",
     "EGY": "2026-11-25",
-    "KHM": "2026-11-19",
-    "AZE": "2026-11-19",
+    "KHM": "2026-11-26",
+    "AZE": "2026-11-26",
     "PAK": "2026-11-20",
     "LAO": "2026-11-24",
     "KGZ": "2026-11-24",
     "MNG": "2026-11-25",
     "RWA": "2026-11-25",
-    "BGD": "2026-11-19",
-    "UGA": "2026-11-19",
+    "BGD": "2026-11-26",
+    "UGA": "2026-11-26",
     "VNM": "2026-11-23",
     "SEN": "2026-11-23",
     "UZB": "2026-11-23",
@@ -2147,7 +2180,7 @@
     "ETH": "2026-11-24",
     "IDN": "2026-11-25",
     "BOL": "2026-11-25",
-    "TZA": "2026-11-19",
+    "TZA": "2026-11-26",
     "LKA": "2026-11-20",
     "KEN": "2026-11-20",
     "TJK": "2026-11-20",
